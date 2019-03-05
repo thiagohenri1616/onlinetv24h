@@ -1,5 +1,4 @@
 #EXTM3U size="big"
 
-#EXTINF:0 type="playlist" tvg-logo="",Episódio 102/05/2017
-#EXTBG:
+#EXTINF:-1 type="video"  description="720p",Episódio 1
 https://1fiag09.oloadcdn.net/dl/l/D4-5pDxlbCUxEVBV/iNVoYBSJP3w/La.Casa.de.Papel.S01E01.Dub.cinethd.com.mp4?mime=true
