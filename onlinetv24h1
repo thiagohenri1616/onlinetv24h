@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2ec93d3819dc18fd81ef9bcf45ab367d",HBO Signature
+http://189.124.229.226:9981/stream/channelid/943573294?ticket=643415CEAC17B1510605FAC655BA3058543C5544&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="ca8b3f731d5d45d6b4accf733bc996cf",HBO Signature
+http://189.124.229.226:9981/stream/channelid/1933544394?ticket=1BAFF61E612AA1FA371FF6B459BD1876DAE860AF&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="64c5b5bbf3128f14ac97df0343bc8962",MAX UP
+http://189.124.229.226:9981/stream/channelid/1001768292?ticket=2203982F6318C954132D1B4E1D756F4ACEEDC4CA&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="cfa862fa3b82321165905dfa4078489b",MAX UP
+http://189.124.229.226:9981/stream/channelid/2053286095?ticket=67ECD7A1B47F43D0DE42C5FB3290410FDD14FD19&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="81e79be4c0fbb995528a824ae8858c46",MAX
+http://189.124.229.226:9981/stream/channelid/1687938945?ticket=E2BD0F1781DA4A7AC39B5A1B09272AC755802738&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="a1da50f6b2b71e10c0eff359a58e97d2",MAX
+http://189.124.229.226:9981/stream/channelid/1985010337?ticket=EBD004801A228EC6804073E0FB34CFE40C30C779&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="384454b60a56eaec05b6e1b9020bae50",MAX Prime
+http://189.124.229.226:9981/stream/channelid/911492152?ticket=22D322D3C3AAE0BEF8F3DE063354AE37824D12B0&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="5e3122c290b700690a4a682f15c343cb",MAX Prime
+http://189.124.229.226:9981/stream/channelid/1109537118?ticket=86826052D449EB6B1EA7F504512ED93C7C4BB141&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="54f1345f85705d1847e6ca114b54b4b2",Terra Viva
+http://189.124.229.226:9981/stream/channelid/1597305172?ticket=C8AF0FA49E73C833142F798630A58369E1E74040&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="1f5117f9d7a233cc86f5d5ba467977cc",Terra Viva
+http://189.124.229.226:9981/stream/channelid/2031571231?ticket=AE9B0EF94FE93409E6DB35285C413AD3A627B820&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="39af8d833118cf4db6863ec6d149277f",TV Novo Tempo
+http://189.124.229.226:9981/stream/channelid/59617081?ticket=5A8A7CCD22B5A49A51B3962FB49AB1B34D3D07A0&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="2501d23a0e85a8e0a08850c216c618a5",TV Novo Tempo
+http://189.124.229.226:9981/stream/channelid/986841381?ticket=42874943043ED5F3C35992A20F150CB2519A74F2&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="4ea811140d5a143b33c225517a18f93b",Canal Rural
+http://189.124.229.226:9981/stream/channelid/336701518?ticket=F583517BBF449EAF53146E0A38931649E179C172&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="fcba483bc3b5e78bd12b82a3a68f5839",Canal Rural
+http://189.124.229.226:9981/stream/channelid/994622204?ticket=77C707068127686C5A76A1B1A93B792712E1244D&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="b8de903f4f6adbbe74a305158e5e0a0f",Canal do Boi
+http://189.124.229.226:9981/stream/channelid/1066458808?ticket=9AA1232C849C36FF0BC13C4E44A743B6E096422C&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="d42d3eceeb5290427ccfd3d9fc196c57",Canal do Boi
+http://189.124.229.226:9981/stream/channelid/1312697812?ticket=E385F9214B330853EBEB26C071749BC43201C5A0&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="95b62ea6e62da3797166bbfeefd34f66",Boa Vontade TV
+http://189.124.229.226:9981/stream/channelid/640595605?ticket=7E7F95E5FF3743C87E1B8CBB102829C2A3EFDDBE&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="5c99e429d451cf3b09dbe0b80e911d77",Boa Vontade TV
+http://189.124.229.226:9981/stream/channelid/702847324?ticket=AE63922D965A71D6180DC4FCD609ED74657D9F12&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="1c3f9a390123c7e5fbd6b7d233121163",CNN Internacional
+http://189.124.229.226:9981/stream/channelid/966410012?ticket=D167BB183033CDEC3C0611FC83E364CB4A56FFAF&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="54a13be51dabd7c292dd38279cd8063b",CNN Internacional
+http://189.124.229.226:9981/stream/channelid/1698406740?ticket=925828A4750093A004B05D98B4328100787F8952&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="2592d0546c9c6974649005e2c5a3bae7",RAI
+http://189.124.229.226:9981/stream/channelid/1422955045?ticket=3FF7D05E2135CB9D2E8308A3E325397E08285B7F&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="78c9a4643f86a37337c3d14a57670cc0",RAI
+http://189.124.229.226:9981/stream/channelid/1688521080?ticket=C374828C798CA9FCDA0296549D2161EB042B95A3&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="9c6b44ab2808619cb4b30ff573c75c7d",TV5 Monde
+http://189.124.229.226:9981/stream/channelid/725904284?ticket=ECCA3754E83F36EA80AECAF766B66B4E3B08C780&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="b770d8c999c15624e566521c2c8bf602",TV5 Monde
+http://189.124.229.226:9981/stream/channelid/1238921399?ticket=A68DF47DDBB116E7558022019D657E95ABBB12CB&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="fce817a0e1ff299a9ec71e0d78c1fe4d",TVE
+http://189.124.229.226:9981/stream/channelid/538437884?ticket=8D2814B2CF16337AA5658623D779566D482A7736&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="b699ad32b24f7cedc79fee70a31a3a23",TVE
+http://189.124.229.226:9981/stream/channelid/850237878?ticket=E070AB5E5948ABC5A5BC8AAA4C346F905A4F0FD5&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="2ce66bc7dba6ee20e9bf033612764079",DW (Deutsch+)
+http://189.124.229.226:9981/stream/channelid/1198253612?ticket=5EA647303A633F8823AA1384352BFF437A2DA309&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="4c84e0ee42bf060f744ee17720ccb00c",DW (Deutsch+)
+http://189.124.229.226:9981/stream/channelid/1860207692?ticket=AB631559FCCF6D16E94D106C5F0B615CD8F410A9&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="863a29ab764e0c3836d0a4eb1c4a02d0",NHK
+http://189.124.229.226:9981/stream/channelid/724122246?ticket=6BF0A7817F701FDEE3C66B29864C8FCF28C45675&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="5881acf5516034b50e6913583ae2162a",NHK
+http://189.124.229.226:9981/stream/channelid/1974239576?ticket=CF20E6B789BEEEDAE09B64DDFAF3ACC1F27192CF&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="609bc55f8372c78e832098bd33ff1896",SIC Internacional
+http://189.124.229.226:9981/stream/channelid/1606785888?ticket=FD88DBEDA9E3510D9BB955B75B11C571BCCB3182&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="bd7d60f383f7d96eb378405fbe6d0e3f",SIC Internacional
+http://189.124.229.226:9981/stream/channelid/1935703485?ticket=FCA7AEFACAE48530DDAF578CCCD762BA6B696D52&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="18f9e756a1bf15789f93f9b711e8d5ca",CNN Espanhol
+http://189.124.229.226:9981/stream/channelid/1458043160?ticket=34C6FB06AF31E8546A3F56655BA777EC736D3A51&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="b51badf2916c863fb7eea7f0a9d29d4c",CNN Espanhol
+http://189.124.229.226:9981/stream/channelid/1923947445?ticket=97A4012634261BB21D8E496FFC574A3ACAE916C1&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="a5cfd21d771531c6b7114f840a98fb74",Premiere Clubes
+http://189.124.229.226:9981/stream/channelid/500354981?ticket=6EA875F2D419768B91D9B6E6A1B2E90ACB99B4C1&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="45fb2ef0a49e0c06e8c570f0f78866ad",Premiere Clubes
+http://189.124.229.226:9981/stream/channelid/1882127173?ticket=008B5D3E1588DE18928FA2C1722F798D6F0F4CFD&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="9f482e6de7dfb67fe0b769498a55b6b3",Premiere 2
+http://189.124.229.226:9981/stream/channelid/1831749791?ticket=835096AD95D769011FA200264CE8F6A83C1441BC&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="c3eeeff5002ddf629f6add34c7beaf31",Premiere 2
+http://189.124.229.226:9981/stream/channelid/1978658499?ticket=B84EF7AC98EE23DF2BD1CDFF5385C020AC6A1504&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="6754dc09c419b98918904ab6b75b0b78",Premiere 3
+http://189.124.229.226:9981/stream/channelid/165434471?ticket=068D1A108A7705FA30E47239FE0D1AE85F98307B&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="d05d7442a57f4e07d2704164e37ce2a2",Premiere 3
+http://189.124.229.226:9981/stream/channelid/1114922448?ticket=14C011BC702F00593FCD19611446A40375CEE6ED&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="d4118837d9c0bcd14c1fa0b72cc018db",Premiere 4
+http://189.124.229.226:9981/stream/channelid/931664340?ticket=FAD81E811C249EF3D0CDCBB652C46BA08C9C0ED9&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="b4a1edc00b8678a83c37e4667ada3962",Premiere 4
+http://189.124.229.226:9981/stream/channelid/1089315252?ticket=71A3D57D5EFF235C8BA687E3C2150F409EF52F1F&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="97835faa9f46f42def36b4e1cde103a3",Premiere 5
+http://189.124.229.226:9981/stream/channelid/710902679?ticket=519F29447EAAC94C2341352EBD4DC25719392945&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="204ccb6ab9233649be55954e9cf7a73c",Premiere 5
+http://189.124.229.226:9981/stream/channelid/1791708192?ticket=6E7315CACD5D82CDE2E26B1885A568301F95A0C2&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="0352429723821e5c105736dbf966253d",Premiere 6
+http://189.124.229.226:9981/stream/channelid/390222339?ticket=AEC70C0BD148A962188D1D8A8580F12746A2B395&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="95da2a1e35626ea1345ab9d15e4fea42",Premiere 6
+http://189.124.229.226:9981/stream/channelid/506124949?ticket=F23498D9AFD896171D414F8573227121A9C94911&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="bb79496c0ce5f1bf7d6f473932e8cf22",Premiere 7
+http://189.124.229.226:9981/stream/channelid/1816754619?ticket=C78ED0872B9F6D5B99554A6C706E7BAF11A9A8D3&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="c805b8f53962157bd95be054eef54a6e",Premiere 7
+http://189.124.229.226:9981/stream/channelid/1974994376?ticket=B5982CC1DE9D582E6B940AE88C5748B90DC629EA&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="26b29d18ad62ca6e9c6837fd46d32f16",Premiere 8
+http://189.124.229.226:9981/stream/channelid/412987942?ticket=4592960C190B1EC61E9B6DEFDEABB16F30A4E42C&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="775488ee1318ab2cc7671aff5f7cba09",Premiere 8
+http://189.124.229.226:9981/stream/channelid/1854428279?ticket=B67AB9482CBC0E199132A75475BFF04A3667FDEB&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="375f5bd7b4fb925e98632c3582c6685c",Premiere 9
+http://189.124.229.226:9981/stream/channelid/1465605943?ticket=C4E4567F2673A49D53E428AB01E9E6EDF4C8B548&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="00c173771b973f37e4704950f1181ede",Premiere 9
+http://189.124.229.226:9981/stream/channelid/2004074752?ticket=8C3AA4C373DADBE0504A7ECB815F32E47E29FC2F&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="276eb00d9e2c7b2c25f706bb58e67037",Combate
+http://189.124.229.226:9981/stream/channelid/229666343?ticket=598D3CD38D3F58B29C2EBA4A3AE12247D0D6B98C&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="3422b199c7570cc26bb09646ef59ebc2",Combate
+http://189.124.229.226:9981/stream/channelid/431039028?ticket=B508C35F42EAF4826B1549ECE0EC3F3DBAF88C05&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="e1040388ef04499c9b0dc95ce4342b06",TVTEC
+http://189.124.229.226:9981/stream/channelid/134415585?ticket=2B875D0903A39D31031A974E23152397638A7AE5&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="1978511c63ff438262c13a3a774e7762",TVTEC
+http://189.124.229.226:9981/stream/channelid/475101209?ticket=47BB2A3DEAC8137A598BFD3BB46260BA3D5E5A51&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="7766cf184417a406950055947e571b12",Playboy TV
+http://189.124.229.226:9981/stream/channelid/416245367?ticket=6812871C991B707E1001AB55E722B8490F97E245&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="b527cbe3854063bde016f0ebdfa0ef81",Playboy TV
+http://189.124.229.226:9981/stream/channelid/1674258357?ticket=25198A3C532238A0AA1B17CFCC37A15B6F47B7DA&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="2ee6ee9987bf7cf93d79aad657eecc2b",Sextreme
+http://189.124.229.226:9981/stream/channelid/435086894?ticket=B35590AE7FF836A82BF4B49D7C52CBF06AC0C260&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="e95971d7abeeea96025ad9c6c5374cf1",Sextreme
+http://189.124.229.226:9981/stream/channelid/1467046377?ticket=BB68C0FD303B20D41EFB060010A35D7CF9DC9444&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="7e79dc45f46da040f0332ba60abc7079",Sexy Hot
+http://189.124.229.226:9981/stream/channelid/1172076926?ticket=A2ED47F3D03063B12EEE733D7584CFBED81691A3&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="d2bcec7a681276361cd6e96bc930dafd",Sexy Hot
+http://189.124.229.226:9981/stream/channelid/2062335186?ticket=003D527AE7921FF24F3042B41333C5D7F2AFC720&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="55ba65637f017ebd159985af9631679e",TNT Alternativo
+http://189.124.229.226:9981/stream/channelid/1667611221?ticket=16D672B73038575DEF8C01994EACB038953B0DE1&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="22b0aceaa7afc588992eff38438c0c2c",TNT Alternativo
+http://189.124.229.226:9981/stream/channelid/1789702178?ticket=495D7FAC64307BFBD45C59B0F56B1744296C9896&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="4c9a9322c72fe4804d15070992779183",TVEXEC
+http://189.124.229.226:9981/stream/channelid/580098636?ticket=9000D57647A4632937BD3FE04D2079A44E07ABA5&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="971a444aebabb0806e1e1d41f644e5b9",TVEXEC
+http://189.124.229.226:9981/stream/channelid/1245977239?ticket=8D0D574B121D0DE68ABEE6008000DDF29672A80B&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="ce1e4b0aca4044313ca964003ff57b73",SporTV 2 Alternativo
+http://189.124.229.226:9981/stream/channelid/172695246?ticket=8EBD6197C6EC29C9BA6DB1D414FF0AFE08C3B6D5&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="ede2cb10a45a629765b9563dc588e009",SporTV 2 Alternativo
+http://189.124.229.226:9981/stream/channelid/281797357?ticket=F010459155765DE66BCFE612F585404F618D751F&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="151fbd09e962925fc28d54fa39870776",SporTV Alternativo
+http://189.124.229.226:9981/stream/channelid/163389205?ticket=A59539B93030EBC4754264C55C62F749FB2BE5DD&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="d54418520f1838132b8f5f6513689973",SporTV Alternativo
+http://189.124.229.226:9981/stream/channelid/1377322197?ticket=88A13BBD7ED29C9095A7A6A0904F58A8ED49B9EC&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="91e28f856d76aefc9e2b74482e396736",Polishop TV
+http://189.124.229.226:9981/stream/channelid/93315729?ticket=692E5EB7962D9CF23C192E1D7A460E0D800B9D0F&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="e6f341d6001d3ba0b5a0bd2d9111241c",Polishop TV
+http://189.124.229.226:9981/stream/channelid/1447162854?ticket=ABC635CE0F66FAB769C23F5981EEA19BC226CEFE&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="fe89d903a4beb19137e5ef6914fee33a",TV Novo Tempo
+http://189.124.229.226:9981/stream/channelid/64588286?ticket=B3BCE5878FF1DA5554B95CA1D50714233DF0A6F0&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="dede6d5f938efa37d49f825bf6a2ae81",TV Novo Tempo
+http://189.124.229.226:9981/stream/channelid/1601035998?ticket=AC8C1635D3895AC14E6B7901C84B41B5364CA449&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="4b5ad9c1b30128102ab6982544ba00e0",Boa Vontade TV
+http://189.124.229.226:9981/stream/channelid/1104763467?ticket=BBFFAB2A4E3577BC61EF1CF5642AA8BE318192C0&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="d2c689fff79b1b77385af83b5d7c7b3f",Boa Vontade TV
+http://189.124.229.226:9981/stream/channelid/2139735762?ticket=23E94B9BE69A078093AD0E9ABA930AC3E7F26FBE&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="cbe10917f2e040442ef9aef0482e6aff",Globo SP
+http://189.124.229.226:9981/stream/channelid/386523595?ticket=F9CAB133ABD766F954031DB45E64372B96E106CD&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="4059eb45e91230916acda4d317391d77",Globo SP
+http://189.124.229.226:9981/stream/channelid/1173051712?ticket=C09973337F80012D5956694247A0F85EB8393812&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="c6629393fba24ad298143009963010c0",Globo RJ
+http://189.124.229.226:9981/stream/channelid/328426182?ticket=0A443CD4DD6CDA1164E0D58079EBF33D9A0D9E18&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="ca595e6ba9e018ed73a3d3c779682659",Globo RJ
+http://189.124.229.226:9981/stream/channelid/1801345482?ticket=AAD95C3058EA3880788519C1765E54A64AD7DE1A&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="47dd29005e897d6960462bd2b49cd23e",Globo Minas
+http://189.124.229.226:9981/stream/channelid/2743623?ticket=2270469B9BD94DA2EDBD73041CCDF3661CA2B0F5&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="273c08f08447970fe4ec26290b6e338f",Globo Minas
+http://189.124.229.226:9981/stream/channelid/1879587879?ticket=39B1F81F3AF56A99379B3D617B1D4985FC2435FB&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="c957bb1bcf0cd0b4583c591ea03001e1",TV Verdes Mares Fortaleza
+http://189.124.229.226:9981/stream/channelid/465262537?ticket=10CF1C0D0B6F3966D26A3B8F77EE1D2EDA1435A8&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="c13a8ed05bfe20f4bc889ddda32f5ec8",TV Verdes Mares Fortaleza
+http://189.124.229.226:9981/stream/channelid/1351498433?ticket=B6DE6EBA75E692C7FFC126AF8D579A4DFA4E1F61&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="0f7e7d11579aebde5e4a109ac03c31b7",RBS TV Porto Alegre
+http://189.124.229.226:9981/stream/channelid/293436943?ticket=DB09278888974B6A79DAAE58617DB59C7C30F592&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="5a512b9e6fab094db733a8d0d92dc1d7",RBS TV Porto Alegre
+http://189.124.229.226:9981/stream/channelid/506155354?ticket=E9092FA06F920235D8E9CCB2D85D7C1BB6F877B9&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="7c5fa1b1db9fd11b62a348a17868e73d",Globo Nordeste
+http://189.124.229.226:9981/stream/channelid/832659324?ticket=F7384FBF573CBF7BC9FE95D29913A32641443C0A&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="56d32ac07fd447788299a3b33df103f4",Globo Nordeste
+http://189.124.229.226:9981/stream/channelid/1076548438?ticket=E0B606AC6B0A38F2B0E0B9F96F7A6E466774477F&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="b0a67fc7d6f7f04caf6505d105dacf15",EPTV Campinas
+http://189.124.229.226:9981/stream/channelid/1199548080?ticket=298094662E51EF72E74ECF45AF75040FCD8288DF&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="a646d0f7a9a4b7a50dec5ebefa6efa90",EPTV Campinas
+http://189.124.229.226:9981/stream/channelid/2010138278?ticket=F033E3FA09AACC5B7E0F3A07957F28E0FB0BF877&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="36c5674092085094326b5875c249a7a4",TV Liberal Belém
+http://189.124.229.226:9981/stream/channelid/1080542518?ticket=C470C3F2BD68A199CA622F6AE96318C92EAA3CE4&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="b1b9f6e7baa8f16c4387eb8da9a39e73",TV Liberal Belém
+http://189.124.229.226:9981/stream/channelid/1744222641?ticket=70D4DE5ADCF29A8D4E2198D4CB363A4487D6EB1E&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="ebe026a26267b9fff5b02bae4ade93ac",RPC TV Curitiba
+http://189.124.229.226:9981/stream/channelid/572973291?ticket=D8C6F65E6D193F729B9796C1A830D65E7A960898&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="78e9c7b16719a5616d628581bca56dc8",RPC TV Curitiba
+http://189.124.229.226:9981/stream/channelid/835185016?ticket=0F812EE029F0208192BDB9AD460B5DE831F77089&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="05af90b3a8507a1c352cae8a1db4cdf9",Inter TV Cabugi
+http://189.124.229.226:9981/stream/channelid/865120005?ticket=C7DE44F83F9A8854F4113E6133536E936C43FC09&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="7d79b0c9dad14e7e8c1186b15fad6add",Inter TV Cabugi
+http://189.124.229.226:9981/stream/channelid/1236302205?ticket=61A1D1FADA058C050DD2AE056523D816032DB8AF&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="9b93d390d5ad3a8ac41e76ecb128f823",TV Anhanguera Goiânia
+http://189.124.229.226:9981/stream/channelid/282301339?ticket=7F037FF0E5A9D57B7D2A2569CAEAF455C1FDD6F8&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="34799a691a53c6f502de753599940c57",TV Anhanguera Goiânia
+http://189.124.229.226:9981/stream/channelid/1771731252?ticket=3D5822E6A225952371FA3FB3D3F9CCB520DB12CC&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="58172850b00bfaae951950c0c7af8c67",Globo Brasília
+http://189.124.229.226:9981/stream/channelid/1344804696?ticket=19113A8B652C2D42229584A8F7C5F3C9520A4E8C&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="8eeef7e29d4221c63be3c8a704847c6f",Globo Brasília
+http://189.124.229.226:9981/stream/channelid/1660415630?ticket=C2E120565E1270A4C16511633B06F8254D779966&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="2497ac3510b59c216ecc8784b5234476",TV Tem São José do Rio Preto
+http://189.124.229.226:9981/stream/channelid/900503332?ticket=5E2D303F7282438841E0AA400EE1A1F3E1072FEA&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="16ebd06e4d47b59b76182bdf19da0a6a",TV Tem São José do Rio Preto
+http://189.124.229.226:9981/stream/channelid/1859185430?ticket=840060802BD8FD88B978EC63BDD590209815A514&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="b6d645113235b428138a4f552e607881",EPTV Ribeirão Preto
+http://189.124.229.226:9981/stream/channelid/289789622?ticket=D6C9AAD4A23F9CD224E075F0A8AE8817893DA60C&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="8355ca11be3edfbf2891784a4bc4a390",EPTV Ribeirão Preto
+http://189.124.229.226:9981/stream/channelid/298472835?ticket=71D1DE5056A78CB7F45488D33F671217C84E0556&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="31bf4594a5847eeeac9a372d0f40fe70",TV Tem Bauru
+http://189.124.229.226:9981/stream/channelid/340115249?ticket=4165D61160B58F5E3C966577EDC8EFF4E26FF078&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="9301c345bd1f9e8a47c79162243e49d3",TV Tem Bauru
+http://189.124.229.226:9981/stream/channelid/1170407827?ticket=87A6776DDC3DDD3A373281EEA9AF1E759CB38196&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="dd52f73efa319f4be58955ec704fe8af",TV Centro América Cuiabá
+http://189.124.229.226:9981/stream/channelid/1056395997?ticket=21C0E84C0C51188C83AB1F847C68E80BBEF2560F&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="f9d0de6d2aaf9e7c5ed38e509085b154",TV Centro América Cuiabá
+http://189.124.229.226:9981/stream/channelid/1843319033?ticket=3754E8A725BD674FC195ACBDC81ECCA05940F0C4&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="d9932600025f77ec0873fdd6de60610c",Rede Amazônica Manaus
+http://189.124.229.226:9981/stream/channelid/2528217?ticket=721F879F265682C3EF7F033ABBE43900A4E48549&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="ef61ff7db93334fdaa22ecd4c7cdb530",Rede Amazônica Manaus
+http://189.124.229.226:9981/stream/channelid/2113888751?ticket=53654CAC9A27606A9FFD613CB32FCA0158625902&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="12f7912cde65081b96a95ac26a55ab07",TV Tem Sorocaba
+http://189.124.229.226:9981/stream/channelid/747763474?ticket=74A5B64774C9F17B1739EA2AF3F6C2108BA801F9&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="78e9182d144fbb47b05bca94fdaef9fa",TV Tem Sorocaba
+http://189.124.229.226:9981/stream/channelid/756607352?ticket=87E2A574BDBBE330C6A7146B18935B7787FC4A44&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="80d8409c6f5fe4a80e9a54b6af9cf268",TV Tribuna Santos
+http://189.124.229.226:9981/stream/channelid/474011776?ticket=166781DC25C7DC2319B3D1224BD4A683BBB63461&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="408b1f66569dd512313d7daef016a55a",TV Tribuna Santos
+http://189.124.229.226:9981/stream/channelid/1713343296?ticket=17A1BCD1FB61FFBADF738A0DE8C95AA1E5305503&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="9fe9ed84cde18e39e7124e5fd12b82f7",EPTV São Carlos
+http://189.124.229.226:9981/stream/channelid/82700703?ticket=150D9479B939D5B8D6647DFBFB9C21AA5C861A68&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="95cc828ab368c173754d22fdbc527e84",EPTV São Carlos
+http://189.124.229.226:9981/stream/channelid/176344213?ticket=6F93038B451795996DD38888E3443A2093EB2801&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="7cbabc6dd5adbe33043673359268899f",TV Vanguarda S. J. dos Campos
+http://189.124.229.226:9981/stream/channelid/1841085052?ticket=D138529A20A6A5B871633DB7C9F3F6CC7D37FAD0&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="c2251c731df69bd94bca076ffc49f755",TV Vanguarda S. J. dos Campos
+http://189.124.229.226:9981/stream/channelid/1931224514?ticket=757C87F8A8449D79EFE90ED0154C8E5E3E45FB61&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="ce162e25fa059d8e89ba464d7549942a",TV Bahia
+http://189.124.229.226:9981/stream/channelid/623777486?ticket=006F0967A9ECBC03F79840713A45CD5CC752306A&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="3c02e2dc073019668cf2fb5f570d8ee8",TV Bahia
+http://189.124.229.226:9981/stream/channelid/1558315580?ticket=5DAEA6C02575AF5D42FB89685B0AE3F14A82FA04&profile=webtv-h264-aac-mpegts
