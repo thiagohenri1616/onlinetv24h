@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="64245a52a5ee2191efaf722cea9441fc",39 : SporTV
-http://3.14.3.87:9981/stream/channelid/1381639268?ticket=1D8AA29F9070B90553C20595F2FE0815ED709AC1&profile=webtv-h264-aac-mpegts
