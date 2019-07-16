@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal-ae.png" group-title="Canais de Filmes e Séries",A&E HD
+http://login.iptvcompany.org:80/S1/2574/4264
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/AMC_logo_2013.png" group-title="Canais de Filmes e Séries",AMC HD
+http://login.iptvcompany.org:80/S1/2574/4260
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/animalplanet.png" group-title="Canais de Entretenimento",Animal Planet HD
+http://login.iptvcompany.org:80/S1/2574/3986
+#EXTINF:-1 tvg-id="" tvg-name="Arte1 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/30wpabn.jpg" group-title="Canais de Entretenimento",Arte1 HD
+http://login.iptvcompany.org:80/S1/2574/4255
