@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/combate123.jpg" group-title="Canais de Esportes",Combate HD
+http://login.iptvcompany.org:80/S1/2574/4110
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="Canais de Entretenimento",Discovery Civilization FHD
+http://login.iptvcompany.org:80/henrique/1234/3870
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H FHD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/heh.jpg" group-title="Canais de Entretenimento",Discovery H&H FHD
+http://login.iptvcompany.org:80/henrique/1234/3869
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="Canais de Entretenimento",Discovery Science HD
+http://login.iptvcompany.org:80/S1/2574/3975
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" group-title="Canais de Entretenimento",Discovery Theater HD
+http://login.iptvcompany.org:80/S1/2574/3973
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/TURBO-Logo-white_0.png" group-title="Canais de Entretenimento",Discovery Turbo HD
+http://login.iptvcompany.org:80/S1/2574/3970
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dwords.png" group-title="Canais de Entretenimento",Discovery World HD
+http://login.iptvcompany.org:80/S1/2574/3968
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/2015_Disney_Channel_logo.svg.png" group-title="Canais para Crianças",Disney Channel HD
+http://login.iptvcompany.org:80/marcelo/1234/4034
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/disneyjunior1.jpg" group-title="Canais para Crianças",Disney Junior HD
+http://login.iptvcompany.org:80/marcelo/1234/4029
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/xddi12.jpg" group-title="Canais para Crianças",Disney XD HD
+http://login.iptvcompany.org:80/marcelo/1234/4024
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Brasil 1" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dazn.jpg" group-title="Canais de Esportes",DAZN Brasil 1
+http://login.iptvcompany.org:80/nicolas/1234/4100
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Brasil 2" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dazn.jpg" group-title="Canais de Esportes",DAZN Brasil 2
+http://login.iptvcompany.org:80/nicolas/1234/4099
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/2jcag5x.jpg" group-title="Canais de Esportes",Esporte Interativo HD
+http://login.iptvcompany.org:80/henrique/1234/4098
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" group-title="Canais de Filmes e Séries",Fox Premium 1 HD
+http://login.iptvcompany.org:80/marcelo/1234/4234
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" group-title="Canais de Filmes e Séries",Fox Premium 2 HD
+http://login.iptvcompany.org:80/marcelo/1234/4233
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports 2 HD
+http://login.iptvcompany.org:80/bruno/1234/4071
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports HD
+http://login.iptvcompany.org:80/bruno/1234/4074
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Abertos",Globo Inter TV Cabugi SD
+http://login.iptvcompany.org:80/henrique/1234/4327
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Abertos",Globo Nordeste HD
+http://login.iptvcompany.org:80/henrique/1234/4336
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Abertos",Globo RJ HD
+http://login.iptvcompany.org:80/nicolas/1234/4345
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Abertos",Globo SP HD
+http://login.iptvcompany.org:80/nicolas/1234/4349
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/74e4a5f0ba3ea11e0b9715260014.png" group-title="Canais para Crianças",Gloobinho HD
+http://login.iptvcompany.org:80/nicolas/1234/4016
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/H2_1.png" group-title="Canais de Entretenimento",H2 HD
+http://login.iptvcompany.org:80/bruno/1234/3946
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais de Filmes e Séries",HBO 2 HD
+http://login.iptvcompany.org:80/bruno/1234/4224
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais de Filmes e Séries",HBO Family HD
+http://login.iptvcompany.org:80/bruno/1234/4221
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais de Filmes e Séries",HBO HD
+http://login.iptvcompany.org:80/bernardo/1234/4227
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais de Filmes e Séries",HBO Plus HD
+http://login.iptvcompany.org:80/bernardo/1234/4218
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais de Filmes e Séries",HBO Signature HD
+http://login.iptvcompany.org:80/bernardo/1234/4215
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/megapix-claro-tv.png" group-title="Canais de Filmes e Séries",Megapix HD
+http://login.iptvcompany.org:80/bernardo/1234/4203
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/800px-Multishow_logo-laranja.png" group-title="Canais de Entretenimento",Multishow HD
+http://login.iptvcompany.org:80/bernardo/1234/3929
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/resize1_NGKidsAssets.ai-01.png" group-title="Canais para Crianças",NatGeo Kids HD
+http://login.iptvcompany.org:80/heitor/1234/4014
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Nat+geo+wild.png" group-title="Canais de Entretenimento",NatGeo Wild HD
+http://login.iptvcompany.org:80/heitor/1234/3924
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/ngc.png" group-title="Canais de Entretenimento",National Geographic HD
+http://login.iptvcompany.org:80/heitor/1234/3921
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/nickjr12.png" group-title="Canais para Crianças",Nick Jr HD
+http://login.iptvcompany.org:80/heitor/1234/4011
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/818.png" group-title="Canais para Crianças",Nickelodeon HD
+http://login.iptvcompany.org:80/heitor/1234/4008
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="Canais de Filmes e Séries",Paramount Channel HD
+http://login.iptvcompany.org:80/anthony/1234/4200
+#EXTINF:-1 tvg-id="" tvg-name="Playboy HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/playbopy.png" group-title="Canais Adultos",Playboy HD
+http://login.iptvcompany.org:80/anthony/1234/3916
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere Clubes HD
+http://login.iptvcompany.org:80/lucca/1234/4144
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 2 HD
+http://login.iptvcompany.org:80/anthony/1234/4140
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 3 HD
+http://login.iptvcompany.org:80/anthony/1234/4135
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 4 HD
+http://login.iptvcompany.org:80/anthony/1234/4129
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 5 HD
+http://login.iptvcompany.org:80/lucca/1234/4125
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 6 HD
+http://login.iptvcompany.org:80/lucca/1234/4121
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 7 HD
+http://login.iptvcompany.org:80/lucca/1234/4117
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Sextreme.png" group-title="Canais Adultos",Sextreme HD
+http://login.iptvcompany.org:80/lucca/1234/3908
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Sexy-Hot.png" group-title="Canais Adultos",Sexy Hot HD
+http://login.iptvcompany.org:80/martins/1234/3905
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal-Space.jpg" group-title="Canais de Filmes e Séries",Space HD
+http://login.iptvcompany.org:80/martins/1234/4194
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/339732.jpg" group-title="Canais de Esportes",SporTV HD
+http://login.iptvcompany.org:80/martins/1234/4067
+#EXTINF:-1 tvg-id="" tvg-name="SporTV2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/3397322.jpg" group-title="Canais de Esportes",SporTV2 HD
+http://login.iptvcompany.org:80/martins/1234/4063
+#EXTINF:-1 tvg-id="" tvg-name="SporTV3 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/339732333.jpg" group-title="Canais de Esportes",SporTV3 HD
+http://login.iptvcompany.org:80/martins/1234/4059
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais de Filmes e Séries",Telecine Action HD
+http://login.iptvcompany.org:80/mateus/1234/4180
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult  HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais de Filmes e Séries",Telecine Cult  HD
+http://login.iptvcompany.org:80/mateus/1234/4177
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais de Filmes e Séries",Telecine Fun HD
+http://login.iptvcompany.org:80/mateus/1234/4174
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais de Filmes e Séries",Telecine Pipoca HD
+http://login.iptvcompany.org:80/mateus/1234/4171
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais de Filmes e Séries",Telecine Premium HD
+http://login.iptvcompany.org:80/mateus/1234/4168
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais de Filmes e Séries",.Telecine Touch HD
+http://login.iptvcompany.org:80/severino/1234/4165
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tnt12.jpg" group-title="Canais de Filmes e Séries",TNT HD
+http://login.iptvcompany.org:80/severino/1234/4162
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tntseiees.png" group-title="Canais de Filmes e Séries",TNT Series HD
+http://login.iptvcompany.org:80/severino/1234/4158
+#EXTINF:-1 tvg-id="" tvg-name="Venus HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/218-2180558_canal-venus-logo-venus-canal.png" group-title="Canais Adultos",Venus HD
+http://login.iptvcompany.org:80/severino/1234/3896
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Warner-azul.png" group-title="Canais de Filmes e Séries",Warner Channel HD
+http://login.iptvcompany.org:80/severino/1234/4151
