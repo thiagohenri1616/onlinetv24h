@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/pracanossa.jpg" tvg-id="571993b8765fd54b9102716a1c656f97",A Praca e Nossa 24 horas
 http://onlinetv24h.dyndns.tv:9981/stream/channelid/949164375?ticket=C35BB57B3871EF4E9043F28C98225E251B29E0E3&profile=pass
 #EXTINF:-1 tvg-id="e2cc698c27b877508c96161997494e31",A&E
