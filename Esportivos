@@ -1,0 +1,136 @@
+#EXTINF:-1 tvg-id="52a7ef9c09de5c2d493c9b018c1b1a7a",SporTV 3
+http://186.236.211.198:9981/stream/channelid/485467986?ticket=C9B5A20E6502754B701C7534CF1B04BEF5A8417A&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="c58225d30e19b263d6f74e4c722af4ff",SporTV 3
+http://186.236.211.198:9981/stream/channelid/1394967237?ticket=F6BA6A3516D500CFE759E620169C715F78DE25E9&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="3b75f39956c1aa0babbda3cf6f46b1e8",SporTV 2
+http://186.236.211.198:9981/stream/channelid/435385659?ticket=CA2A42EF8C42C63EE32DFF110B924BB962E9E8E1&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="525ff52ca11fd063cf862fc4c5b5e843",SporTV 2
+http://186.236.211.198:9981/stream/channelid/754278226?ticket=C38768C145BAD4D7E363E3057057F6F77E8A7B14&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="6f02286cf8ee2d73445fe69061d3937a",SporTV
+http://186.236.211.198:9981/stream/channelid/1814561391?ticket=C2CD1149D81718ECC3869DD2C77BC040D965B42D&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="2d0389fe1ffe2142be5b28f934ff9724",SporTV
+http://186.236.211.198:9981/stream/channelid/2122908461?ticket=D04BEB21DEF2F003DB6EAAB23325934EA0008F86&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="909e4320bed9895c61d4e6f72360680a",SporTV 2 Alternativo
+http://186.236.211.198:9981/stream/channelid/541302416?ticket=B64533DDEEF3E21C300384BEFEB4D65274190B05&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="945b9f4b53b6a5d68cad0f44528fd130",SporTV 2 Alternativo
+http://186.236.211.198:9981/stream/channelid/1268734868?ticket=856F59C4AA5F9F1E1130596C3928EE10E55C1BEF&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="a81748816baca59b7bbaed8273af1bd1",SporTV Alternativo
+http://186.236.211.198:9981/stream/channelid/21501864?ticket=3FA23C62A3423D041AFEDB62E9ACA87035AA0D02&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="2da9e0ab2a2f88b40ea05dbc55601a2f",SporTV Alternativo
+http://186.236.211.198:9981/stream/channelid/736143661?ticket=07927D4F0CEE2DCB2830D45E20184465B9430B30&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="0e5bd281b64cef0f65dd26888ccd0277",Fox Sports
+http://186.236.211.198:9981/stream/channelid/30563086?ticket=508C9CFF928F3BE3345882DD5162A2783E206C22&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="378e5add8f16d40a22b7c3c69c6a4130",Fox Sports
+http://186.236.211.198:9981/stream/channelid/1566215735?ticket=5F0874B46066BC6C16B7FBEE2DF9DAE8210C9993&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="45c634984facfe8417cac5f660fee79c",Fox Sports 2
+http://186.236.211.198:9981/stream/channelid/406111813?ticket=800A8D046D58262D66DBBA1B0D12AB18C769833E&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="f0dca2ac6822c337b9689e9bbf0b64b0",Fox Sports 2
+http://186.236.211.198:9981/stream/channelid/748870896?ticket=67F4AF68B1DA7405BB543B70FA0DF46FEBD85795&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="5b270aa462d1057ca8b002cea506236d",Premiere Clubes
+http://186.236.211.198:9981/stream/channelid/604645211?ticket=743CC8FAB865D4D11BF7EE9D45A8F9852C50FE0F&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="3a1ca4767dd361f09d307973dc6e0cd0",Premiere Clubes
+http://186.236.211.198:9981/stream/channelid/1990466618?ticket=64FB0EB7C8C1B4D44CF00DE17FF441E72175C489&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="d7147e90b6d7c112c7110176cf37bf94",Premiere 2
+http://186.236.211.198:9981/stream/channelid/276698327?ticket=F95D1268E63237D2645F36D4D5E55736E4922C30&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="d8136e72aaab00bf0f040978101f9a97",Premiere 2
+http://186.236.211.198:9981/stream/channelid/1919816664?ticket=A87BB88F2ABA26CBF7AB356C12BD18DDF6DF1BC2&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="82f6023c1275e763a9e5155d23429a6a",Premiere 3
+http://186.236.211.198:9981/stream/channelid/1006827138?ticket=F16CCEDD3495DDC0D98BA54705415F3EB64DC2A0&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="c67cf5525abad87e0c9dd9ee2f74ce83",Premiere 3
+http://186.236.211.198:9981/stream/channelid/1391819974?ticket=EE1C17E21EF5975B876AAFE7619465CD69F1D7A3&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="bb7736bbd0507983bd0d97b096d35341",Premiere 4
+http://186.236.211.198:9981/stream/channelid/993425339?ticket=34843AE283E78FE702113985B3665BE81981787A&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="3a5f1a54bd38e162f1464d84d7d60550",Premiere 4
+http://186.236.211.198:9981/stream/channelid/1411014458?ticket=FD24E1A3E97EA55920BE78E88A9F9EC83D65A234&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="bd897b9bfe87e1036a19b4a9bbd0033e",Premiere 5
+http://186.236.211.198:9981/stream/channelid/461081021?ticket=FC3B106F8ADD70CB31A1FDD3B43818E140E7B3DF&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="8b47e3be913db1fc2f6325b1934c4ab8",Premiere 5
+http://186.236.211.198:9981/stream/channelid/1055082379?ticket=73D661A1DF7108C14499614F6638B85B97BD5198&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="a3b079c488d8da3541e802cf0e27df5d",Premiere 6
+http://186.236.211.198:9981/stream/channelid/1148825763?ticket=4459D9FD0B7F4158938C5B45F41B0CDD8B52C4D7&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="977179c7fe9070abac238cacbb2ee7e0",Premiere 6
+http://186.236.211.198:9981/stream/channelid/1199141271?ticket=1A6EAB8FD0142F757A62B8C0276277BB77643B97&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="07556a9eb2f96e5f6a07b77843c3d570",Premiere 7
+http://186.236.211.198:9981/stream/channelid/510285063?ticket=B8C6B353A824FF4AE0E92B4EF3F5AE39A2EAEC01&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="21e39f3004074a48863fc54f2f2729e7",Premiere 7
+http://186.236.211.198:9981/stream/channelid/815784737?ticket=83C0D50EA3EE645DC5A0F89A8D3DEEA167BC390B&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="4238744b1fb8849a368efb2c5138849e",Premiere 8
+http://186.236.211.198:9981/stream/channelid/1265907778?ticket=03C5E9F9530F57B577338251A73669000BAA9CC7&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="02e22f5acfddcb50bbf2198238e284a7",Premiere 8
+http://186.236.211.198:9981/stream/channelid/1513087490?ticket=373E0350D57349BAD1468A5BDEC32B8889368445&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="62ea5a94ddf2fd075f568cb9de3054a2",Premiere 9
+http://186.236.211.198:9981/stream/channelid/341502562?ticket=71F53DC3EAC7E42BBF28CAE570B58D53E742830C&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="e3048b40974bfce4c4e63b1b1607706a",Premiere 9
+http://186.236.211.198:9981/stream/channelid/1082852579?ticket=81995500B9768492624CAEB510364C6862804234&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="9f019d184d855fb8409307592f5be7c2",Combate
+http://186.236.211.198:9981/stream/channelid/412942751?ticket=134FD3E418A622A6ECCBD1BCFDE45E0B05C90E39&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="cfa4fb218c3cbc3317b5e145561c2e34",Combate
+http://186.236.211.198:9981/stream/channelid/570139855?ticket=2648BA6D4FBFBB875E112A964835612FF52588C7&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="882932919f2af77786b6f64ee3948a7e",SporTV 3
+http://186.236.211.198:9982/stream/channelid/288500104?ticket=3030D32F96143A4FF62EE41C884B5CDB28E13940&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="e7d03623acede8a317f3293948030c70",SporTV 3
+http://186.236.211.198:9982/stream/channelid/590794983?ticket=A288DB7427A16A75040C6437DF207B459555657C&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="172e76d44db137b579b4da057fedf028",SporTV 2
+http://186.236.211.198:9982/stream/channelid/1417031191?ticket=7EAF1A954DFB7EED7946E420CA653B66D66CFF34&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="b875a171d9d703a2ddb0614136a4d7b8",SporTV 2
+http://186.236.211.198:9982/stream/channelid/1906406840?ticket=F74440AF0C812EDC4A0DC09B3CC32414779EEA23&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="a389776a8a35c3c372c7bf37ee11de2c",SporTV
+http://186.236.211.198:9982/stream/channelid/1786218915?ticket=C5E34FB0A003DA0EA8362459E927BDC9AFA205EA&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="1f83f27b57dba884f9a9c26a9355fb04",SporTV
+http://186.236.211.198:9982/stream/channelid/2079490847?ticket=AE9D8762E992610ABAB517D3A31C087EBACC4385&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="f0f3f81957b358f8195cf92230a30bb8",SporTV 2 Alternativo
+http://186.236.211.198:9982/stream/channelid/435745776?ticket=DF7EF9D75847A0FC74844FAE33DE4719542161B9&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="a2d9de77b04b2966bf477fb8bd3cb9a5",SporTV 2 Alternativo
+http://186.236.211.198:9982/stream/channelid/2011093410?ticket=238FE14E7EF82B74BF1B0AC1EB4B6F653B4BC24D&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="517dee80ddb92e235439c29d73749e48",SporTV Alternativo
+http://186.236.211.198:9982/stream/channelid/15629649?ticket=7E56C981F9D77274C461F9E6E143AFE7035BDF28&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="44622b8b25f5933eb840d8aaebfcc6ab",SporTV Alternativo
+http://186.236.211.198:9982/stream/channelid/187392580?ticket=F7B3967AE0183CFB107B98C4BC98BB059F3B9717&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="0a6905084762be200ba0e2aada16b5d1",Fox Sports
+http://186.236.211.198:9982/stream/channelid/134572298?ticket=C97D2860870E15F3324899DFB07633038E607DBF&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="9e151dc736593b3e6748b419b1517459",Fox Sports
+http://186.236.211.198:9982/stream/channelid/1193088414?ticket=7FAC94AC668513F336100DE23891922E2F1DE5C3&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="2e5ec621cd7dd4ba0ee4eb66c7418f02",Fox Sports 2
+http://186.236.211.198:9982/stream/channelid/566648366?ticket=EE197FC3FF8A29A57BE28BE6C7DD19394161749C&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="891ecdc37cc628d860d23bb318243915",Fox Sports 2
+http://186.236.211.198:9982/stream/channelid/1137516169?ticket=F060AB6B8F67036896247B414626CC7BA3266751&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="06e71b096323d2562f1e8e17b2859af2",Premiere Clubes
+http://186.236.211.198:9982/stream/channelid/152823558?ticket=B93D11BE41F88E7DABA03835F5F9503EF13BDB82&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="a127b7b2909589eba9b0a7c4e053bcba",Premiere Clubes
+http://186.236.211.198:9982/stream/channelid/850864033?ticket=C07CB71D24C216D1A5FE6ED24234DDD9322D3AC0&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="5c58e4a8c8cb8a9d1827e73a55cae7d5",Premiere 2
+http://186.236.211.198:9982/stream/channelid/686053468?ticket=C406B069B068519486CE67BF8C9150AF2563BF62&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="7398c84a5ec4f65dfdd19809ea7aa2d9",Premiere 2
+http://186.236.211.198:9982/stream/channelid/1254660211?ticket=D3C2C26BD6D937B71536B1BECDFED700DEB56345&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="18fc9c3b2dd788a1c544f21037cedb97",Premiere 3
+http://186.236.211.198:9982/stream/channelid/1000143896?ticket=E397EB8F2D794066A2BDF8C2DBB6A4C6D7C63288&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="ecdb87c894eff78e7e72a67e60a614bf",Premiere 3
+http://186.236.211.198:9982/stream/channelid/1216863212?ticket=FC589C05A9759566E773A5C2739217230BBE0856&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="842b67b764445ff37a56a86b81059fd6",Premiere 4
+http://186.236.211.198:9982/stream/channelid/929508228?ticket=E605AA6FD004892EC74BB796A61D0BAF30A89DF7&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="62b15463129cbf11ba87b96b33ae1100",Premiere 4
+http://186.236.211.198:9982/stream/channelid/1666494818?ticket=ACB0E35F2E818069A377D1DE9AC9F782DA6021E6&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="ca1b443b6e14c99519080319d8677e9e",Premiere 5
+http://186.236.211.198:9982/stream/channelid/994319306?ticket=97416DDBD549D0EA562CDBED1625BA5622C691AF&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="a2e1f27a9e6cfc7adcbf818d9a987194",Premiere 5
+http://186.236.211.198:9982/stream/channelid/2062737826?ticket=385664276FA0DAEB576A249865427F7E292612ED&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="47058307802f84155ca6b796072f2214",Premiere 6
+http://186.236.211.198:9982/stream/channelid/126027079?ticket=C07B17CBC47BA8C0F71C0FE901982B7FBE1DC572&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="51fe170ec59aa0c288331e4fc9a30b01",Premiere 6
+http://186.236.211.198:9982/stream/channelid/236453457?ticket=EB3F4222A085EB28E540222DCAF575F6237BD7C3&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="3f164eb465f9a1a5daf937651b1f81e8",Premiere 7
+http://186.236.211.198:9982/stream/channelid/877532735?ticket=BB94A9527E87C386C6CBC9D4E90A3D0227D7B89F&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="292590cb705052d392369d2b65d9a765",Premiere 7
+http://186.236.211.198:9982/stream/channelid/1267737897?ticket=60E6793D2D467AD0D175BFC4C1FF306710FBC197&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="5b17215cb76982cac1bac41cf0cd06b9",Premiere 8
+http://186.236.211.198:9982/stream/channelid/1545672539?ticket=C845A9817444EFC25320F1B669F6D6BAED5B27D8&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="9d12eb6c0be291e918cbafcad6386529",Premiere 8
+http://186.236.211.198:9982/stream/channelid/1827345053?ticket=C9C9FFC8E43D78ED8B51C7D226AF99E2B9AA49C2&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="3a2169f164d61946cf3552f5bc29738d",Premiere 9
+http://186.236.211.198:9982/stream/channelid/1902715194?ticket=CD70F88B31EC37D20E4EA32E019DD6E9699ACD1F&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="f6b29efb944fddf62f5070ab58751a30",Premiere 9
+http://186.236.211.198:9982/stream/channelid/2073998070?ticket=14D668DD24DCF3D2106059458504A27ACC6067BB&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="6bc9327585e81c86d65093ffe6054ce6",Combate
+http://186.236.211.198:9982/stream/channelid/1966262635?ticket=C28A4108565D81234889D43B9621FAE62E3FF49D&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 tvg-id="842fa4fbe351e879d0fa7ec4b8e9cfe8",Combate
+http://186.236.211.198:9982/stream/channelid/2074357636?ticket=C917EC0496ECF7B1FB0C256BA9349D85311EEFD3&profile=webtv-h264-aac-mpegts
