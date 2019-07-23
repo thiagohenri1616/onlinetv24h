@@ -1,767 +1,917 @@
 #EXTM3U
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" tvg-id="144b61025fb18893be7f4d53e73077b6",.Telecine Touch HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/39930644?ticket=87827AFD8848C5BB89820764F49FDFE8117D3E38&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/pracanossa.jpg" tvg-id="4186a72c04c84d500b1d891f1a82bc20",A Praca e Nossa 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/749176385?ticket=8354B72DDB0F038714AA0C9D2DDB2422FE23089D&profile=pass
-#EXTINF:-1 tvg-id="645a192f8560709f4b357fb0f69ce066",A&E
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/790190692?ticket=75132D2F51CB74B3C2B0FD757D7BB2143F7C377C&profile=pass
-#EXTINF:-1 tvg-id="c0f4c6480ad0614835eae6551ec280d6",A&E
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1220998336?ticket=17D1F09E65E828AE31CA19C0810686927A9F33FA&profile=pass
-#EXTINF:-1 tvg-id="fd8320012a6a2e8e35374987b4823c34",AMC
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/18908157?ticket=65B9E2A1DC2657D095B530071023F7A7F9DC8E5B&profile=pass
-#EXTINF:-1 tvg-id="1aac89a79bcf3a4f955a7db42bde0f85",AMC
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/663333914?ticket=DA72F7FE131D3EAA18442D7695144FC532ECC71F&profile=pass
-#EXTINF:-1 tvg-id="5248e13dc0ceeeba3031dfdb25e92b80",Animal Planet
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1038174290?ticket=8BC099C84AAFC0F4E44BE9C6548A5882468AF41D&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/animaniacs.jpg" tvg-id="ef9b7e55afc61b89d6c598810d838dfb",Animaniacs 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1434360815?ticket=091C10AE3B591F81A0D9A86AE34CEB55D1924051&profile=pass
-#EXTINF:-1 tvg-id="56498589ce6df13e960062765873f177",Arte 1
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/159730006?ticket=EC874038115B5C97B139CB1FEC386D411D9183A3&profile=pass
-#EXTINF:-1 tvg-id="1ce0d8b29651514ca7974ff26aa4f320",Arte 1
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/853073948?ticket=B2AB891A1E18DA397822C3DF3C989107461D2309&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br/icones-canais-24/superpoderosas.jpg" tvg-id="6524c4cbbe6cb991fdd00853f402c568",As Meninas Super Poderosas 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1271145573?ticket=7F6B7786AF1408C5E9157F6F9F42D0F8EE7FF995&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/astartarugasninjas.jpg" tvg-id="555500f76f07940747a13edfcaadcd32",As Tartarugas Ninja 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1996510549?ticket=E5A8198A9D4EA49225FFE17BFD2B335AD127649D&profile=pass
-#EXTINF:-1 tvg-id="1cbdf231eb76d265bd7985e47d622029",AXN
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/837991708?ticket=234BE5057A7CDA21417DF6F1C80C3861042F84A2&profile=pass
-#EXTINF:-1 tvg-id="b3fd1a7fbc39763d24f62fa7f9ad5813",AXN
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2132475315?ticket=848220F5A4B8C403A8305292D1E565C38589FA0E&profile=pass
-#EXTINF:-1 tvg-id="28875e0df15f0f5cbe7c362a2fc1fc7c",Baby TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/224298792?ticket=C8EECE54050F9EAA762577F1A2C35A8AD0CF1B0D&profile=pass
-#EXTINF:-1 tvg-id="b53ceefd6ac9854bab1a75ad0e7460c7",Baby TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2112765109?ticket=56400F76EE76F58CFB57AD8E5A0E7E1EEC711A16&profile=pass
-#EXTINF:-1 tvg-id="86360f82d15531a7878a5f86f42c6925",Band News
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/34551430?ticket=3DF720DFFC8F55EE8040E951D27CA011E9A77244&profile=pass
-#EXTINF:-1 tvg-id="0e3311ba137847d89f31b4d7ca4aef03",Band News
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/974205710?ticket=E00D7E0863A6C46B693A0E31D36F8B3B2E8DCC79&profile=pass
-#EXTINF:-1 tvg-id="8ce1abd46bda9abc134a4742983cffa6",Band Sports
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1420550540?ticket=45729C66DD6564ED0734DDE15A907797F872F497&profile=pass
-#EXTINF:-1 tvg-id="e447be569fd1685270df36c5a46f0b44",Band Sports
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1455310820?ticket=527720CAD39F6B7E25E79979B77642C521DBC2DB&profile=pass
-#EXTINF:-1 tvg-id="062d20afec24f61721e4b81e98439499",Bandeirantes
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/790637830?ticket=07DD36735EF15045603499277C5581D48B275055&profile=pass
-#EXTINF:-1 tvg-id="e3c7bad86d60e5c7a066d3128d4f7cac",Bandeirantes
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1488635875?ticket=4A1777B2B5AFCCF018DD3A40A9DCD27E30F72E91&profile=pass
-#EXTINF:-1 tvg-id="8193e7a9669fff5d496308bb62a98b13",BIS
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/703042433?ticket=DF913E958A4B574BC165FF663615F248F272F2E0&profile=pass
-#EXTINF:-1 tvg-id="25e44e5a788cc703dd2e165af0820b2e",BIS
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1515119653?ticket=0CF0BCF6B25035D70EB621BC47DA6EE60EB2A1AB&profile=pass
-#EXTINF:-1 tvg-id="0aca279d734911cbed269ad28d59b3bc",Boa Vontade TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/489146890?ticket=89A6412F75EF05C7DD4BD70BA7FBF8B555770D1D&profile=pass
-#EXTINF:-1 tvg-id="3eaab44ca4018437280ae4b4b8aacc36",Boa Vontade TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1286908478?ticket=6277B9F2D2ED5D209627EF5D25123ADF88DE81BA&profile=pass
-#EXTINF:-1 tvg-id="60737d5a482f9619e4eebd6f5efa0035",Boa Vontade TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1518170976?ticket=42E74BED9AEDD1A41C81351A6E2E6ABA1A9796BA&profile=pass
-#EXTINF:-1 tvg-id="98d6cbf5838b926fac170a692eabef38",Boa Vontade TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1976293016?ticket=0EB09ADFCE6E1DD99DEF34EA5B63DF8EE9548308&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/bobesponja.jpg" tvg-id="3b99aa431a8f1a550aa5720b0c5e26ac",Bob Esponja 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1135253819?ticket=5E8CEE69E7F8046EAF9B7AA2CA2286565DB1A9E2&profile=pass
-#EXTINF:-1 tvg-id="19b9138af24890b35ad70d1087314658",Boomerang
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/169064729?ticket=40E51AAC7FC75233D977D09FF29AF491191205E5&profile=pass
-#EXTINF:-1 tvg-id="f32c8af1b0b1279bedfdb5ff841e81fc",Boomerang
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1904880883?ticket=02C0FE2DD483AAC1448D0132C98430EE77DD13AE&profile=pass
-#EXTINF:-1 tvg-id="be90a8ce43a158119449e820e20c77c6",Canal Brasil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1319669950?ticket=7F8773B054CDC8EB85C6AEBAA563ED68138E11B3&profile=pass
-#EXTINF:-1 tvg-id="b8dc1f5fca7648ddf972d956c479323d",Canal Brasil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1595923640?ticket=BEF203B81932304DE047BB67F6BC49C00DD0A418&profile=pass
-#EXTINF:-1 tvg-id="b1e75e2504a8cbd318c782216e28e82b",Canal do Boi
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/626976689?ticket=131C6172DFBB795453A3B7586FA1D5BB8E39F4D7&profile=pass
-#EXTINF:-1 tvg-id="64539453b39cc59da1a1ffd8f2643a48",Canal do Boi
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1402229604?ticket=12B72F0DF6B2C75799F72F35755585069AA39CD9&profile=pass
-#EXTINF:-1 tvg-id="4c98e70550104ce014e25b27b8a16fa3",Canal Rural
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/99063884?ticket=CF7C0D995BF032CDAF4E052CD6B524E80EBE2745&profile=pass
-#EXTINF:-1 tvg-id="098d3907af4e753c0e4bd70bc7d5c66e",Canal Rural
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/121212169?ticket=BCA2ACF464482D0DF37053C278B67590F20ED071&profile=pass
-#EXTINF:-1 tvg-id="85f3b3a5049ec6d2e9df4b1ce9dff99f",Canal Sony
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/632550277?ticket=173F8F695EABDBF9988495F5CA28E4244C9678F9&profile=pass
-#EXTINF:-1 tvg-id="9c7e1d34b0e733882cee3ea4f5c8cbeb",Canal Sony
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/874348188?ticket=752C9440251B9236C1B3BD6693752A02D5E8A8F7&profile=pass
-#EXTINF:-1 tvg-id="7fa02888631868ed8f2e494081beb1fd",CanĿªo Nova
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/136880255?ticket=E644AB21F7BA0754EE8FA3F3FA59CEFFFE6BBF6A&profile=pass
-#EXTINF:-1 tvg-id="e7b1759ba44fb2211f54c81e475cf680",CanĿªo Nova
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/460698087?ticket=89C1E707A0115CA7B80D884273579F78FB4822B5&profile=pass
-#EXTINF:-1 tvg-id="5f1d4c50f4a1e688168d419fe753b729",Cartoon Network
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1347165535?ticket=F26F7A0D8570CA1FCBC590AC3FC336CAEDB3BE68&profile=pass
-#EXTINF:-1 tvg-id="a1094af0dbd2939c64fdb2bc569910a8",Cartoon Network
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1883900321?ticket=B5FD1DE655665BB17C90CF4078B0CA55A21968B8&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/caverna-do-dagrao.jpg" tvg-id="66984c2630c64869d114ad3322dad1c1",Caverna do Dragao 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/642553958?ticket=D7C5D23C4F87E9172A1F67ECBDFAC1E4897303F7&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/chapolinn.jpg" tvg-id="6662048448e489ba4be38891c8d09355",Chapolin Colorado 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/67396198?ticket=CC916A243F76C1B1883D872B1EDB368F28BB31CD&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/chaves.jpg" tvg-id="e91415e12f1b9ab9500c294b65e6324f",Chaves 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1628771561?ticket=92618237430E2B0B1B08435EFD9834F2342CD50B&profile=pass
-#EXTINF:-1 tvg-id="ac6f02a811245744c6a1642e75fbd5ea",Cinemax
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/671248300?ticket=90429935301419D6024905E3D1E63C66430EB514&profile=pass
-#EXTINF:-1 tvg-id="68ebdf43e75a68543f66a1c21c1882d6",Cinemax
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1138748264?ticket=E468E3301EE6314420F558AA94620DF485507A74&profile=pass
-#EXTINF:-1 tvg-id="eff1edb229a449729a60fce16422d227",CNN Espaæol
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/854454767?ticket=C016FF28D9BB36C2E44A1BCE0A65DE21F80639CF&profile=pass
-#EXTINF:-1 tvg-id="f14da2ef25b10f40dc2243b63fe5bcd0",CNN Espaæol
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1872907761?ticket=E44CD502AA822FF453E1267FFFA36BFF6075F625&profile=pass
-#EXTINF:-1 tvg-id="b412f15cdd57e62ed01537bef6e0f280",CNN Internacional
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1559302836?ticket=E2E6809484ACCF891B90DD9D32FEE9E975C89545&profile=pass
-#EXTINF:-1 tvg-id="b46646ea79c1eda8986118fe62db7bef",CNN Internacional
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1782998708?ticket=DA446000E68F772D90315DA5059D432AC676CD37&profile=pass
-#EXTINF:-1 tvg-id="3533561e4472b32adf28f12893230d15",CNT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/508965685?ticket=829586BCDC4568C7062C7099499D1221FE2342BD&profile=pass
-#EXTINF:-1 tvg-id="b0adfc1f842868ca3e3ba72738b13505",CNT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/536653232?ticket=1ECC453989571C9147987F310FA13CCCC9CBA37C&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/combate123.jpg" tvg-id="b29f282f053e439e3021f81eb73893a8",Combate HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/791191474?ticket=09EA8626AE9007E5B163CB062269EA2980A9BA73&profile=pass
-#EXTINF:-1 tvg-id="ee6f0ea5f4e522a466385613282c0124",Comedy Central
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/621703150?ticket=A9FF18F1D056B5024E22E6A98A680DDC316B77D2&profile=pass
-#EXTINF:-1 tvg-id="84c61d308d9ad13c10f3f8645d8c5b4b",Curta!
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/807257732?ticket=67D72B9F513203FC73A8E9DE102DEA415C220AAB&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/dazn.jpg" tvg-id="8e4d38ec325b614061577df2f11416a8",DAZN Brasil 1
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1815629198?ticket=F5298D4CC54736FF514E7F1ECB506FF906C9F719&profile=pass
-#EXTINF:-1 tvg-id="19570e949e3094face112b4042ad1a44",Discovery Channel
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/336484121?ticket=474CBD40D2D786244483777C04A05DD6C8002D0E&profile=pass
-#EXTINF:-1 tvg-id="5d8c6eba0983c4df34e9d89b3306f37b",Discovery Channel
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/980323421?ticket=EB79D12A14090B94839AD7DDDA22C7FAAC142CA4&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" tvg-id="e08a861987031e41a46f29a5d7fff185",Discovery Civilization FHD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/428247776?ticket=CE28BEECE07745A63E36626A3BCB88CE1DA52E1C&profile=pass
-#EXTINF:-1 tvg-id="3ade3945ac4c5e1ce8e6a949cf2c880b",Discovery H&H
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1161420346?ticket=411DA11389285EAB85B6C13E1A5DE88303F2C875&profile=pass
-#EXTINF:-1 tvg-id="935e0776544a592ee0065c27b4efcf00",Discovery H&H
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1980194451?ticket=211CE6C7F92F9ADD5BB6E88C3754E0B12DD77882&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br/iptvhd-capas/heh.jpg" tvg-id="0d9f4eefd9660a465ddb73d31e90ab11",Discovery H&H FHD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1867423501?ticket=41FE82A99C144F78F9520CA48C6E95304B5C9B62&profile=pass
-#EXTINF:-1 tvg-id="978d020f928d02486436d7e4dfa3d6bb",Discovery Kids
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/251825559?ticket=6DA763733625A62AF4585961FC6E20DC424CB173&profile=pass
-#EXTINF:-1 tvg-id="bc4c795de5322116521f6ca2f893f354",Discovery Kids
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1568230588?ticket=3CBF11E02F29992FABF6DF36D6E715A3B0A427F8&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" tvg-id="956c1b5cc190e060005d9330d3d6711e",Discovery Science HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1545301141?ticket=9F06D790ACC161CD640708226C8743D03A4614C5&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" tvg-id="d79a331f36f80955b6629fe6e49c46a4",Discovery Theater HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/523475671?ticket=3D943D5E72719F52DEA737547A2E2EFCF66C7678&profile=pass
-#EXTINF:-1 tvg-id="04417fb9ff8bf80b4766ca012c617e34",Discovery Turbo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/964641028?ticket=EBA5968139C767EFED0958B960EF071B66DA8DA5&profile=pass
-#EXTINF:-1 tvg-id="f9a893f8840f0159637e221f369b83cc",Discovery Turbo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2022942969?ticket=39AC0F65070597FAA88E85F9ECBC7747D2D42B7E&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/TURBO-Logo-white_0.png" tvg-id="3a65fcaf308f0cb9b75726e6711928e4",Discovery Turbo HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/805070138?ticket=B74EA6E628812E1812FEAEBEA4AB0DABB1408FA0&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/dwords.png" tvg-id="debe4266e92de71de5ea15be5b7fe804",Discovery World HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1715650270?ticket=7B53FBD80033D40799F8C5E8D3342F063D001C56&profile=pass
-#EXTINF:-1 tvg-id="837959dbec875e85800ea321d7940310",Disney
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1532590467?ticket=1103B26A8C33F7EF691C1B0744513A0DF3E5000C&profile=pass
-#EXTINF:-1 tvg-id="eed05e79f034cb873577c9c9db702ba1",Disney
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2036257006?ticket=1A989543CC2E5FFB184E203BDA1A3388BDF33820&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/2015_Disney_Channel_logo.svg.png" tvg-id="98dcbbc5673bd9bba5d9cfec99cf8428",Disney Channel HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1169939608?ticket=366EC78A8C56CB4834F05999142A0A0322B5C937&profile=pass
-#EXTINF:-1 tvg-id="96c52a0b1e92c33f3e08453eca5af75d",Disney Junior
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/187352470?ticket=0DC50D66120CE380BFC19E4E0101A8027A031E66&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/disneyjunior1.jpg" tvg-id="ec59918fca00bdcafafb4e9a6602daa3",Disney Junior HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/261183980?ticket=B4391AA49B4516FA01B92C452B17D478E243E53B&profile=pass
-#EXTINF:-1 tvg-id="dc7ca9f632e73421b297445229331988",Disney XD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1990819036?ticket=10643BF71BA658FD5A50B219B418E7C4BFB42B62&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/xddi12.jpg" tvg-id="925a36c123480ec39c1bca45e334b289",Disney XD HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1094081170?ticket=5858DC450E817B6B911BC5F8B9DB74158AC313B0&profile=pass
-#EXTINF:-1 tvg-id="ba0985033d21448fc1a80d1ff503ede0",DW (Deutsch+)
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/59050426?ticket=43288A17F2CD6A09DED33AFEF6537E9BA263A108&profile=pass
-#EXTINF:-1 tvg-id="f7cdab657403ce287ee95f833a5ea1db",DW (Deutsch+)
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1705758199?ticket=C34D6F6D71936AA8089A14AAB35E6293A31E863F&profile=pass
-#EXTINF:-1 tvg-id="706b285a2947fa062a6fb4cfca857ec8",E!
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1512598384?ticket=39489140720B5863BB2919C24774B6FDF8B23999&profile=pass
-#EXTINF:-1 tvg-id="0e58cda117f2364cdba61cd1d9952076",EPTV Campinas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/567105550?ticket=89CCF8E10EFEA18AEC53863F4B64B27629044944&profile=pass
-#EXTINF:-1 tvg-id="04b153ab9efa11e90c6dd3119922d1b4",EPTV Campinas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/726905092?ticket=298BD79FFB0B7FA8CDBA4A8333D956895CC24B24&profile=pass
-#EXTINF:-1 tvg-id="0889d7a2b4c7be3bb5168ec5ed428fdf",EPTV Ribeirªo Preto
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/584550664?ticket=7D533DAECAC4C0C5251914E4B216218A7AE621DC&profile=pass
-#EXTINF:-1 tvg-id="71d797bdd986235a47619349f0042c44",EPTV Ribeirªo Preto
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1033361265?ticket=A7F6A1E4E7E4966ABEE1AF964DB35A5CEA367949&profile=pass
-#EXTINF:-1 tvg-id="9026e2499f8f690a8aec0df1104ae11b",EPTV Sªo Carlos
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1239557776?ticket=C2D7AB18918D5B771E80D994F7B2C2BDB0FDB4F0&profile=pass
-#EXTINF:-1 tvg-id="bc90d0f0dc866d81746357e82014ed2c",EPTV Sªo Carlos
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1892716732?ticket=7A428C31D28FC2D7802C1A050E378AECD3D7EAEC&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/escolinha.jpg" tvg-id="85b95c89b785ae88d7808be8e56ca281",Escolinha do Professor Raimundo 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/157071749?ticket=868E7CF97A9E61C0BD5EEB71BE86AB9B96648DCB&profile=pass
-#EXTINF:-1 tvg-id="cdcb100d400ca6378ca842528adc4971",ESPN
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/219204557?ticket=0D27B1DBA0DA1CEA6B6571231DB4CF77E1521AAC&profile=pass
-#EXTINF:-1 tvg-id="3c4da971f0f526cf8349fe0e753356c0",ESPN
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1906920764?ticket=55E124884CD0FA14104109D88B297429BDD716D0&profile=pass
-#EXTINF:-1 tvg-id="903e5d2890d8c1aa04bca0ef0e036ebd",ESPN Brasil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/677199504?ticket=821D53BE0BF96B8C66BC057FD8FEB8B3BFFBE74A&profile=pass
-#EXTINF:-1 tvg-id="20833c67864bb4d4c2c0b4c2ac1a1d8f",ESPN Brasil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1732018976?ticket=A659AB69B2F48FE0930F4E6651C62A85ECBF0BF9&profile=pass
-#EXTINF:-1 tvg-id="09ba6611bbeb7dda01fd3040e65d10b5",ESPN2
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/291944969?ticket=E4FC0848091FA2D4A07250645C9E61E294C1DC62&profile=pass
-#EXTINF:-1 tvg-id="10d7fe73f209d1fc6e772844bd620bb0",ESPN2
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1946081040?ticket=D6DABABD0059143A6B48FD1426F4876D2B2D7CA9&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/2jcag5x.jpg" tvg-id="de799347ac07e6e1ee08314148526357",Esporte Interativo HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1200847326?ticket=600B9C8219D4C7A650F2FE22B2284735BF947DE0&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/patroa-craincas.jpg" tvg-id="7d966617950c0c08183b775392d89da2",Eu, a Patroa e as Crianças 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/392599165?ticket=DB9C1E8ACA5D45B75A92D5C49B1DCA946BCB11EF&profile=pass
-#EXTINF:-1 tvg-id="c17b1b13fb3ae96cf0ef6bcdc799990a",Film & Arts
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/320568257?ticket=7383DCAEADC8A2869AFD18B13DA117F5DC8680F9&profile=pass
-#EXTINF:-1 tvg-id="2b0c627108062c6a81d4a948b25bfe0e",Film & Arts
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1902251051?ticket=28E988E53DC1BB9B73DCF4795197FB0F6C941541&profile=pass
-#EXTINF:-1 tvg-id="9c79ac9ac13d7259c5a790ce24574858",Fish TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/447510940?ticket=32FFDB4B885D4C82F43DCB753EBD73088D66D106&profile=pass
-#EXTINF:-1 tvg-id="cbae50699ffb42d705269594f154ac4b",Fish TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1766895307?ticket=1546C6813AB267D2696DD61D8F53765B1EFD1A31&profile=pass
-#EXTINF:-1 tvg-id="a0d0a791a8ce795bb0d9dfe097d90024",Food Network
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/296210592?ticket=68484B59A24D0239D26E7A5E3C265CA207BC7197&profile=pass
-#EXTINF:-1 tvg-id="8cf4861a9e85f5e258049ea3c6dc9fee",Food Network
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/445052044?ticket=D0DE177E1F3D0E5093D7F77FB0D62F9B27D04CE2&profile=pass
-#EXTINF:-1 tvg-id="869ea472a428b848f1d44b9a01035388",FOX
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1923391110?ticket=9011755634BD49E5C85C595474C159D144AF2955&profile=pass
-#EXTINF:-1 tvg-id="1f7ff178d2d88cbbf3be5d1a1eeabac6",FOX
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2029092639?ticket=6F6788F39F0B22C37257DAFFB7DA612F075CB915&profile=pass
-#EXTINF:-1 tvg-id="697c769f5657515ed9b426a04e438bba",Fox Life
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/527858793?ticket=E7F8DFB90854690E854E9C6CE77814D27ACC1B5D&profile=pass
-#EXTINF:-1 tvg-id="b74b4d368125f6552c5cfb4a24ee9d82",Fox Life
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/911035319?ticket=78090A4AE48661521704711C8E13AF8E7EA19A1E&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" tvg-id="00de84e3add564ad13f8c00720d99580",Fox Premium 1 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1669651968?ticket=457C2944F70AA9C12171741C3355EBCE748D06B2&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" tvg-id="661c77b6e47e2e3742b36a15289bef13",Fox Premium 2 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/913775718?ticket=ACE3E9940718CE1A20D1619185A4801A15F171C8&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" tvg-id="c12fef253b554c9bd2c5737f7d4c0575",Fox Sports 2 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/636432321?ticket=206D18089EF894FB01A495F0B235D5B4C1A1469B&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" tvg-id="83ad4e4a83fcbd3583a0365356d91395",Fox Sports HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1246670211?ticket=94CE3233C03CD16E69AFB03FC25085C8D9AC7C99&profile=pass
-#EXTINF:-1 tvg-id="a5bbdf82ab0225e34f45c9896b796771",Futura
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/48216997?ticket=C7875FD72E90EA5BFD28A6F9769D1A57F1222B5B&profile=pass
-#EXTINF:-1 tvg-id="55db1fdf7284f99d6d6af18f8ba748c9",Futura
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1595923285?ticket=6C616F2A365FDEFAB3CEA2D22483A38B7A058A19&profile=pass
-#EXTINF:-1 tvg-id="7ffaab380bc3a84fea58fdc05fa4936e",FX
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/950794879?ticket=7D51F476D25B0102FF48D619E44840BA42EF940F&profile=pass
-#EXTINF:-1 tvg-id="1332ea6966842737c74608a4234c676e",FX
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1776955923?ticket=BC91CB66555408C57A21D1A96DE7657A2134B954&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/galinha-pintadinha.jpg" tvg-id="e3f21fadcbc89dce40108684e9463ece",Galinha Pintadinha 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/757068515?ticket=7AA56BCBABF41C9FE6A3CFBB4A12020A86B7C363&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/garfield.jpg" tvg-id="a07d52e3283a2f876feb869e60b974a2",Garfield e Seus Amigos 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1666350496?ticket=371B0DDAD999A12349964049BA2ABF9C9B5330EC&profile=pass
-#EXTINF:-1 tvg-id="b1af2313305091679bae7daeb3606bc6",Globo BrasŦlia
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/321105841?ticket=81739B57D3A975882F17EC16F4930D5C7B18D01A&profile=pass
-#EXTINF:-1 tvg-id="74e1b3e8753012d802cf74a7d5fef45e",Globo BrasŦlia
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1756619124?ticket=6312D1B65946878B165663BB637EA11A3AAE0A9F&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" tvg-id="ed8b73033cc14ed419b7feb2ccabee01",Globo Inter TV Cabugi SD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/57904109?ticket=0DE7A0D4BA5858F304A77A12B2E61DE7EF278939&profile=pass
-#EXTINF:-1 tvg-id="4b5974108bfeb0a185df2990610af3e4",Globo Minas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/276060491?ticket=D417F9B64C17C2366A03F8BD413026204723DBC1&profile=pass
-#EXTINF:-1 tvg-id="dc2bc65234abdf5a7012d3db9a154b02",Globo Minas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1388719068?ticket=BCF9EF4D904FAEDD6E292A5409A4A24C50E5D0FB&profile=pass
-#EXTINF:-1 tvg-id="3125ba67ed83e7b909500aacb7d17b54",Globo Nordeste
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1740252465?ticket=6581CFACEFBF8E9C4D50B47BCAE1EE97970737BE&profile=pass
-#EXTINF:-1 tvg-id="853a82f6f3a8403d82eb139b93ee8340",Globo Nordeste
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1988246149?ticket=DB5AD83FA0AD58F934EB5D9778778FA8673DC66A&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" tvg-id="34b71c4e129304bde8e73f07012ad303",Globo Nordeste HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1310504756?ticket=908F2645FE10D6833DC55F3334174EB9BC533F3B&profile=pass
-#EXTINF:-1 tvg-id="2999db0b6ae80618fcfbb73b7d6b5393",Globo RJ
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/198940969?ticket=60670B3343D4042805028D6C7B5C90D392DC6FEC&profile=pass
-#EXTINF:-1 tvg-id="aa448c0c15edea455be57554db1461dd",Globo RJ
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/210519210?ticket=D4D1796FC027BD25DBD973AA814E471C04A21700&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" tvg-id="2c69db7b9cf3fe1490ef3e1e9201f94d",Globo RJ HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2077976876?ticket=B21A9D3E765111A5D258DC90AABE220C725552D5&profile=pass
-#EXTINF:-1 tvg-id="681b96b2da184566ef0dfb4d1e74a73f",Globo SP
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/848698216?ticket=B45D059F84D1DF0DA8274652C6436352B396DC91&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" tvg-id="9e700c86b7f46cbfd2b37bea29c3e880",Globo SP HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/101478558?ticket=E443CA2FC143D107D9C03A38D64A3BAF983ACC86&profile=pass
-#EXTINF:-1 tvg-id="d87d5da122278641c8a606c19791f7f5",GloboNews
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/559775192?ticket=684CB6809B3080CC38112A9BD2B9F3C9992DF26F&profile=pass
-#EXTINF:-1 tvg-id="0f5b77f7b0fc1e79364efb86f39fb293",GloboNews
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2004310799?ticket=C11402AC99D14124BDB07C57FA7A16A7EFDB8159&profile=pass
-#EXTINF:-1 tvg-id="67430d3ada0442e300a5891be07b6554",Gloob
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/973947751?ticket=3B4CB99E632E4687DF807C4C80F84CE3C548C60A&profile=pass
-#EXTINF:-1 tvg-id="0830aceb91224edea375e074f79d0a39",Gloob
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1806446600?ticket=0099C72F4A8647D40549BBFB58D6BD00E2711A42&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/74e4a5f0ba3ea11e0b9715260014.png" tvg-id="da89d6e8707b8330eefc19926f03181a",Gloobinho HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1758890458?ticket=7D46FDF99D55CE2504F2AABC6DC0796D14F63FB5&profile=pass
-#EXTINF:-1 tvg-id="4c4acb22a7b51bb89abf71bf22ad6421",GNT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/583748172?ticket=CFFACC67FA7F10CFA5E16760F7F3FB068580DD99&profile=pass
-#EXTINF:-1 tvg-id="1d4108bfd58daf4e2ab872ebbb1d9d87",GNT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1057505565?ticket=32A3FFC2758077A8C97FC69B6C4D28E7522B5624&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/H2_1.png" tvg-id="1e2057eed576f0fcf37c863b2f2f2b30",H2 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1851203614?ticket=DE84BAE959581A478101A684CEF93DE26C510B1E&profile=pass
-#EXTINF:-1 tvg-id="61ee42a33f535a76cb1be76c1dcdd434",HBO
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/591588961?ticket=53AF9CFDC87E861DBE3A1DE7B4342867333AE48A&profile=pass
-#EXTINF:-1 tvg-id="77baba33230fded04cb43165270dcdc7",HBO
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/867875447?ticket=F30021E59578ECF96C5079627939E36137740B31&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" tvg-id="3ce3211d426227e3cb6037aac98f31b2",HBO 2 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/488760124?ticket=FF7CDA7E94D4E8068184C11BC2874F9CDD258E66&profile=pass
-#EXTINF:-1 tvg-id="c820580cca2735a45267fca0f02ec205",HBO Family
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/207102152?ticket=46F1369941D32DDD7BBD832E2A2A8B8DE616F6B7&profile=pass
-#EXTINF:-1 tvg-id="fe6033614f0b9f700d8e4aa0c62e873d",HBO Family
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1630757118?ticket=FAA5449B8A8A918F39801DB31F46BCF35F4C13AC&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" tvg-id="157d9252a428b96097e39c341fc8f552",HBO Family HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1385331989?ticket=8BE6474F5D48C1B66407958D751D25AF31CBAE0D&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" tvg-id="707eb6dc362e81523185081b318e576b",HBO HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1555463792?ticket=C632576D6331D9D59766DC24088BE65319AADF99&profile=pass
-#EXTINF:-1 tvg-id="9a5d331b2be610ba2faf7f323f4435ca",HBO Plus
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/456351130?ticket=D61DB8F0871EF90A2DA8F7661D111D8BCBCBB3F5&profile=pass
-#EXTINF:-1 tvg-id="326172b4b4eaf46cc61daa183ec0a8a0",HBO Plus
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/879911218?ticket=861B39F43D69540C962C1D619FF08FB745BED8B2&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" tvg-id="dd161af42cec47c5bd548e0ff2a5537b",HBO Plus HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1947866845?ticket=96295FCD300362049E5D42B3BFD52D25CD43D047&profile=pass
-#EXTINF:-1 tvg-id="a8bd7741dd16ec1c42468cafe01ceca5",HBO Signature
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1098366376?ticket=CC56A413EC70BACEE1DC5C480CFF8428A8D797FB&profile=pass
-#EXTINF:-1 tvg-id="df441aebd203f40de1ba3834c3ce5c94",HBO Signature
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1796883679?ticket=B0162BC97264F71324B72E8E8DA19D353FAFB956&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" tvg-id="7d5befe2a7511028a0b0a8ab103255c7",HBO Signature HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1659853693?ticket=D11345518659FB56813392625F6113A1A7A3EBC5&profile=pass
-#EXTINF:-1 tvg-id="cc39b13389de38242c3bed10199331d6",HBO2
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/867252684?ticket=D3CAF6AE77A57C938B5888E058C549CCCEAC1955&profile=pass
-#EXTINF:-1 tvg-id="31db3cc17e447d9a60573ed7c7d05afc",HBO2
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1094507313?ticket=7D83BE8D3F04B0DA117109614F9FD9094DE59598&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/re-man.jpg" tvg-id="24fd4b90422f2ec34867ce65f3885d78",He Man 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/273415460?ticket=622DF0F8FB48EA32FDC406AAE7BB935FDF35DEF2&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/helokitty.jpg" tvg-id="0dfb5e03704030cf452c239fd8b751bf",Hello Kitty 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/56556301?ticket=8459B7E9835C0C282D859998CC26002E38BE39DB&profile=pass
-#EXTINF:-1 tvg-id="6b7d9e949ffbbee1887d0ee86c049b87",History 2
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/345931115?ticket=F588BB9C581423EE24A4ADB6703AABB1EE6547EA&profile=pass
-#EXTINF:-1 tvg-id="baa6b7222f092a87c3eac83b919683ca",History 2
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/582461114?ticket=B443E85404C5E0E2879609257CACB18B452F1C9D&profile=pass
-#EXTINF:-1 tvg-id="813249c4803ceed252121d31e0db07f4",I-SAT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1145647745?ticket=C0EE562FDAA1C4FAE7A825D263D8D73DFF07925C&profile=pass
-#EXTINF:-1 tvg-id="22b0796973569b524d5ace068bcd8517",I-SAT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1769582626?ticket=2BDC378F513EEFC24B358FFAB5FDC40C0389A651&profile=pass
-#EXTINF:-1 tvg-id="38caa8ca5a7539214eb0964af46d3368",ID - InvestigaĿªo Discovery
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1252575800?ticket=23CDDBEC4F18C2E3B1492707E43D145F79226112&profile=pass
-#EXTINF:-1 tvg-id="acee7c4c2225170059080e6f9efb67c2",ID - InvestigaĿªo Discovery
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1283255980?ticket=B28D061D6EAC43113DA017EF040F65A54113F540&profile=pass
-#EXTINF:-1 tvg-id="8a374f906f7827e63bcb7f37bfb9f8ce",Ideal TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/273627018?ticket=4E922E6F56687E1C24387D08C2907343AD9C3FEE&profile=pass
-#EXTINF:-1 tvg-id="ba58be1efd0a27fe0e5d22ef1e3073cf",Ideal TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/515791034?ticket=FA8915EF46B25C446B2FF5040A2616A825C1090D&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/inspetor.jpg" tvg-id="d4120ff503acd4784cb4824d738f3374",Inspetor Bugiganga 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1963922132?ticket=57B84DF739DCC8C8CA8EF0DB8CEE4E4DCFE90BE7&profile=pass
-#EXTINF:-1 tvg-id="e2c3ff819a5cc3c500dabe0f127ab2e3",Inter TV Cabugi
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/33539042?ticket=507CB54B4F2B4CDE00B68EDD5A10CB726EA92D17&profile=pass
-#EXTINF:-1 tvg-id="a4d22fff5355b1d7a3d351f9a5a619e1",Inter TV Cabugi
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2133840548?ticket=D66AE756A2704E0C7448F36C917BADC5DC81A7BD&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/lady.jpg" tvg-id="68ec44ec4c17f7ae1f5540bac44004cc",Lady Night 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1816456296?ticket=8ED360D2D6F1793D24357839BD15F632095840C6&profile=pass
-#EXTINF:-1 tvg-id="aaa0f711e1bc589797e2ec3c33981383",Lifetime
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/301441194?ticket=8B667495F43CAB368FF1ACA3D7B34E723123510D&profile=pass
-#EXTINF:-1 tvg-id="455dcbc3b58f101b036815d7ae5c5baf",Lifetime
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1137401157?ticket=F70FE0CE01187319B88BC803630032A04FC2ABD0&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/liga-da-justica.jpg" tvg-id="eb4c1ddb7fca047c603cc922b9081d96",Liga da Justica 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1528646891?ticket=C2C3C64A9B1FF77C702B9F9A36598486971677CD&profile=pass
-#EXTINF:-1 tvg-id="2d5f238f606975525fbd7136d3dd1961",Mais Globosat
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/253976365?ticket=2FE88FF96F2A5A4435C2D008E7E93378B80A33E5&profile=pass
-#EXTINF:-1 tvg-id="2aadf4d9540e9a0f96a21cdac9c37c80",Mais Globosat
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1509207338?ticket=A4042A676990263A92614972E8DA2C8D9EBCAAA0&profile=pass
-#EXTINF:-1 tvg-id="b99b921804a818dba308bd8f2f3f80ec",MAX
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/412261305?ticket=B792458A8F9A0582C704DB1EA48D62F23118F2B9&profile=pass
-#EXTINF:-1 tvg-id="54143e8134bb23acaf00d613d8c58bf7",MAX Prime
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/20845652?ticket=DE3D938DDABE0414D5EFC17F35C880F7A7011F9E&profile=pass
-#EXTINF:-1 tvg-id="6f3e17044d9daa3e1fe6608f23235a6a",MAX Prime
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/68632175?ticket=A4844E766C80B0A29D2AA42D66893A7D82E33959&profile=pass
-#EXTINF:-1 tvg-id="ff263788e6f9e78d96712eea1ac00ccf",MAX UP
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/137832191?ticket=0BC2DBFBE4164D5F3CF9B4D38E8644D64C74ACCB&profile=pass
-#EXTINF:-1 tvg-id="1e672f7b0f84edfe091adb73a384f026",MAX UP
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2066704158?ticket=750E0BB3892801446E899047BD8BDC92989C9CCE&profile=pass
-#EXTINF:-1 tvg-id="d7321a387945720d488c3da41213dc04",MegaPix
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/941241047?ticket=8A8F6727377E9C6D9909B33FDBEC888450507089&profile=pass
-#EXTINF:-1 tvg-id="a6cd5a6af926ee3a3ad4e28ffecb8627",MegaPix
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1784335782?ticket=8E1181318B8AB3BD8C7FB3471906BED21DBF5C3A&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/megapix-claro-tv.png" tvg-id="a19660056919190f3b8e31c9a29862fa",Megapix HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/90216097?ticket=3F116BE281CE1F79BA52566DBA12294224801AD2&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/mickey.jpg" tvg-id="bb4348b6a203937f7419376ca4c07c8d",Mickey Mouse 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/910705595?ticket=A7C1D9A983691F34E6ADDF19AB20F38B7BD89E97&profile=pass
-#EXTINF:-1 tvg-id="d878dae7f422b1897d54cc2b25704016",MTV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1742371032?ticket=C8A7A332AFB4B9A86C7919C2EC35A3C9E49D547A&profile=pass
-#EXTINF:-1 tvg-id="6567bc718f9e2be9c98f0d05763393ca",MTV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1908172645?ticket=C81542356E31B77309693170CF9D4C177071C56A&profile=pass
-#EXTINF:-1 tvg-id="22ee8ca5081887ebec30e2a9dd579065",Multishow
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/629992994?ticket=C795E07660F205B9EC9BDBA5CE7455B4214DBC08&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/800px-Multishow_logo-laranja.png" tvg-id="df4b5582542024f23bcd3b1a89b98156",Multishow HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/39144415?ticket=0171B4852B50736D19080EB26B6999A1E2FFC0C2&profile=pass
-#EXTINF:-1 tvg-id="f0b346adfe8f3e636b7a83ca0cdb2fbb",Music Box Brazil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/759608304?ticket=6A30855419C5BB81F6283BD395BD929B8D189C9F&profile=pass
-#EXTINF:-1 tvg-id="ee897b62116da6380637f6cd282a6f8e",Music Box Brazil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1652263406?ticket=679F09C5AECA5471FB156CE6C7B8FF535897168A&profile=pass
-#EXTINF:-1 tvg-id="767b26152becacbfeb0d5b85aff6b980",NatGeo Kids
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/354843510?ticket=3AE7E272840E91D4474ED0A8FD08D4B4D39FCC1A&profile=pass
-#EXTINF:-1 tvg-id="6d3b7eb2f24984a4acad9bf61460304b",NatGeo Kids
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/847133549?ticket=166D23372E0AE527B74B96B47D81E1E274FABFF6&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/resize1_NGKidsAssets.ai-01.png" tvg-id="aeba392f27644a050b5374e930378003",NatGeo Kids HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/792312494?ticket=C704EBFD8E5436A2170701B42F2A3C90382C49E6&profile=pass
-#EXTINF:-1 tvg-id="d75dfeb6e4555b96fdb17518a725b71e",NatGeo Wild
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/922639831?ticket=D6AEDA2D1B9B38176FC99C6D3898C27DC986F13B&profile=pass
-#EXTINF:-1 tvg-id="38f38b6f0333b44ce31d93ed81c03546",NatGeo Wild
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1871442744?ticket=60C4F58072990E46DD9ABA49DE8435C3B88F28E4&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/Nat+geo+wild.png" tvg-id="c16f79a0f673f4fb046b06635e74907d",NatGeo Wild HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/544829377?ticket=054519098C75C646B605BCDFCE5586B08D135824&profile=pass
-#EXTINF:-1 tvg-id="ba690be1e783af6c38ab0070c3e16d58",National Geographic
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1628137914?ticket=A57E1EA5C850AA67E5D315C96F8DEA22FC4BCC4F&profile=pass
-#EXTINF:-1 tvg-id="9c0512eddf92bc622a0c94a56431db51",National Geographic
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1829897628?ticket=A81AFDE35D98F7970385A9C2D1A8A84397222D86&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/ngc.png" tvg-id="6e4bd88afaf89030119295caea73d442",National Geographic HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/181947246?ticket=A390AEEFF7FCB9247C29CD015D8F800F0AA79B0E&profile=pass
-#EXTINF:-1 tvg-id="7a32fc396103773d0ea6475c79e64e94",NHK
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/972829306?ticket=7C6AC6FA886209EEB9C43324BE39C0B299A216CE&profile=pass
-#EXTINF:-1 tvg-id="b21bee40878fbacdcc2570c8b6e94339",NHK
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1089346482?ticket=0E20799933EE74D4D4F8CE46D69E8AB5CE56ECF7&profile=pass
-#EXTINF:-1 tvg-id="57218317ba8579afe878e7774bffa7fc",Nick Jr
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/394469719?ticket=C862E97EEAAACBE1EE58AD8C21C0F0652894C773&profile=pass
-#EXTINF:-1 tvg-id="3d265f21b6cfc3f2a2bf483ca2efeca6",Nick Jr
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/559883837?ticket=EA7629AFEC6D337067885BF652FE833F25F78DFD&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/nickjr12.png" tvg-id="0199a1cd73a522e0f26c6fa9ce19c7ce",Nick Jr HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1302436097?ticket=EDD3CA4A5964D05E996B81411C45CB062C32C277&profile=pass
-#EXTINF:-1 tvg-id="a9e062a9f4e7c25995f6af61747e46d7",Nickelodeon
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/694345897?ticket=D4B151764E20703946EA0C3F19FDAF3E4490298F&profile=pass
-#EXTINF:-1 tvg-id="7e71872a391360cbb39ef02a10497559",Nickelodeon
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/713519486?ticket=3DCC68065C7D36CEB461AA56B40B162E3541E90F&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/818.png" tvg-id="a764f6be096f89cb2fe607f254730dd9",Nickelodeon HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1056335015?ticket=3708AA75694302CE77E4EC3225FA954130261A4F&profile=pass
-#EXTINF:-1 tvg-id="2aee5f47132d6295c2020dee045d5fb4",NOW
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1197469226?ticket=3378B235211602709C45AC831604D32F106387D9&profile=pass
-#EXTINF:-1 tvg-id="fb0bfc7ef8379182ed64535248e6f3fc",NOW
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2130447355?ticket=C98EF21F6177689D59ACECD5BA6227BF1E16F5BD&profile=pass
-#EXTINF:-1 tvg-id="d751474305f1e195d47b6f05ef9034cd",OFF
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1128747479?ticket=6C9B32FD52DC1798075A51263DBCAA157F9AC9FD&profile=pass
-#EXTINF:-1 tvg-id="9532ba765500b59383382b9a9d544aa9",OFF
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1991914133?ticket=448AA44A286ED505F678DE63F8551B7A8BC765A1&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/osgrands.jpg" tvg-id="5a4e3c5f76df60fa24c7c05080ce36c6",Os Backyardigans 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1597787738?ticket=A124F41C838064D6D721DEF48562B5810D30FECF&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/padrinhosmagicos.jpg" tvg-id="166cd0a11c178029fee89ce111e26e21",Os Padrinhos Magicos 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/567307286?ticket=922FB6663AE579FFAADBCF7C20F5EAC111490CBC&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/os-simpsons.jpg" tvg-id="616a17d2d2a20e2b5d767fbbe6b232cc",Os Simpsons 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1377266273?ticket=27FC2D9B1C829EF759E024E7EFB5F45A42D09167&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br/icones-canais-24/smorfs.jpg" tvg-id="c64cf3e652821d5f9700b086be19cd27",Os Smurfs 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1727220934?ticket=C4EEE76DF1D26F120B821DDE2687D0467F9BBFAF&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/pantera-cor-de-rosa.jpg" tvg-id="c30a079a55c5a94e3b57d9007a677569",Pantera Cor de Rosa 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/436669123?ticket=A9FB984EC904E9F0BF4CA825BBBD01269E57BC16&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/papaleguas.jpg" tvg-id="f099905cf8055a398a639fa91514cc34",Papa Leguas 24 Horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1552980464?ticket=5ACCBF1FF1241D7778CFD8028C9B3F035B4E4FF5&profile=pass
-#EXTINF:-1 tvg-id="5d58718ae9402e618bde033ddc6fbeb4",Paramount
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/175200349?ticket=7A7C1B91D9621A3A6ABC78710C90AAC9E631A5FD&profile=pass
-#EXTINF:-1 tvg-id="7c1d36bc8957878aad933200f306db11",Paramount
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1010179452?ticket=95E7250CD2FA0F5B2875BECCE325FCC8939A4E47&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" tvg-id="5ed7ea8932fe419c84995af83220352e",Paramount Channel HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/166385502?ticket=5E1231370BCE57011CBBA9D46313D49CF896E27C&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/patati.jpg" tvg-id="aebb1099a4128137d09160b53baac750",Patati e Patata 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/420527022?ticket=02D6940DABEEB9A4A700385A3550F57E7AF4872A&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/peppa-pig.jpg" tvg-id="7c559af0a9f5daf43a5fa6d2c42a6806",Peppa Pig 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1889162620?ticket=F32664F4AEFD1ECF2AB363B5D2E2385BF59B999F&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/pernalongas.jpg" tvg-id="a46effd225f28dee24672c8571fdc5f8",Pernalonga 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1392471716?ticket=04D421C0FD5641E9E931C454929CB8B590984574&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/pica-pau.jpg" tvg-id="048a718f9413aa86cd85c76ad2d6d4aa",Pica Pau 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/259099140?ticket=2BB0BFD01D5CC6FCC2B909F013F7431454B0AD03&profile=pass
-#EXTINF:-1 tvg-id="f057bc9b92afca784b4795a7f3b23374",Play TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/465328112?ticket=9E73BC575DD04FC96D00E7CAAF7B8B811602656C&profile=pass
-#EXTINF:-1 tvg-id="02a18c2d2ca74be5c6bf64c84337a63b",Play TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/764190978?ticket=9E0259B5859171F1849E41AD1927A3323F412B40&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/playbopy.png" tvg-id="3e811cfffe7113da60bb4a8a6e8df5a9",Playboy HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2132574526?ticket=FE93067A066F375FAB84D21B8CA632B56852ACAA&profile=pass
-#EXTINF:-1 tvg-id="8d73cabe753488e0ccb84f9e86858e56",Playboy TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1053455245?ticket=F3D74F8B4690E675AAE796CB4293A4E9BDF06C60&profile=pass
-#EXTINF:-1 tvg-id="075801ee9b7b2311af218e7ce19dc5c1",Playboy TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1845581831?ticket=06481A7884DC845744FD9AA63E6DE55EF811CA1A&profile=pass
-#EXTINF:-1 tvg-id="30238b378fdfb3fdfedc5e9375adf932",Polishop TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/931865392?ticket=F4F6484F37FB588B77880212FDC073E19F53EC8C&profile=pass
-#EXTINF:-1 tvg-id="4947ef4a749084a16e4866654ca07fd4",Polishop TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1257195337?ticket=BD549A848DF110B5ABD141290F8E38040518A67D&profile=pass
-#EXTINF:-1 tvg-id="48a79966e2e69be95ebf23dda13fe2eb",Polishop TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1721345864?ticket=0C212528B9FFCDDD30FFF99E1870B8E5FF7203DF&profile=pass
-#EXTINF:-1 tvg-id="c1dc7ef2980e4faabfc448781ab755a3",Polishop TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1920916673?ticket=ABF05E34A17F2755E1DC2664D0039B72A9DA72D6&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="16128673455f23eaaebb26be707bd5c6",Premiere 2 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1938166294?ticket=CE3887DA9AD3F9DFA1373A76BACC4DA550646E60&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="e685bf7742ef292ee517608787febc7e",Premiere 3 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2009040358?ticket=68D8F41CDBD2A1189687AD2645CDE8181DFF1A26&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="d3bc8f027b7baf70df4cc98228da8a1c",Premiere 4 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/42974419?ticket=2C54795F9241E419B0E54A1132835CA488B460C0&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="6ab7d9a907d5c429577666c829778903",Premiere 5 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/702134122?ticket=88EE75BC728EB247633BBAD315467A16688E0F58&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="9ff1e70dabb040c55ec9dcb555b50403",Premiere 6 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/233304479?ticket=5422C7C38EEE5F784E530ECF200700C833E22489&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="22b132875165b4b61cfa64ce68aba8e5",Premiere 7 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/120762658?ticket=3CBFFC416B90496ACD22B68F695AE656E6F95F7A&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="122be602902b3af9039f5a7c15216068",Premiere Clubes HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/48638738?ticket=3BF34DD7B7A1A6794446379A99E79ED2D7FD2785&profile=pass
-#EXTINF:-1 tvg-id="39281987e3dbf5f0d97c2b5a570e3891",Prime Box Brazil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/119089209?ticket=DA6C9BAA210456A083C570962E65E73ED199F015&profile=pass
-#EXTINF:-1 tvg-id="65815333aef02001f6dd59d730aa76bf",Prime Box Brazil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/861110629?ticket=288EC1A875454C876EEF97E59249C11B09730A22&profile=pass
-#EXTINF:-1 tvg-id="e12e7511b8e76e2145afa0e13c869352",RAI
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/292892385?ticket=AECF66BF4A0697492123E1D6C36A8A53083C73BC&profile=pass
-#EXTINF:-1 tvg-id="f692e4dbe9504bbef5dcca6f6a25f4a0",RAI
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1541706486?ticket=26B3FDFD2FAA03EC33EC8AAD4031251CFEECB39E&profile=pass
-#EXTINF:-1 tvg-id="55f95605b229cbda9bac292808c7f079",RBI
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/89586005?ticket=A129D32B71BBB84182F805CC8B3E7402CB1828D4&profile=pass
-#EXTINF:-1 tvg-id="885d56d4e4c0e01cbb3ddd19d73b4fb8",RBI
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1414946184?ticket=742D495DD9AA662E71F2CC867BEF1B1846944772&profile=pass
-#EXTINF:-1 tvg-id="f917a901568cf9d57ebaa0231876f0d6",RBS TV Porto Alegre
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/27858937?ticket=400AC49AE6ECFE644EE0F47399E74186C1984342&profile=pass
-#EXTINF:-1 tvg-id="21699b337d61067dac5feff1d6f735dd",RBS TV Porto Alegre
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/865823009?ticket=9F5562901EE46294DC1A4863EA0E2F3B3282E54A&profile=pass
-#EXTINF:-1 tvg-id="2972d3f8d35c142ce6ea19ac7c8e450e",RCI
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2027123241?ticket=E1EFA377A53EC4349C0CD3660C1E72F3C7532013&profile=pass
-#EXTINF:-1 tvg-id="9ce06bfa1e28b07e5f189d519ba0fc29",RCI
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2053890204?ticket=83E47D35FD5CC6D6F5A274C495D4404A78E7F593&profile=pass
-#EXTINF:-1 tvg-id="f76c969b66df6af2c98103e96ed20da7",Record News
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/462843127?ticket=5884EF991216B42484B235A6B5F06494558A9C74&profile=pass
-#EXTINF:-1 tvg-id="fba7d7fc9a42f421cdc020028689e8e4",Record News
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2094508027?ticket=1D31B76E91B111B9BB9B2B8597B628D6C8F93726&profile=pass
-#EXTINF:-1 tvg-id="e16974c3530f1784c2dcb6da6413b137",RECORDTV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1131702753?ticket=7DF3240364ED438572D82D18FC8F9D3784DEE0B5&profile=pass
-#EXTINF:-1 tvg-id="9cc40cdb1f4e2b594f8a224900bfbf01",RECORDTV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1527563420?ticket=66E9C019742F4D79D30417AB852DB6404A6081A1&profile=pass
-#EXTINF:-1 tvg-id="9a7775af493a717a6b5d4665e212dd92",Rede Amazħnica Manaus
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/796227482?ticket=A47FD1D92F214D049639DFF7C2E6DA6A845EB4FD&profile=pass
-#EXTINF:-1 tvg-id="634710b729c5256d591c197a591c3c64",Rede Amazħnica Manaus
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/923813731?ticket=100BEB9FE75CBE6AE393A8742F5BD45F05650E6D&profile=pass
-#EXTINF:-1 tvg-id="aa8693d9c9e049314054c63f376b680d",Rede Brasil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1502840490?ticket=298F1A1E8236F24750C5BA5F75C72A32802FB663&profile=pass
-#EXTINF:-1 tvg-id="f2cc8bee2c874e7dbe38453e3cbee1f1",Rede Brasil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1854655730?ticket=A655B9BE8D5EFCC2F940012D24E977065C32928F&profile=pass
-#EXTINF:-1 tvg-id="ea5b211e4eacfdba76ee5ea81c454148",Rede TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/505502698?ticket=87963DDC2B9D2F67D54FE4A6313084BA26C31547&profile=pass
-#EXTINF:-1 tvg-id="b891e367ec4f6d3b667e9fc466d6535c",Rede TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1742967224?ticket=5AC8D44F4206B0779607C298D9D858920ED1E73D&profile=pass
-#EXTINF:-1 tvg-id="581f44844a24f3557840347f5aa70fd2",Rede Vida
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/71573336?ticket=F4175B45A9F9E98635B9A3FA986A92836556E6AB&profile=pass
-#EXTINF:-1 tvg-id="27e10df3ae571e73ec1e866982b4d9ba",Rede Vida
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1930289447?ticket=7FAB4F0A8949E4A476691F207458727352182450&profile=pass
-#EXTINF:-1 tvg-id="7c164897580a096f3a7db33d005e303a",RIT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/390600316?ticket=807A284A3BB7F4F94F21CB6F0F4B505658D2BE8E&profile=pass
-#EXTINF:-1 tvg-id="25ee02b06809df69fd784c105af6d562",RIT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/805498405?ticket=4A801CF59659F264DFF0894E5CCC21F92E69FDC1&profile=pass
-#EXTINF:-1 tvg-id="15852e2df90bc577c5d3d3fa573b5460",RPC TV Curitiba
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/758023445?ticket=018DF30E4BBAC9FBBEB419DB4844425C8170440E&profile=pass
-#EXTINF:-1 tvg-id="1fbc87ce64431267c4529d99b26c3c2b",RPC TV Curitiba
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1317518367?ticket=2FF7E0AABADA2F214B2B7219C770636DECB4FECF&profile=pass
-#EXTINF:-1 tvg-id="f283020c9fd3ce9dcf311f6e02d98daa",SBT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/201491442?ticket=EB1A381E01039B8F1C96428385B6B1ADA2F990BB&profile=pass
-#EXTINF:-1 tvg-id="95d4b91d40a0de0a7da03a3c27f51ce0",SBT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/498717845?ticket=423C6DEF8032DDCBC3EA24732B19C230381671EA&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/scooby1.jpg" tvg-id="b04ac1364e6163f0ba7f18613eee9048",Scooby Doo 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/918637232?ticket=E91A9587ADA15053A47A0CAC99DC1064851C631D&profile=pass
-#EXTINF:-1 tvg-id="029ed4ac90939e3121333b888698b4f7",Sextreme
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/752131586?ticket=0EBC4D74D81BDCE391AC766A522F48AB05221BD1&profile=pass
-#EXTINF:-1 tvg-id="ea6184fc7c3dfcc7ab0242c3c14fecb4",Sextreme
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2089050602?ticket=681B870D419B162BB7949215872F29DFBD98D9E5&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/Sextreme.png" tvg-id="d4e741cc72c1bc79a747e5a8accd76a6",Sextreme HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1279387604?ticket=8BE4203959F800753F6D3C1133C9F6F630C54EA8&profile=pass
-#EXTINF:-1 tvg-id="14c4bba90d4555d8806e6e9ca572def1",Sexy Hot
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/700171284?ticket=E03397E54CBF6519203B8650354961C1683C5110&profile=pass
-#EXTINF:-1 tvg-id="db9827c7b326f0b85aed44606002d4d9",Sexy Hot
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1193777371?ticket=5A118B283993912273889650BEB7FA0728DBB988&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/Sexy-Hot.png" tvg-id="7f5fab9bc732379cdb5dd17e703eee3d",Sexy Hot HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/464215935?ticket=0B78E29DC929F43299B43ADAE0E7E1784839AD63&profile=pass
-#EXTINF:-1 tvg-id="0e0810d578fb2af8dc0958dace9b490c",SIC Internacional
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1427113998?ticket=34CEFFBF9DCF5F65CD30646CF198CB202DEE6785&profile=pass
-#EXTINF:-1 tvg-id="9aef11f12080ce7c4d8e2f9772e58482",SIC Internacional
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1897000858?ticket=7CC3245881F4BE530259FF227F507B8DFE6E6AFC&profile=pass
-#EXTINF:-1 tvg-id="ecda60a6dda1e4613d68ce8dd872c769",Space
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/643881708?ticket=57AF66257FACE28625D0D715F583428CECF7CB30&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/canal-Space.jpg" tvg-id="5992235e41ab0098dcbdb05baca7e926",Space HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1579389529?ticket=F1AA3AF1290E5B48AD69841180B1D8539E179EAC&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/339732.jpg" tvg-id="f9f58c88f11dbaf7fea298b5cead04ea",SporTV HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/143455737?ticket=4392893B0B121D0AA87A4A2313EA39960B4F2335&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/3397322.jpg" tvg-id="3818747705603ef40652b2c7f0867274",SporTV2 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2004097080?ticket=FDA63D81D94E49F1D6F68524C28A4EEC526782DA&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/339732333.jpg" tvg-id="e2b07d775725ff2a1b181737cc91e99a",SporTV3 HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2004725986?ticket=FFD0B73AA6CF2E9A0264452918340CB12E6B853E&profile=pass
-#EXTINF:-1 tvg-id="98cd1f9dc1e8956ef5c325d0a4b5c6ee",Studio Universal
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/488623512?ticket=029D5A25879BCF1D6627F1D49AE8CFF5172C62A4&profile=pass
-#EXTINF:-1 tvg-id="6a7161cca7f36673120c80df111e2e77",Syfy
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1281454442?ticket=0B9C8109D9BEA4E6DBDD883CF7CF244C1F335096&profile=pass
-#EXTINF:-1 tvg-id="7775e4db14083d07763c04339b0bb4c2",Syfy
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1541698935?ticket=6AA3993352BEF86127275141EEAC8A6954C3B2FD&profile=pass
-#EXTINF:-1 tvg-id="db46a499b63bb0a6f5cb86894105a196",TBS
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/430196443?ticket=E4CBA2F1986B6B3514276771F5139845454A2EC6&profile=pass
-#EXTINF:-1 tvg-id="6f13d84e8307c497cabd28e20d116fab",TBS
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1322783599?ticket=F0ACB5184C3D055C23985A507E85FC92395A4593&profile=pass
-#EXTINF:-1 tvg-id="4b58f6cd65d06ae7dab5643a7badf127",TCM
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1307990091?ticket=C0712F1FE8C1C51714451CE762108940E515681B&profile=pass
-#EXTINF:-1 tvg-id="98ffae88641dbb842089368dca8ed7e9",Telecine Action
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/145686424?ticket=4D1B9F1BEB666D3AEE8D0E47CD2567EC143200BC&profile=pass
-#EXTINF:-1 tvg-id="a16e8416e556c85ffbf6281446bb1b2c",Telecine Action
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/377777825?ticket=0943A906F239355AF291F4979CB77D3BBCFB9D70&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" tvg-id="23b6af093fd2fc6659e9d9fe405bcb7c",Telecine Action HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/162510371?ticket=DE14BCBE4D2D098330447465E9E7B87C896EC20C&profile=pass
-#EXTINF:-1 tvg-id="dd436932f938acd94121ea19139aa7cd",Telecine Cult
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/845759453?ticket=8A17A37ACCB6D054A45C60397308DA10A245BCC0&profile=pass
-#EXTINF:-1 tvg-id="3e26b8ea69df20433853272f4bdeb9e5",Telecine Cult
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1790453310?ticket=122698E48AFFD445D99011194C00622FF0D5121D&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" tvg-id="faa185fcb4b08571ed87d057f175f2a6",Telecine Cult  HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2089132538?ticket=8A4E023E8F9DABB322DD3689E727755D4BE35A01&profile=pass
-#EXTINF:-1 tvg-id="59176444b3dd2e5d2f4af9fc29bc0306",Telecine Fun
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1147410265?ticket=8B52D64BD4EFA9B72A8B2B3F9E5A0FDE2B184F0E&profile=pass
-#EXTINF:-1 tvg-id="6857734e3c56e464c4720ae611af7dc2",Telecine Fun
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1316181864?ticket=1B9AE0101043B4D8397A99A0F2BAAE8C277C6398&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" tvg-id="152bb5eb28b0a89f89ca104d8744bb0d",Telecine Fun HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1807035157?ticket=7BF017DF430417784D4044A9715BFC3F5C104495&profile=pass
-#EXTINF:-1 tvg-id="18488c39de64341139b997c6a2eb7f65",Telecine Pipoca
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/965494808?ticket=F9AA7C85337E34B55E79B6FEC78D89C3FC24E5D9&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" tvg-id="c32d51dc0219796ac1bd9b039cac9d53",Telecine Pipoca HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1548824003?ticket=05EDA995EFD94F73763338A9BCBBC7FF6A4C7A08&profile=pass
-#EXTINF:-1 tvg-id="f560cd3e1d435d560467f72fa87d42a2",Telecine Premium
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1053647093?ticket=3E3182AB6FD6BFDDC84DD3C0130B1CA9F96D8BCD&profile=pass
-#EXTINF:-1 tvg-id="0754f6d6ade5833e9ef9897ced66651f",Telecine Premium
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1458983943?ticket=1FA7A5A8E8F4DF1E735A700D92D23817DF975F75&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" tvg-id="f5f0b7cb74ff69660abdd55068099c23",Telecine Premium HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1270345973?ticket=1144A0414A341F0095950F4950A44CCD51023E0F&profile=pass
-#EXTINF:-1 tvg-id="99c3d8213c96348bed8eeead2866a588",Telecine Touch
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/567853977?ticket=858A45B20AD1428CC44542F334F06BA3CBACD97D&profile=pass
-#EXTINF:-1 tvg-id="bcc1f0780f3edc94623a020975544d24",Telecine Touch
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2029044156?ticket=F78B91726992ACB3C51B85348540E8F22C20169B&profile=pass
-#EXTINF:-1 tvg-id="7b019dd975c33b91598ca0c9190e8801",Terra Viva
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1503461755?ticket=C2B3BF6E38F7EE78611D6476F08C2499A200DFF6&profile=pass
-#EXTINF:-1 tvg-id="f2e86df36af7d5dd398ceb078c94509d",Terra Viva
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1936582898?ticket=037ED7B0F27A9B5AAFECD5128D1389D071EE7B45&profile=pass
-#EXTINF:-1 tvg-id="03061ec80c5d7bca46b64c32a442bed5",The History Channel
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1209927171?ticket=D62F0E0F75823B2A2493E5B913F41C7CCB13306D&profile=pass
-#EXTINF:-1 tvg-id="d223e7ca79dfae92923f5eca131a0b66",The History Channel
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1256661970?ticket=8BF420EACF298CAA23B25EE9F107BDACA0D83C01&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/theloudshouse.jpg" tvg-id="b0e8f7b57a5df37dbe375d4422085984",The Loud House 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/905439408?ticket=5F28D3AFE8B4DAB47FE1822DD244F454A2B2484F&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/tandercats.jpg" tvg-id="e3cf3d99f9bff66f4730cb8f470ad46f",Thundercats 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/423481315?ticket=12F44E5B358DC0398292B1B51326959941C09D18&profile=pass
-#EXTINF:-1 tvg-id="6f512d472f8693790f6e66eb67e022b8",TLC
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1194152303?ticket=7CAF282ACD35F2900186B6DF3F398A05A62B17BC&profile=pass
-#EXTINF:-1 tvg-id="fbfb1674b84ce854e5c0014e854a2a89",TLC
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1947663355?ticket=59E953B74C92A8ABAAB8436708B3892E5580E8B0&profile=pass
-#EXTINF:-1 tvg-id="509a5184ba15e01a8300135827a3bb8f",TNT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/72456784?ticket=F45F96079C266841A208751069E45B78EF45DFB6&profile=pass
-#EXTINF:-1 tvg-id="e8322b21baff8ed1b433d8a83b982e70",TNT
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/556479208?ticket=5E6B7ED02E2891838EAF202BBE6056B0909AC217&profile=pass
-#EXTINF:-1 tvg-id="bebc354254c04855ebce90a6cecae905",TNT Alternativo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1110817982?ticket=945509481CCF2EA9DDC513C873AC302D826FB6CF&profile=pass
-#EXTINF:-1 tvg-id="fcd2a1edb41ed8d46af6c30021dcba84",TNT Alternativo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1839321852?ticket=747BB3319C9AECCE071D056DC462A855D5E0B066&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/tnt12.jpg" tvg-id="1ffe9e2e92d7a5d5412dbd88c9c09946",TNT HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/782171679?ticket=CE7B92F720868114EF18F9FEC2ADDA1247895184&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/tntseiees.png" tvg-id="6eec53d16f1138997b481d0cb02025f5",TNT Series HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1364454510?ticket=AF2804BDFD80AC1D674C5B17CC8DDE22BAD401E4&profile=pass
-#EXTINF:-1 tvg-id="00861656aab1b99ba591e867fe932299",TNT SØries
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1444316672?ticket=4D6D288006BA7D738AF2B61E4630B5FF87D88CEA&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/todoodeiaocris.jpg" tvg-id="42e6e8c5c3571e498bf67cf747ad994e",Todo Mundo Odeia o Chris 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1172891202?ticket=8F53BAFF4BE81809A0DE50903253CFA0E40E2147&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br/icones-canais-24/tonejerryn.jpg" tvg-id="87a67f54b7332c50df200fc57dc3a4db",Tom e Jerry 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1417651847?ticket=8505B498C1EF84685B4AEC733F6F6A3A0872F653&profile=pass
-#EXTINF:-1 tvg-id="9b03879cb5d3b161acc6d92787593689",Tooncast
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/478610331?ticket=ED630C665AAAECCEDF961F0CB8E90790FB6AF413&profile=pass
-#EXTINF:-1 tvg-id="8397a19d1e353af28f6ecc09426fcbbf",Tooncast
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/497129347?ticket=109F06C72FC2B67688CD6D6BD5A506023FEF49B8&profile=pass
-#EXTINF:-1 tvg-id="2be0fd16c8b77670a7b9e5394fc5e8a7",TruTV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/385736747?ticket=42B2290FBB1D26A06C0D3DAFDFD04CEE8982C43F&profile=pass
-#EXTINF:-1 tvg-id="ce092837e7af263e097c16596f1ff070",TruTV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/925370830?ticket=D993A51ECA411954C0B1199E2831F8EC45A76ECF&profile=pass
-#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/turma-da-monica.jpg" tvg-id="bba115e846ab932c8a9379e4afc32079",Turma da Monica 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1746248123?ticket=958DC1076A59A62C77ED4C9FB5CF77A409E2CB08&profile=pass
-#EXTINF:-1 tvg-id="5b3e000c71f0d5103fd88375ccf753d7",TV Anhanguera GoiÐnia
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/201342555?ticket=81F0ADFD2FB47107FF7C5845F70CB4698776F9D0&profile=pass
-#EXTINF:-1 tvg-id="cdb262de7d38e26b7fec1fe3f3ce28a2",TV Anhanguera GoiÐnia
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1583526605?ticket=F43E16B92D5E401A07F42582196592461A3E7F3F&profile=pass
-#EXTINF:-1 tvg-id="849bfc8803b2617b2c5cf340c95ee512",TV Aparecida
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/150772612?ticket=712CDF40FFED0FE6FDCFD2DD1C9845B0DF3FB622&profile=pass
-#EXTINF:-1 tvg-id="f96876c5410b3cf1d378129dcddab3fa",TV Aparecida
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1165388025?ticket=6832F6051D9EEEBE6B14BFA20EB7978A10C34A17&profile=pass
-#EXTINF:-1 tvg-id="78ffe407831dcd8efed771d25c51ee1d",TV Bahia
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/132448120?ticket=185236982D3182C695C8A39C59EA49E66CD5F04A&profile=pass
-#EXTINF:-1 tvg-id="fd1192fb2227728263c499d9a9a5877e",TV Bahia
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2073170429?ticket=CC29BF554DAA5229BA0DCD4BB94DEA0F5BCF2E19&profile=pass
-#EXTINF:-1 tvg-id="f06c56ae5a20130d12371b3d612de0a7",TV Brasil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/777415920?ticket=2067C1B45AA7B8F55D80F6CEC1FA0267A369BD9E&profile=pass
-#EXTINF:-1 tvg-id="60a09ce9ab98cf1cb3da45f69aa5d8c5",TV Brasil
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1771872352?ticket=1875BA32DCB4BD6827793A8EDC7FF9413481B7E4&profile=pass
-#EXTINF:-1 tvg-id="cafdbd1cdad75129517081dba0255251",TV Brasil 2
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/482213322?ticket=CBCE557E89217D96FEA152F29FAF5C5A13B00F31&profile=pass
-#EXTINF:-1 tvg-id="6cbe0036106cc5063451a0543a0b49d3",TV Brasil 2
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/906018412?ticket=49F966D3014DAEA58A691ECAE01ADBB5F829FB77&profile=pass
-#EXTINF:-1 tvg-id="7a7767b0fd14970078c5a50206027f17",TV Centro AmØrica CuiabÆ
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/812087162?ticket=53759018C23D7D68FE53EC3D8E2F5ADF0108231E&profile=pass
-#EXTINF:-1 tvg-id="e1fe77c0054fa79dc6b74d49fba8474d",TV Centro AmØrica CuiabÆ
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1081605857?ticket=5F4C7889A0443F4B05FBDC4BC10258D4F4AE4E28&profile=pass
-#EXTINF:-1 tvg-id="fef83c859d8999768213ac388733e4a5",TV Cultura
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/87881982?ticket=007FC30A03C61EBC8A8F81CA6F5BBB01B7F8C39A&profile=pass
-#EXTINF:-1 tvg-id="a36d209a0c07b4abb50e16b075b8ad30",TV Cultura
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/438332835?ticket=5BEEA7C6E0193759A4C83B29776FA4E7C8CE63F1&profile=pass
-#EXTINF:-1 tvg-id="f600a6416bb9ddf908701f6476301c52",TV CÐmara
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1101398262?ticket=CDBE4C95DC171BCBD9F4172E9FE4004BED5841AF&profile=pass
-#EXTINF:-1 tvg-id="942975507269a5bfad5ce6f8109e95e0",TV CÐmara
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1349855636?ticket=245682ABE746987BF31CEEEFADD0CF98713DB558&profile=pass
-#EXTINF:-1 tvg-id="21b7d9089282c3f98f7abbbee671a001",TV Escola
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/148485921?ticket=EA17AC3654413C0D6C85D8A8E8B87E90CEABB837&profile=pass
-#EXTINF:-1 tvg-id="31f4cda8ea87c072d3a3b33dbc468708",TV Escola
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/684586033?ticket=8D92CB7DE7D27A1422F295C5254B5D1B493FB954&profile=pass
-#EXTINF:-1 tvg-id="4928092a7dd17cf4a78ee6d5adbc1ef9",TV JustiĿa
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/705243209?ticket=61FE44B6F99344C97796748D1FD8E66E67419F74&profile=pass
-#EXTINF:-1 tvg-id="1e2eb1e9d9632b916c49a5a62f332d6b",TV Liberal BelØm
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1773219358?ticket=10BD29957D1EC335D1568290FDC8125C27B6A865&profile=pass
-#EXTINF:-1 tvg-id="5221a8ee393f3d47b1bd38c4959f75fe",TV Liberal BelØm
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1856512338?ticket=A53F621FA4E644976CF85CE1ACF3ED3643E33E52&profile=pass
-#EXTINF:-1 tvg-id="f8634a2a6825ec2163269dec40e9a87a",TV Novo Tempo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/709518328?ticket=2CA00C1918F629D9D545F422EAA5E54DB071D0F5&profile=pass
-#EXTINF:-1 tvg-id="8bef86b7fb570a525e34d49f3a17cd23",TV Novo Tempo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/931590027?ticket=5B9C7C35A483FE6B356C9A8D820677A0AB9B998C&profile=pass
-#EXTINF:-1 tvg-id="8b2ddb401d9fbc9cbaa1d9732d3efdd2",TV Novo Tempo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1088105867?ticket=26223908C8ACB7E2A8FDC873441BA8ADBF73C4CA&profile=pass
-#EXTINF:-1 tvg-id="1cd40252b33699608f38c2842697664c",TV Novo Tempo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1375917084?ticket=9B2B9BF3C0BD0DFC23346FFD0A73F6851DC95202&profile=pass
-#EXTINF:-1 tvg-id="8e9b770a913f879f2acac5401c64ab32",TV RÆ tim bum
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/175610766?ticket=1EF03C0130A7483E34D68E70063A38FF4CBE33A0&profile=pass
-#EXTINF:-1 tvg-id="e2a7513f2a1f1c7778698c1717a8a738",TV RÆ tim bum
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1062316002?ticket=2AD99CEE07C79700389B360842ABF78E431C9B4C&profile=pass
-#EXTINF:-1 tvg-id="fcfbacaf60553b4f81f98914dc03b638",TV Senado
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/799865852?ticket=307A0299B8DF49B73FC2374A7DE611529D79ED81&profile=pass
-#EXTINF:-1 tvg-id="1c4619fd114d4d78e6fd707c028fd0fb",TV Senado
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2098808348?ticket=A45E5E5B06244EAD3F1913A4B9B88D39942659CD&profile=pass
-#EXTINF:-1 tvg-id="b36c590f35e5846984d468a3f53aedff",TV Tem Bauru
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/257518771?ticket=FF0A3E1DEB8E7520437C1C97EF58ED4B1ABC77FC&profile=pass
-#EXTINF:-1 tvg-id="32284895494deb9591d967c819377b55",TV Tem Bauru
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/357050418?ticket=F603B287F1B28DF1F23D1588640722CADB4FBAC3&profile=pass
-#EXTINF:-1 tvg-id="d2dcdeb4239702b07d0e3e223062b13f",TV Tem Sorocaba
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/887020754?ticket=58F6253E499017F2A660E9C0F75380076630B946&profile=pass
-#EXTINF:-1 tvg-id="8546c373848b85af42c9ea31ac0c11a6",TV Tem Sorocaba
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1942177413?ticket=0633BB509B08A858FE9881A75A2950AE35E4D5C1&profile=pass
-#EXTINF:-1 tvg-id="ca8fccac8901cdbf719a574e94995c53",TV Tem Sªo JosØ do Rio Preto
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/751603658?ticket=765F93EE918D283128AD2311DD234B202DAF10AA&profile=pass
-#EXTINF:-1 tvg-id="13eb20f6c600cca276d7ba1a5775f08b",TV Tem Sªo JosØ do Rio Preto
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1981868819?ticket=DC7975519D74E75C4D1654E3C4D25E3B391F3867&profile=pass
-#EXTINF:-1 tvg-id="0bef4e00833f4d7ee7d65162f453ff5d",TV Tribuna Santos
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/5173003?ticket=038C37D7643D989C294B51B902D80A39C726BD3A&profile=pass
-#EXTINF:-1 tvg-id="157664c69a7370b6ace1c15d26f69fd2",TV Tribuna Santos
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1180988949?ticket=E384CE6165BB513E42FBDDB7E1719ECB0E65B0CB&profile=pass
-#EXTINF:-1 tvg-id="9c304dc940ecf75c4dd2ac10f0efb25a",TV Vanguarda S. J. dos Campos
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1229795484?ticket=91499F8679EC0B9BA5D6A196777BCD7BB1101269&profile=pass
-#EXTINF:-1 tvg-id="140333f59e59d5b51c96c8866ec86974",TV Vanguarda S. J. dos Campos
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1966277396?ticket=4E9C8A7BE1370CD4A0A183269907DD7B88B67CE5&profile=pass
-#EXTINF:-1 tvg-id="b905aacfec170e1c0a39660d72d8ae60",TV Verdes Mares Fortaleza
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1336542649?ticket=2D39AC034C1401A2A81E45126AFA07B0AD84C023&profile=pass
-#EXTINF:-1 tvg-id="884cbf76d370e3e39f2ae7d98dab5abe",TV Verdes Mares Fortaleza
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1992248456?ticket=FF3E9599B612997BF358F5516C451AFC17AAB94E&profile=pass
-#EXTINF:-1 tvg-id="18a7d8c1a2f3790d8000f82ab764d73f",TV5 Monde
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1104717592?ticket=21A4192E5FD4CDFF79CF3F78B559286281A40DB4&profile=pass
-#EXTINF:-1 tvg-id="cc45b8e663aea9a03dd5b76c117a8054",TV5 Monde
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1723352524?ticket=13B3D4B94176D7B57CCAE61A40EC03925CD407A1&profile=pass
-#EXTINF:-1 tvg-id="7729cbca8ef7ac4e2ecbb769ddc973fa",TVE
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1254828407?ticket=3DF89B25D4270DE36710705A748A78BC650821A3&profile=pass
-#EXTINF:-1 tvg-id="592e75e2829a27257b50f27bb2b62bfe",TVE
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1651846745?ticket=EE56E251E40D23C774B22A6E17DCAE475B2C31BD&profile=pass
-#EXTINF:-1 tvg-id="8391498940484fe5c099037f6e066f88",Universal TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/155816323?ticket=8885560031B5FEAFD06B2AC185A3BB0BB1C3F27C&profile=pass
-#EXTINF:-1 tvg-id="19862a9da4a43294ed211067cb8f7044",Universal TV
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/489326105?ticket=4919B88F6C9D4690DAF6A651877D8D0F06998628&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/ursinhos.jpg" tvg-id="eab9913a1cb32c381527fe328214dd95",Ursinhos Carinhosos 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/982628842?ticket=13381D2E2544D4026608A21F972314E2AA709F06&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/218-2180558_canal-venus-logo-venus-canal.png" tvg-id="38d219fdb8eaa3d42cfc2eb8c078ba91",Venus HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2098844216?ticket=849B82C2B00143B0C78BCE0448D0718646C744C3&profile=pass
-#EXTINF:-1 tvg-id="b112605d179b5d89a98a404ce87e2b29",VH1 Megahits
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1566577329?ticket=0B8E9A6BD63B056646FC97B71400407021841D88&profile=pass
-#EXTINF:-1 tvg-id="7b12adfeda10dcc94e7466b74125b605",VH1 Megahits
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/2125271675?ticket=85220BB92E4A4D322075C03E49B23451C2F53A39&profile=pass
-#EXTINF:-1 tvg-id="448409a05218e8351a90fafbc630f419",Viva
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/537494596?ticket=B04D68899141882BA700AC5745B072600E0126B4&profile=pass
-#EXTINF:-1 tvg-id="b7646a6e1b4a3de31836306d02ced184",Viva
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1852466359?ticket=33618B5A2BE9940A83EEC4133CBB9B6A163785E4&profile=pass
-#EXTINF:-1 tvg-id="1f0bbd2c32ad44abf4f998acdd4f3c85",Warner Channel
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/750586655?ticket=4D562204618DC0C5E5FAE973459DD2704E72586A&profile=pass
-#EXTINF:-1 tvg-id="1158f76f669a3c700a24aedafb46f392",Warner Channel
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1878480913?ticket=B7EEE9DF791C22953D5AF9D0D1A50916F5C13B9C&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/Warner-azul.png" tvg-id="59028490b24b617fad746f65864602c5",Warner Channel HD
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/277086809?ticket=D62E11C25885C6E4CFCD4BC7E568D2C9981CEDD5&profile=pass
-#EXTINF:-1 tvg-id="bc57ea5a6e6e5239c319bd1226bdcab3",Woohoo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1525307324?ticket=1FCE0C9C45D41E12C63CF434EEFE452CD3106447&profile=pass
-#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/xman.jpg" tvg-id="65c3a15cdae29c2812008cd387130958",X Men 24 horas
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1554105189?ticket=FAED462A87566C897419C6646835D8CFF026CA3A&profile=pass
-#EXTINF:-1 tvg-id="843714dcc47abb0428316e65a8dd9ca5",ZooMoo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1544828804?ticket=6C22F112E4B92EFB8D96E96653A5DB54E770A499&profile=pass
-#EXTINF:-1 tvg-id="f9f107df19b5fe0ea6c378d8e3e1062a",ZooMoo
-http://onlinetv24h2.dyndns.tv:9981/stream/channelid/1594356217?ticket=8FF44E87816D8AEF766EDAA7CC5FFBEDBA8CA49E&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/pracanossa.jpg" tvg-id="becf32c22a034de69446d9510055ad97",A Praca e Nossa 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1110626238?ticket=C3CC199656D0E7CC225769C473BFCB0E4A2375DC&profile=pass
+#EXTINF:-1 tvg-id="b24477a09f9dbe380d24efb3101654b7",A&E
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/544687282?ticket=309E48E3DFA73E005F4CC5BC9101BE1FDAF2E779&profile=pass
+#EXTINF:-1 tvg-id="48ba01520c4cb1b7b7ff4f44d236df33",A&E
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1375844936?ticket=0E407F085E58A3DB4C6CC4012B862DAAD5511ABF&profile=pass
+#EXTINF:-1 tvg-id="2c02789c3ad03c64011263ce1f746012",AMC
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/477626924?ticket=F5BC3CB9238ADBF335F67CA08D4DD92123EBF6CE&profile=pass
+#EXTINF:-1 tvg-id="242d77c878fcbe135f501db25589bf84",AMC
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1215769892?ticket=3FF006780AABDA29CAB6AB30419D05B602791AF5&profile=pass
+#EXTINF:-1 tvg-id="2d0b408d4339ca4e8c7020554db146f1",Animal Planet
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/222300973?ticket=B86BF1BC47E7F341DED68793A494404B4704AE94&profile=pass
+#EXTINF:-1 tvg-id="f9139af067121cfabfc186845f26308e",Animal Planet
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1889145849?ticket=960EB55EF67D892D78880B54AA38FE5687C0797B&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/animaniacs.jpg" tvg-id="bce87ecfcd3f06e556bf6414029203a1",Animaniacs 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1333717180?ticket=4F11F6650C58B6CAAB0F45BFC8FAD35B3A4D5BF0&profile=pass
+#EXTINF:-1 tvg-id="c8c2ff38c463bfbc9f66d77279692443",Arte 1
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/956285640?ticket=E68005E0F122C138E04AC5D9BB523E01F68AC90F&profile=pass
+#EXTINF:-1 tvg-id="29492a7d06f84712a3d8a99c6eb9c1b9",Arte 1
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2099923241?ticket=F279690149D088D6C02606A5BB57D8EB5F37E3AE&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br/icones-canais-24/superpoderosas.jpg" tvg-id="ed2ac8111a4501f86d184267286efd1a",As Meninas Super Poderosas 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/298330861?ticket=0C5D8348E5743C6D12A38E6B704D23CC3C62E021&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/astartarugasninjas.jpg" tvg-id="4c7d1316efb75b753036b901fdbbeaaf",As Tartarugas Ninja 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/370376012?ticket=0C020BD9BD3AAA573C8CD183D389A75D29226FB5&profile=pass
+#EXTINF:-1 tvg-id="5b4d44c262149a12e496acb98b49bcc5",AXN
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1111772507?ticket=09CCBD40DBEF499567E896A391CB0D01A95241D0&profile=pass
+#EXTINF:-1 tvg-id="c1ff24f9b2dc25bd580eb432dd35cbb2",AXN
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2032467905?ticket=DFBDA0108CF5A03602328B3645870C96411C8A5B&profile=pass
+#EXTINF:-1 tvg-id="736068829f972827304cb08520d2a789",Baby TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/40394867?ticket=BB56BEE12E56E529E011D86B8348A4FA181AB7AD&profile=pass
+#EXTINF:-1 tvg-id="2ddafcca779d566bc6473e0d359af1d5",Baby TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1258084909?ticket=1C2ED746A86F691568A18B776767E81C69DEC41B&profile=pass
+#EXTINF:-1 tvg-id="204a55275bd855a0b9b1cb576a52ae7b",Band News
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/659900960?ticket=337343D1C5DF29A99E9B3ABEA46B06439829B72B&profile=pass
+#EXTINF:-1 tvg-id="f6dd036f3a5f6ac3826ac9ef3cd8db39",Band News
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1862524406?ticket=BA933A2FBCDB90063FBF45233DEC56A81F8FFA2D&profile=pass
+#EXTINF:-1 tvg-id="53bfa8836dd1c900e5d7a8d705d919ea",Band Sports
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/61390675?ticket=1C731B5BD070A348C2D2E454D30552B457B87B46&profile=pass
+#EXTINF:-1 tvg-id="db70a829db3eeeff1419b2c56b2db0eb",Band Sports
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/698904795?ticket=C8383C90F11E54A981D6B19D58F69CA0B6DAF30E&profile=pass
+#EXTINF:-1 tvg-id="87a3949f6b74c0daf5113fd3dcd25b3e",Bandeirantes
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/529834887?ticket=BAEFAF8667F47C03587EEB1EC606FFD9A9144039&profile=pass
+#EXTINF:-1 tvg-id="3527bbfb87784025bbdd0e0d8b8e8301",Bandeirantes
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2075862837?ticket=E2436B7C4C4D70D9ACCB2E289F563B71A6C26BA6&profile=pass
+#EXTINF:-1 tvg-id="3066461b06429b15de51794ed912e132",BIS
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/457598512?ticket=5676CFF2EB9B24CD0D0E5DCAC819E3681A36E756&profile=pass
+#EXTINF:-1 tvg-id="278ec0f518ffbd6f17445e320a99235d",BIS
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1975553575?ticket=C63B26B51E52EB83DDD2DC7E25A559D8B7F9D643&profile=pass
+#EXTINF:-1 tvg-id="2c1bff85222311b73c602685e570c5d5",Boa Vontade TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/100604716?ticket=1ED4B06272C849A34D810EAA3B1F97AB49DAB205&profile=pass
+#EXTINF:-1 tvg-id="bfb68f28b4296d42c666817f5c98868a",Boa Vontade TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/680507071?ticket=FD8B8E2739F196CE91942684EACF1CC2749D8FE9&profile=pass
+#EXTINF:-1 tvg-id="49a1eb4cff37785adcac12f1ffcefd73",Boa Vontade TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1290510665?ticket=4B8CD830BED1BD148B7CE83C6538BAD8086C9B6E&profile=pass
+#EXTINF:-1 tvg-id="da93c55fdad6057c57dc92a9466ab50c",Boa Vontade TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1606783962?ticket=5547649DA26F1AB9F61308180F31946311F6C914&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/bobesponja.jpg" tvg-id="052baf49aa7da4c640005f7479de6f27",Bob Esponja 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1236216581?ticket=6A7DBF5C10C497B69D812EA81F51968EEFB60E7B&profile=pass
+#EXTINF:-1 tvg-id="ecd04fdc2f74bc4866665109bfc482a0",Boomerang
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1548734700?ticket=77C27A3CBC9F9A69F770CBD5BBB526546DAA75EB&profile=pass
+#EXTINF:-1 tvg-id="ec96007478cda021adb5c65c0b193c35",Boomerang
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1946195692?ticket=7AB36E87C6E26F1C54F89ADDDB1E2B9752DA12B1&profile=pass
+#EXTINF:-1 tvg-id="3edef1ba3670b63491bea092199c4a5d",Canal Brasil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/988929598?ticket=F71071940E7CAA8BE649E1B3BC98D4A486AE5C06&profile=pass
+#EXTINF:-1 tvg-id="7d37d975751f04b163001f2c487a0651",Canal Brasil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1977169789?ticket=97F28FB213C04E124164445F134AE0D002E80817&profile=pass
+#EXTINF:-1 tvg-id="388331692993089ba56d7306d6b38e1b",Canal do Boi
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1764852536?ticket=FBF70EC4207E9BCE808B981C0D7B284446DE3AFF&profile=pass
+#EXTINF:-1 tvg-id="a21898eed734d54252f08ba1df352733",Canal do Boi
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1855461538?ticket=E1D4D2BAEACF94E4A4FD37C7485A78779A2B0F63&profile=pass
+#EXTINF:-1 tvg-id="7a5ed1ae29594b04bf31bc9f801219c9",Canal Rural
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/785473146?ticket=B7183F3E8773299D41FA69FF46E9079745814C9D&profile=pass
+#EXTINF:-1 tvg-id="b463eb6ed172db82c2bbbf475c66d52f",Canal Rural
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1860920244?ticket=73D0DAFAA918F8325D84BFE62A7689569ED674B7&profile=pass
+#EXTINF:-1 tvg-id="0b9e8f2f4237544169498ec93083a084",Canal Sony
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/797941259?ticket=04E24B7533AAE77A35FBD9099CD41138C5A7F5A5&profile=pass
+#EXTINF:-1 tvg-id="e4c5d155a549714b3671b8021498d6b1",Canal Sony
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1439811044?ticket=BCC4D1B329E42B02D76C95C3E2E1AFA41F03F7AD&profile=pass
+#EXTINF:-1 tvg-id="3907a1ce7201271cd2050e293b5d2276",Cancao Nova
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1319175993?ticket=4B838B9C1FAB4F1E712A8F47C34C0D00514DEE09&profile=pass
+#EXTINF:-1 tvg-id="0636acd5157ffd259b0bfdf47693222a",Cancao Nova
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1437349382?ticket=338F36688C6A0A045BD586B43E400C643C5FAFC1&profile=pass
+#EXTINF:-1 tvg-id="412c86571a2d495ce98d0cc6457a439b",Cartoon Network
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1468410945?ticket=AD0BAE118E6AF2BCE59B7BFBF93059F59FAA00B2&profile=pass
+#EXTINF:-1 tvg-id="ae81f3f4252f2dbca1ea0c25da31d621",Cartoon Network
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1962115502?ticket=1EFACD021B676FF0EED893410968C16E7FBE4618&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/caverna-do-dagrao.jpg" tvg-id="e8c5ab7911d15bdef8cf528f81501e5b",Caverna do Dragao 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2041300456?ticket=03F8C8C25FD84B32DE403A6E0FEB2C033955EE6B&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/chapolinn.jpg" tvg-id="968e9580c4c2b419348f8a2798069625",Chapolin Colorado 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/9801366?ticket=006866A3A167C27BEED25E4BDD7AE14D42036F36&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/chaves.jpg" tvg-id="7129c14c9e64092f16434328ef348b21",Chaves 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1287727473?ticket=61AA4C6F4F59618201278DB70C2004DFCE0BACDD&profile=pass
+#EXTINF:-1 tvg-id="6ba002a719043d3733af762c81d569fc",Cinemax
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/654483563?ticket=F9A76A0030B26784390E368B395D5D7D132BC1F7&profile=pass
+#EXTINF:-1 tvg-id="7a6ff3c1a09d8e3ae64d8dcc3a60abf4",Cinemax
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1106472826?ticket=4FCCC6ABD35FA9F28465FC4D85CDC8CC05C44980&profile=pass
+#EXTINF:-1 tvg-id="e1bea080ed6c677a9fc1658099bb234f",CNN Espanhol
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/10534625?ticket=BE6BD79C493E9D10FDC46E7F710D8963CD97DBF2&profile=pass
+#EXTINF:-1 tvg-id="3776247adafbcc7e74a6727e40695ab0",CNN Espanhol
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2049209911?ticket=DB27327AE56F134C329B121C29FD498A38829CDD&profile=pass
+#EXTINF:-1 tvg-id="ac0503b53271e411c2ea39beef1d6fc9",CNN Internacional
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/889390508?ticket=705A13A3FE6877203CD43179F921D3942B31A778&profile=pass
+#EXTINF:-1 tvg-id="71dfbaedf213e75106e8bbb77e0eb459",CNN Internacional
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1840963441?ticket=E22F4AFB77D0957A1CCDD516DF4E72D16BDB0EA6&profile=pass
+#EXTINF:-1 tvg-id="2f786511578f0708b7f575760bd6dca9",CNT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/291862575?ticket=B5DFF60F5E7CFBC114239D447CFC64860387F464&profile=pass
+#EXTINF:-1 tvg-id="32a31abc5ac7998a967d3d7937eadd9f",CNT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1008378674?ticket=E17A3D02A717C5C219308F599265FD6901B5B894&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/combate123.jpg" tvg-id="97dbe54dfe43cc38c6651e8fa29e8f9f",Combate HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1306909591?ticket=BF90752C7C36D57E07A171EA6B8DAC99FDCBB849&profile=pass
+#EXTINF:-1 tvg-id="cab1d516dd4e519586cc7bac5e006a95",Combate
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/383103434?ticket=E1411B434FD6C0DD0D625E8D82FA42EE8E919BCC&profile=pass
+#EXTINF:-1 tvg-id="785592aab55283d0f4a954d1d7f25b1f",Combate
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/714233208?ticket=FA6AAA23AAA4710FED26FDEF7D7D85E0CAC7A206&profile=pass
+#EXTINF:-1 tvg-id="8553e22e08fc223ba5f09cd2878c8ccd",Combate
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/786584453?ticket=549A134489EAD221A819BB460DD725D9E65DA2C4&profile=pass
+#EXTINF:-1 tvg-id="12e98b40d0319dd5f3bf279382ab2097",Comedy Central
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1082910994?ticket=E66E04403F66A213D04D0FE353760F0593C50668&profile=pass
+#EXTINF:-1 tvg-id="7c2e575f691703d9c02934374bfa70f8",Comedy Central
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1599549052?ticket=EA5C92A4F51EE659B790C69850B39F2C98ED5D74&profile=pass
+#EXTINF:-1 tvg-id="847d1506c305d84ba8498da15ce1ea07",Curta!
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/102071684?ticket=0EB6B08AEFAD07A877742CCB8475DD489293E707&profile=pass
+#EXTINF:-1 tvg-id="f5cca3bc160b3dd1b1ae5d46a2dc44c7",Curta!
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1017367797?ticket=290D37824D5F623CC373F114FFD5DC600994F13D&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/dazn.jpg" tvg-id="25b1806a8cabf9bc76528e5280fbc169",DAZN Brasil 1
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1786818853?ticket=EC565D4A7B6EFAF348E62C5513A441E5637F5EF8&profile=pass
+#EXTINF:-1 tvg-id="ff339c85b48436994e4fc5e89fbc6165",Discovery Channel
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/94123007?ticket=475F2C9007061A563C38D23812E6F6BB3D38D60D&profile=pass
+#EXTINF:-1 tvg-id="4af97ba8332514941d4ffd11f06762b0",Discovery Channel
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/679213386?ticket=DB442B795CE3D9A6286D119DA836DD1383B724E7&profile=pass
+#EXTINF:-1 tvg-id="7635b0cf3059a31a62561d498ed7b8e4",Discovery Civilization HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1336948086?ticket=B97CE4326F956D71942F863178BC2EA30A6BDA73&profile=pass
+#EXTINF:-1 tvg-id="dcb1aa475405a6542b41a45013a89120",Discovery H&H
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1202368988?ticket=9471B86F271C1234C1755852561F27AFEC6FD707&profile=pass
+#EXTINF:-1 tvg-id="875691ece39226bd5bc1481ed96909fa",Discovery H&H
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1821464199?ticket=9C919B30DE7AA0518BDD8BD133EBD534FBB61782&profile=pass
+#EXTINF:-1 tvg-id="78264305cc065eb99900a5108c4c6ed6",Discovery H&H HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/88286840?ticket=18C7C7F7BD89E805A04CDC853B04237EED60D7C5&profile=pass
+#EXTINF:-1 tvg-id="8a94039b3fc354fec5642e2a168e1653",Discovery Kids
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/453219466?ticket=D62F4D2D9C5A3801BEB63111B4F4B54F1CE60A59&profile=pass
+#EXTINF:-1 tvg-id="a210f8ff92375712daf090d4f424abd6",Discovery Kids
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2146963618?ticket=E219E1BA4791AB56CB584EAF40E95ADB300E6F2A&profile=pass
+#EXTINF:-1 tvg-id="05f8be0f049ae6d9755eda82fb7ed6ed",Discovery Science HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/264173573?ticket=AF13964C0F09EDA5A51709101D55F44273ECAA09&profile=pass
+#EXTINF:-1 tvg-id="67439eceec6d87cfc6b2b54f9eba0722",Discovery Theater HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1318994791?ticket=D9D52DB2B407189432EEAB2E4DB7141230D015B3&profile=pass
+#EXTINF:-1 tvg-id="f9cdd10713c6f00b531e87b876e32f53",Discovery Turbo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/131190265?ticket=C0819737CB21C8414D9EA97F7A4E902BB06DD5D2&profile=pass
+#EXTINF:-1 tvg-id="50420659cf77f62457966a3f76300ab7",Discovery Turbo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1493582416?ticket=1B39DC6D42C328D94D1AFB847A6A62D99C00B865&profile=pass
+#EXTINF:-1 tvg-id="8632d64c1a4e97a7acd1b1e89633c169",Discovery Turbo HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1289106054?ticket=2B03282E71DE2FCFFB3A312D08BF2D1F547629A7&profile=pass
+#EXTINF:-1 tvg-id="f647b7794bb59344771b73549c18d6bf",Discovery World HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2042054646?ticket=FFD16D36572B43B5023DAD49BB653F86BDDDF20B&profile=pass
+#EXTINF:-1 tvg-id="4e972ea0b43a09280f120dfd444f42b7",Disney
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/539924302?ticket=B8D183C830C8D6D19E30596BA8AC7587E9F2728F&profile=pass
+#EXTINF:-1 tvg-id="df1dc4b7dc6932a564fc0608aaf51a94",Disney
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/935599583?ticket=CA2F1E69143DAB81A080F5365E74307A171655FE&profile=pass
+#EXTINF:-1 tvg-id="ec5bd653bc1d63ea8c6d82788ba8fd39",Disney Channel HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1406557164?ticket=F7E222276A68F2CFC0A35C9A14E039995A9C8D79&profile=pass
+#EXTINF:-1 tvg-id="e73a53c4af734677237b4b9a01c865e8",Disney Junior
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1146305255?ticket=FF8C2A3F423E865D9A0C2CA5C989552351D894F4&profile=pass
+#EXTINF:-1 tvg-id="613e7ccfba0029a9724a7e70c512aab9",Disney Junior
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1333542497?ticket=E1A480DFBE556F0592E7575A9CA1EAB7D675E67F&profile=pass
+#EXTINF:-1 tvg-id="151d6ffc7d895685477833ad165f3e29",Disney Junior HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2087656725?ticket=FC20174AF6924F4C0E7A6E13D4012E92C820C7CA&profile=pass
+#EXTINF:-1 tvg-id="58957dc9b30b24c164921755c70cbd0a",Disney XD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1232967000?ticket=986E044AA68CD80EE4E790A7167FEDD910B0CA25&profile=pass
+#EXTINF:-1 tvg-id="3a52986cfa6750cb89eb47a83d482d47",Disney XD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1821921850?ticket=6F4FCACB0DDEB7495A3B6BD9A23A215149914508&profile=pass
+#EXTINF:-1 tvg-id="bd6839f39d70e8dee690ebfa34b2d4f5",Disney XD HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1933142205?ticket=B3C46B6E412A7872F6B033646BC9222215CA41A1&profile=pass
+#EXTINF:-1 tvg-id="b7529e85f51227c781db716f7251cac9",DW (Deutsch+)
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/94261943?ticket=B5B0061544EF5F7479F61E340DA8FCC462D769CF&profile=pass
+#EXTINF:-1 tvg-id="05c847da49e4e90ec7314fbba2d4feb3",DW (Deutsch+)
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1514653701?ticket=EF5B85ABA7C4465EF438B082E70A8303CBD1DEB0&profile=pass
+#EXTINF:-1 tvg-id="7a57a16e7604166d90d72ce9eb47e549",E!
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1856067450?ticket=ADA288EC1AFF9A4F268631A2A1EE228A4373C663&profile=pass
+#EXTINF:-1 tvg-id="1f508f7f3e7bab22c3d8deab716b0261",E!
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2140098591?ticket=FF5723AEF9C03FBC0F0E7EE06F03C714A9B21893&profile=pass
+#EXTINF:-1 tvg-id="c241b812e4faeba30409a08f57f046fb",EPTV Campinas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/314065346?ticket=C498DD555FFBC6BDA2E04CBFEC9C62F983F1EA06&profile=pass
+#EXTINF:-1 tvg-id="be29bed93bbad7e7bed21ece4313fbeb",EPTV Campinas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1505634750?ticket=21AC97AA24A349F0CB45DC0F41098CCE5AC8E44E&profile=pass
+#EXTINF:-1 tvg-id="2ee9708ef73c4fb5f911e38e69904f43",EPTV Ribeirao Preto
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/242280750?ticket=239119C6337F4717F0D3698C42AF299751C6A8BE&profile=pass
+#EXTINF:-1 tvg-id="3543a29f30454b1960c6357c1df049f9",EPTV Ribeirao Preto
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/530727733?ticket=8501266190CE1EA4595E20794039F3F9BA07DB17&profile=pass
+#EXTINF:-1 tvg-id="97586b138019f2ac5efe840abb70fce0",EPTV Sao Carlos
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/325802135?ticket=D8DF6FE63F0267853C8AFB9A5F250C21D2358CEA&profile=pass
+#EXTINF:-1 tvg-id="8e3f4029abbb7981e438ab377827e3f7",EPTV Sao Carlos
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/692076430?ticket=4C732207D9D30F328EA4EA37F9FC005420A4D1D9&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/escolinha.jpg" tvg-id="611521482490ef268477ab9f056d9aea",Escolinha do Professor Raimundo 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1210127713?ticket=FEB3578E28E3E92F025981574D731612663C781C&profile=pass
+#EXTINF:-1 tvg-id="f981c53ba947e66ed08a9d4ded2ee728",ESPN
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1002799609?ticket=294EAEBF7BAD1AC6BF82FE70932BF182B7A6B848&profile=pass
+#EXTINF:-1 tvg-id="d02320cce61fe436b335f82eb22b19ed",ESPN
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1277174736?ticket=AD766E70153552F0A1A4942BF3D9BF7D79499F7C&profile=pass
+#EXTINF:-1 tvg-id="f529a79aa5c3a14ffdff25a8464c37b4",ESPN Brasil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/447162869?ticket=22B4517CDD7BBE1B95C45D9E57254008A2948781&profile=pass
+#EXTINF:-1 tvg-id="ec66c9d951cff3ebdf8d01749b0bbe90",ESPN Brasil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1506371308?ticket=22F6F774B3AC90DD2FF9415D096825140FDCC790&profile=pass
+#EXTINF:-1 tvg-id="773c6f41c21bc944a2ecbdf63757fe39",ESPN2
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1097809015?ticket=9FAF5CA3C2A4228B2859430A72D588955C105F3A&profile=pass
+#EXTINF:-1 tvg-id="14c4cf47860b65a86d647aff747652c4",ESPN2
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1204798484?ticket=8A85118C72F7893EE255BB8845ABB986D46A28EA&profile=pass
+#EXTINF:-1 tvg-id="a0edb6389517cd63bfadef25e2837f71",Esporte Interativo HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/951512480?ticket=E8EDCD68047F5991E02E9F4D723433DF6072AD0D&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/patroa-craincas.jpg" tvg-id="ca48499fadb150f4686f8622881af16c",Eu, a Patroa e as CrianĂ§as 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/524896458?ticket=DF910E7FC796E447195D9D63FDA5889171B54BFA&profile=pass
+#EXTINF:-1 tvg-id="23653703330d14dda8ca09ca4fefc735",Film & Arts
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/53962019?ticket=4909D888EDE7BE4B77CB9A0074680E6907AE3432&profile=pass
+#EXTINF:-1 tvg-id="b8fbe6c9e76b358f76bbbface4a9e3c0",Film & Arts
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1239874488?ticket=DFA0BCCC5272EC68C557EF91EA24C66519DE855D&profile=pass
+#EXTINF:-1 tvg-id="9714de9c6fbdef8488bebdb68c4f777a",Fish TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/484316311?ticket=3814D18740742E7687086BDDA555BC1F68369272&profile=pass
+#EXTINF:-1 tvg-id="c4677bbcfb6c28812a8262386ddddd32",Fish TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1014720452?ticket=A1ECA63B66F21E2CFC7B94F578FEFA86E65EC596&profile=pass
+#EXTINF:-1 tvg-id="34a5fe80edfa0a51a050968f155f6832",Food Network
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/16688436?ticket=6B6521CB9AC2D40C1DC35F797881453D50F28674&profile=pass
+#EXTINF:-1 tvg-id="6f35f22bc58ce9d589e3b9fa23741315",Food Network
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/737293679?ticket=7E7A246126A481C5A80A462D67CB3B8C1BA75378&profile=pass
+#EXTINF:-1 tvg-id="2d7a1287f2b90f9dac43b6ef5ed114b1",FOX
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/118651437?ticket=7B48DEF55DC2A3101CD90212E5CA76CEEE461306&profile=pass
+#EXTINF:-1 tvg-id="a135d399b606da7faf038e5ae6880c2c",FOX
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/433272225?ticket=0F2FA792DA0FAC3B79DA43CF1BDF30624420A26A&profile=pass
+#EXTINF:-1 tvg-id="0bab4cc43a2d247aebd24c926caf2235",Fox Life
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1145875211?ticket=EB5157406503C68423793BDD8C1EF00A1D77B507&profile=pass
+#EXTINF:-1 tvg-id="d45476dfd1c930ac2878c1f2a56b6de9",Fox Life
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1601590484?ticket=08F620434B9668302D21786E783355AC08C1EF38&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" tvg-id="275b5bbdfe0517a4f7ab35b8a0378e90",Fox Premium 1 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1029397287?ticket=ADA8CECF7B606F480EE33E9DB175C4FF91C9E760&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" tvg-id="fb247fa6d6ef1f4fcae16a4a501a22b2",Fox Premium 2 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/645866747?ticket=CCC16E32E64BD1443045B94466B0F28C28EFA2BE&profile=pass
+#EXTINF:-1 tvg-id="03977c49325f098832def29ce7311593",Fox Sports HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1232901891?ticket=C1C2B42482F1EB522550694852B6E593C3E57484&profile=pass
+#EXTINF:-1 tvg-id="7d0ad986145d55d1b96ffde366035ebb",Fox Sports
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/114887293?ticket=710223356EB308745FDC34CF223BA4598B339AC1&profile=pass
+#EXTINF:-1 tvg-id="dcc2b81650540ef0a2e107ad0e611bf6",Fox Sports
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/381207260?ticket=11D9AA4DF23219F6586F3074145083E99A873FA8&profile=pass
+#EXTINF:-1 tvg-id="736d63cbe41f32f921b3e452366d45ff",Fox Sports
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1264807283?ticket=F9514C109688C0C6F111CC7CC830B688DF2618E5&profile=pass
+#EXTINF:-1 tvg-id="c6fb44563ab5110fae3833e3d356a505",Fox Sports
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1447361478?ticket=476B338F26D3A134FA8C880314FC3265FD3E1315&profile=pass
+#EXTINF:-1 tvg-id="0ae4730f7fce1cc3b483160d9a851214",Fox Sports 2 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/259253258?ticket=193C53D3F8DF1A110A2734A42FC8B7B2136EF4C5&profile=pass
+#EXTINF:-1 tvg-id="e3d14d92ac25dee13be506138c5f80f7",Fox Sports 2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/307089891?ticket=A9EBF492F2C7E33E3CA2085233D04BAF104F2C95&profile=pass
+#EXTINF:-1 tvg-id="17af979f525050a0a04832a4e83d395c",Fox Sports 2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/530034455?ticket=58A09EBCCEC3C143E650C9CA5FE9EFA71568D0D4&profile=pass
+#EXTINF:-1 tvg-id="889803414ce902ffbef9f1e54412ebf8",Fox Sports 2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1090754696?ticket=6BE85DF509EDBC9340C4E4B52B6FE0AFB31148D1&profile=pass
+#EXTINF:-1 tvg-id="4e6510c97769a72ffffe27a7957ac4e5",Fox Sports 2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1225811278?ticket=8099397E450826ED6B995FB810B28772194AC5E2&profile=pass
+#EXTINF:-1 tvg-id="504e6f4635ea58ce77046585273bf7a3",Futura
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1181699664?ticket=B092D62992052FC0A90AAE7639A1B4B7D0DD9EA0&profile=pass
+#EXTINF:-1 tvg-id="dd1c08e5f18d957feb159dad80e9105f",Futura
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1695030493?ticket=995169EB6E050DF24BEE316CB25626882C51DC04&profile=pass
+#EXTINF:-1 tvg-id="feab6718f95d585025ac8d77acbc7b69",FX
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/409447422?ticket=6D42B3D4206625C769268A8CF4A7D3FF60DC7053&profile=pass
+#EXTINF:-1 tvg-id="f1f9ec6b62d06962c3f5dde21d185c29",FX
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1810692593?ticket=BE7C243EE2E153D360AC4D1F93797602D016BFC5&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/galinha-pintadinha.jpg" tvg-id="21f26265ea811ef551c6e3dbcc07fa7b",Galinha Pintadinha 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1700983329?ticket=72420DB415EB393910AEA6DF812B4DDBB15B0770&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/garfield.jpg" tvg-id="4688d13c24572f9ac8c62469db375577",Garfield e Seus Amigos 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1020364870?ticket=33CBE29DE34B7AA6EF28ABC8C654D1FB9E4EC00C&profile=pass
+#EXTINF:-1 tvg-id="69bf2cda82a501bd6e341cf7dbe2f125",Globo Brasilia
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1512882025?ticket=0B44A7D5974732FB81D87F1EA334204AFA5CD2A9&profile=pass
+#EXTINF:-1 tvg-id="15bb2f588691fc81af57ef3b1cdb2003",Globo Inter TV Cabugi
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1479523093?ticket=14C0B12004BD0BAE8CA05D814CEAED0117C4582F&profile=pass
+#EXTINF:-1 tvg-id="886b911e1c65c3c43e3899eec028efcb",Globo Minas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/512846728?ticket=9C0B4BEAD80D8AB1953DFD7AF6716386799026E8&profile=pass
+#EXTINF:-1 tvg-id="5cecf798a19f6ed281ce343d09738387",Globo Nordeste
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/418901084?ticket=52DA6CAC84841E7244E3F4E8D85EDC69260CDF04&profile=pass
+#EXTINF:-1 tvg-id="da9780c5fb69a71ddbd84ab5d226a236",Globo Nordeste
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1166055386?ticket=D410F822E43EE89F83E4B099F9C99FBE5B9F46CA&profile=pass
+#EXTINF:-1 tvg-id="eea3d0321ec6c8150b0ae52b24447415",Globo Nordeste HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/852534254?ticket=B8C783E33C04897D475212D240C5ABC687D58B6E&profile=pass
+#EXTINF:-1 tvg-id="b648369388207bafe699b25cad0361b2",Globo RJ
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/322324662?ticket=C6BD9EDA9EFA032725FD568547C5C80D5D3963F0&profile=pass
+#EXTINF:-1 tvg-id="ba61d10c49245e6be9b30567b0cd6517",Globo RJ HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/215048634?ticket=897CA585EFD723A12926421710D348E1242AEDDC&profile=pass
+#EXTINF:-1 tvg-id="ef0ca1855d39a9359ead840916293ee4",Globo SP
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/94440687?ticket=738354C2DFFA3D64B0CE73A813615F24D8386462&profile=pass
+#EXTINF:-1 tvg-id="d837bcd6433291df8393f83feb1fccd2",Globo SP
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1455175640?ticket=58902E80C557F1DD510945B6AE06F80E58E46470&profile=pass
+#EXTINF:-1 tvg-id="34b22ad4ae7e93827bccee8350e67984",Globo SP HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1412084276?ticket=165CE5E97EC0918FBB5787D60F0DEF0D52FFAE42&profile=pass
+#EXTINF:-1 tvg-id="edad20660114d0ee6bcca64079e2d1f1",GloboNews
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1713417709?ticket=43C81E4132D7CF4309E6AC9316585E0BCCF4A4DD&profile=pass
+#EXTINF:-1 tvg-id="3034977f63caec4889a814adf4e81587",GloboNews
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2140615728?ticket=C53C4F567E3DF258AFD600CE02737DD0FEECB9D9&profile=pass
+#EXTINF:-1 tvg-id="63ced84c2b803288ab93c4cabec3ea84",Gloob
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1289277027?ticket=2BBD4B03990B9FFCFA8FE389E273C51DAA586100&profile=pass
+#EXTINF:-1 tvg-id="278538e3c603c1d8991680e69ff3122e",Gloob
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1664648487?ticket=858BA7CFBA345B13C80560A2D049C80A2DFBF7FF&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/74e4a5f0ba3ea11e0b9715260014.png" tvg-id="1d8b67fcd9475a9b38777509b39854db",Gloobinho HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2087160605?ticket=B74B091683BABA7F438716389D509253F57617C8&profile=pass
+#EXTINF:-1 tvg-id="1eabf5145aebed3ee2605430b3e5140a",GNT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/351644446?ticket=71F3197568A0ADA80818976AD1ED8F06D972CB67&profile=pass
+#EXTINF:-1 tvg-id="aace24be72000fcb8ab7a6d3281322e2",GNT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1042599594?ticket=85AE541ADF63DFF327C77F2399CC3E0091A3146E&profile=pass
+#EXTINF:-1 tvg-id="3e1a5d1756a5bcdfb7c00c0796c84520",H2
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/391977534?ticket=145FEF1ADB01D747D86988CB98DE09E001ADB82C&profile=pass
+#EXTINF:-1 tvg-id="7074b225113894d5338828a7f8242439",H2
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/632452208?ticket=AC962B857571E724EEF94BA8EE83FB5ED00FD5CE&profile=pass
+#EXTINF:-1 tvg-id="675ec9e4d50e683d9a02c50e43229f9a",H2 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1690918503?ticket=16D3356FF9E6A34F4DA17B1023228D1C059E081B&profile=pass
+#EXTINF:-1 tvg-id="e6939f8dedc7a7b253a6c723c9d8b8c5",HBO
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/228561894?ticket=9B5FA3DB3EDEB4B3742C481E431CB2C07FB09B2A&profile=pass
+#EXTINF:-1 tvg-id="bae1c1cfea75cf9602c191c4cf207171",HBO
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1338106298?ticket=572223B9C52F505DAB5AB0F4BB910680B8658E4B&profile=pass
+#EXTINF:-1 tvg-id="dfadbae32cbc4ff0c5f95e62932939df",HBO HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1673178591?ticket=18116B82B0EE067667E63266E95FBE39CDB81A2D&profile=pass
+#EXTINF:-1 tvg-id="1595e0837f5f744d583663aa046f77c7",HBO 2
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/65049877?ticket=7D39E45C01500F5F303E0200360564BE4C48FD04&profile=pass
+#EXTINF:-1 tvg-id="4b1612856ec5a241adb4e4c8e4cb3251",HBO 2
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/85071435?ticket=89CA427EF3D23210F897FAA4DA98EDB1201E6914&profile=pass
+#EXTINF:-1 tvg-id="7b9ef70a4acd45f29f8ee85ecba78bbd",HBO 2 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/184000123?ticket=41A8BA721CB309080E7EF971C7E71E718FD6664E&profile=pass
+#EXTINF:-1 tvg-id="55689c55400d51896d86893e2e13a250",HBO Family
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1436313685?ticket=A91D28D797F1C1EB3248F5CC8598D5ADDEAB464F&profile=pass
+#EXTINF:-1 tvg-id="774c487a29ea99c5b91392998a22897c",HBO Family
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2051558519?ticket=A1B28EFBE5538A9450C62974B6F43F2A3F6AF5D8&profile=pass
+#EXTINF:-1 tvg-id="25eb5a4a5f7d19a0092493f097a06192",HBO Family HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1247472421?ticket=203FE6D66FCF93614EE57B0CE3BAF102E280A54D&profile=pass
+#EXTINF:-1 tvg-id="482ceb838efd189e8694c0c89c985da7",HBO Plus
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/65743944?ticket=424CE3DBE0FC8823787C294A0D1CEB5E7C32F8C4&profile=pass
+#EXTINF:-1 tvg-id="7a18d4078d12abbd1445025dd0912e4c",HBO Plus
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/131340410?ticket=265E189BB6789C4F1E02DFFAFDF3D313370A46DA&profile=pass
+#EXTINF:-1 tvg-id="5e50cbcb28aeff2a9f7ab526cb5df24c",HBO Plus HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1271615582?ticket=2DF60CB8A23B0C7DCD4F9266F5CD310FD75C23D6&profile=pass
+#EXTINF:-1 tvg-id="a51a28154b7acbedd82852ec540aa6cf",HBO Signature
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/354949797?ticket=C378AB89B5102459BF9A7EC071C6A5304B22147E&profile=pass
+#EXTINF:-1 tvg-id="e3cadaf910175f34cbc2c9f1a305fbbe",HBO Signature
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2044381923?ticket=05FACFCBFFE16634A7FCE18CC1FE980165C79B4F&profile=pass
+#EXTINF:-1 tvg-id="e86a62b8f6da108b6536c7c6fd6cbe24",HBO Signature HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/945973992?ticket=F39E64AFF579348CD87CDC4A579597A93CC491ED&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/re-man.jpg" tvg-id="f097deb305ded040530a079364c7b6c6",He Man 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/870225904?ticket=0E3CE3F7E58C98A9B300D6EDC2ABA9E2246CD504&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/helokitty.jpg" tvg-id="4376e58b58d975373258012b454e171a",Hello Kitty 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/199587395?ticket=B61CF628DA6797CBBEB9D00C7487F3C5F5899A1E&profile=pass
+#EXTINF:-1 tvg-id="a6a442ba360db776bc0c0546b54b0241",I-SAT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/977446054?ticket=748FD61F7EC6460F9C9C2A2ECA7D284A955DB869&profile=pass
+#EXTINF:-1 tvg-id="ada99a5d507f87d76b79e67ec7c0573c",I-SAT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1570417069?ticket=1F77046882247AF13BF5D7BC4E5EB2F7AAFF2C74&profile=pass
+#EXTINF:-1 tvg-id="49898d1be7ea1eae2df513195d96970d",ID - Investigacao Discovery
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/462260553?ticket=6EA6CE581A2573B4FCB69F1D20811234F3C1F0A5&profile=pass
+#EXTINF:-1 tvg-id="21ba4929a069b90c527fbe20c64b65f8",ID - Investigacao Discovery
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/692697633?ticket=08EDBD5D3236126C10CE0322B314E7AE10BD81EC&profile=pass
+#EXTINF:-1 tvg-id="44c0128d9f5887e8da7e62b4c9ee0ffd",Ideal TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/219332676?ticket=FB452AEE96CEDA1DDF6680D30B22F35742D38B73&profile=pass
+#EXTINF:-1 tvg-id="ff4d87a75a4280e46d92c51d194b77b9",Ideal TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/663178751?ticket=DE6E041DEDF78CB9230A60E1E9B18D9D323602B0&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/inspetor.jpg" tvg-id="8115b967ea633c16d7e08aa012cc21eb",Inspetor Bugiganga 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1740182913?ticket=FFBA3EC59AC2A84F1C06DA480DCBC0DFD291D7DC&profile=pass
+#EXTINF:-1 tvg-id="37df98c452835bba0f3587f1dd116024",Inter TV Cabugi
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1150869303?ticket=31028A6A8177268C6DE21E4321579D9328342CD2&profile=pass
+#EXTINF:-1 tvg-id="540ccbeb209edce2567c861f052c1b53",Inter TV Cabugi
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1808469076?ticket=4F95ED2F02441F1A659083FF88C226648B4111C3&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/lady.jpg" tvg-id="c63c896011fcabe8d9fd85c5cfd4eb17",Lady Night 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1619606726?ticket=5F45F5B24E669864A96D12EBAAC7D7D64DB3446E&profile=pass
+#EXTINF:-1 tvg-id="6786e94903f4cb1222db683926e0162a",Lifetime
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1240041063?ticket=1266909FE332AA714768034838A870A3B30FD2B6&profile=pass
+#EXTINF:-1 tvg-id="7e00415f89a82db2e0556a5b6f58aea9",Lifetime
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1598095486?ticket=F8EB13277505C342172C89F33078F22F4D8D94E6&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/liga-da-justica.jpg" tvg-id="6ff650088bc970ffa175205f9c0f925f",Liga da Justica 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/139523695?ticket=068257BF48C25D0BC59837B80D0D45566BEE46CE&profile=pass
+#EXTINF:-1 tvg-id="c11112238df09948da7c8cd3e30ca2e4",Mais Globosat
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/588386753?ticket=B1BA5031347FE9B262E2CE5C1E4081863449E838&profile=pass
+#EXTINF:-1 tvg-id="0833a931b6f762b65820229c5fd00234",Mais Globosat
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/833172232?ticket=79A68784C481F5EAEDBC76363E081737444CF94A&profile=pass
+#EXTINF:-1 tvg-id="bf5c198e1d5b2a58e896ec917dd5d002",MAX
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/236543167?ticket=8B9016177A4A4419642550F3B6CF721F2E06B27E&profile=pass
+#EXTINF:-1 tvg-id="fcbd0ca07b75c45eb302ffa099f7c6b7",MAX
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/537705980?ticket=193ABBA9E529C29730BFF9EEAC9DF3A37919C2C1&profile=pass
+#EXTINF:-1 tvg-id="b21af9450ef95a87ec4cbabe7e739c49",MAX Prime
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1173953202?ticket=F2E94173FF60A78172F189EFFB6D2D165813A541&profile=pass
+#EXTINF:-1 tvg-id="c50bfdf4c4a91093457dffd81e504533",MAX Prime
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1962740677?ticket=C900FAAFF60DBB03BCD692D66F35D8C823BB7D74&profile=pass
+#EXTINF:-1 tvg-id="db4ce60543b885a0c41a742d10947d7c",MAX UP
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/98979035?ticket=C845796EAEA210BEFDBB9F3744389998A5F69BC1&profile=pass
+#EXTINF:-1 tvg-id="b49644b743c8086ef9f21c98c721bd32",MAX UP
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/927241908?ticket=7D5C75F951A1BBAB2BD013F77A5426C0EF90C77A&profile=pass
+#EXTINF:-1 tvg-id="ce3b27691e618e402b76442d6085de59",MegaPix
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1764178894?ticket=D2C7A182CF20B04A11B5B9CC60309D97B16EA705&profile=pass
+#EXTINF:-1 tvg-id="5ae9be70f3b15e65c287943965c5fda2",MegaPix
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1891559770?ticket=084A353B007DC658ECB5AB42091654D114668E3D&profile=pass
+#EXTINF:-1 tvg-id="aac3e662ba90f057bc02c34c7678412f",Megapix HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1659290538?ticket=F27EE6FEED26BCD84FECDADC45870197B4DBEFE2&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/mickey.jpg" tvg-id="7a668f143b74b86b1d30068ea5552aa9",Mickey Mouse 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/344942202?ticket=B090ED6BBE1A51F8595D14AD07666514F0E49194&profile=pass
+#EXTINF:-1 tvg-id="90178382d68e84cae41e323052590ded",MTV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/42145680?ticket=E39050DB2F1AFDD8790E8511548CC7D8CAA217C8&profile=pass
+#EXTINF:-1 tvg-id="f1aec2ba1944468208104fd94a69d027",MTV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/985837297?ticket=CF375854A652ECE034AC0C54F10D01324F39104C&profile=pass
+#EXTINF:-1 tvg-id="3ca65027f78b84ca459fe37628e5dd2a",Multishow
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/659596860?ticket=9D7EF070201FDA172868A3DA2010EBF0C848A3B3&profile=pass
+#EXTINF:-1 tvg-id="8d187f31ae1c971589504cd986b2502d",Multishow
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/830412941?ticket=A182334C05091E76601E84F96979761371B456BD&profile=pass
+#EXTINF:-1 tvg-id="1b9699330e8f0bf84057e5f7e8e937fa",Multishow HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/865703451?ticket=0DFF565FFA1A89EF755B81614EA3ADA75C6C391B&profile=pass
+#EXTINF:-1 tvg-id="a42fa99f8b5ea06f1aff6af717e3dc91",Music Box Brazil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/531181476?ticket=13C1B0430A77DA41BC1C18AEC0244D835FD99393&profile=pass
+#EXTINF:-1 tvg-id="16bde46c9aee264c144bf67e0b6159ea",Music Box Brazil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1826929942?ticket=8B3C9825E8D9EC140BED2F83E3284FE9E7EA3097&profile=pass
+#EXTINF:-1 tvg-id="3ab2f388a9d4c854ac8957324f0cf5ca",NatGeo Kids
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/150188602?ticket=C7FBA1F8561625B7F758ADA366AB01C9E8851C97&profile=pass
+#EXTINF:-1 tvg-id="708619b873729074e3e90b47de9c10b5",NatGeo Kids
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/941196912?ticket=1B63CAB4DADBDE9D2A5BAC3AA78170AD200B9155&profile=pass
+#EXTINF:-1 tvg-id="2b39b5caa198848fe87c27c3b971d477",NatGeo Kids HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1253390635?ticket=85E7E2C00D757E65640783650C5E4BB5A96CB0CE&profile=pass
+#EXTINF:-1 tvg-id="3948e51aa7e9fd4d092660c9ab12cb64",NatGeo Wild
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/451233849?ticket=E8D67C2672D44ABF6709D35E45D7DB66F81FFF7E&profile=pass
+#EXTINF:-1 tvg-id="7b6d44f075788551e2f469f66d5264bb",NatGeo Wild
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1883532667?ticket=C957C58624D8B45AC2DD54E44B9561F14020FFE6&profile=pass
+#EXTINF:-1 tvg-id="75e427b11dbf5f6a6df53a6dd3268375",NatGeo Wild HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/824697973?ticket=D223BE0EAE342053E2BFF183B0A6285708DF1B08&profile=pass
+#EXTINF:-1 tvg-id="f8e005699f7a028a2b4994f81bcea7dd",National Geographic
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1761992952?ticket=7CB819DC441D7E81C45A31F3D16D8A4DFC97AB84&profile=pass
+#EXTINF:-1 tvg-id="c492e8fdc46fa79a0c56ad2b5541ef5f",National Geographic
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2112393924?ticket=1B41983533C19D8A1F35AF4DC917A24C7EDA19C0&profile=pass
+#EXTINF:-1 tvg-id="aaab1d3f95eaecf842b9d645a383f93d",National Geographic HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1058909098?ticket=B835F216F2444E05DDA482677B8932C7EC706323&profile=pass
+#EXTINF:-1 tvg-id="e49fe01237e7d36f9f02b4272cf994d3",NHK
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/316710884?ticket=B46FF42BF3D000E468B5055524E26E35B972EBD3&profile=pass
+#EXTINF:-1 tvg-id="35b881fd81be2fea96ffe0329b5d8f97",NHK
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2105653301?ticket=EDD1B85D2A624ABB9AFD6067AE6565EE9E74A21F&profile=pass
+#EXTINF:-1 tvg-id="c9ec2e98c3338ce73341b17a1a25e6f9",Nick Jr
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/405728457?ticket=14F9EC8910426120901A1AC99089F7124D8A2D43&profile=pass
+#EXTINF:-1 tvg-id="88bc84b47eae4b13c96438ad03c0a6ce",Nick Jr
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/881114248?ticket=12D4A85B5D339CA425C89031922CC3294CCC9991&profile=pass
+#EXTINF:-1 tvg-id="1985ec181d93c6b95ece214c4afdb090",Nick Jr HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/418153753?ticket=7F34C314968762FE5E1B51277B33224A1241009E&profile=pass
+#EXTINF:-1 tvg-id="cc4e8cb05ad8d75f00f5b8530be19288",Nickelodeon
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/814501580?ticket=7823C063607090F6FFA75029760AE8C9FD9241E7&profile=pass
+#EXTINF:-1 tvg-id="daadcef0a89dff80b057432b6c8cccd9",Nickelodeon
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1892593114?ticket=BD90974516D628C9630A83A9F541F1A733F6A3AA&profile=pass
+#EXTINF:-1 tvg-id="842df7324d590f197d3c734f58a67865",Nickelodeon HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/855059844?ticket=0A18EB884AEA366A4DFC5E3D5EFF02EE2B0028CE&profile=pass
+#EXTINF:-1 tvg-id="1a477c84840f10b374a51e6af9e6844f",NOW
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/75253530?ticket=2B7C832537A4C5D92AA0833F14F22ECCBB5F9439&profile=pass
+#EXTINF:-1 tvg-id="d3d8c215daa0ee97c25d95d0db10722c",OFF
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/365091027?ticket=2A217F6C0D04E9F9B7C13AC0597629B926F38F0C&profile=pass
+#EXTINF:-1 tvg-id="d7b8fd1fbbd5e568d1a8bc92c71cda72",OFF
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/536721623?ticket=9BE74377F55C8F46155D265FDBDD1DB773FA8F87&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/osgrands.jpg" tvg-id="76aea1c48f90d58efd7908dbaf603d35",Os Backyardigans 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1151446646?ticket=49709D1D78970BE925D2721E7C3B13D132ABD270&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/padrinhosmagicos.jpg" tvg-id="9589b6954890a76454e0c113eb321e92",Os Padrinhos Magicos 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/364284309?ticket=405035204CCD2DD1E5E3105D295D10BF7D67A0B7&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/os-simpsons.jpg" tvg-id="beaffeca346ef4acc4701f838ddf2890",Os Simpsons 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1258205118?ticket=A186E123FBB86754026A5F824F516659459DB3E5&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br/icones-canais-24/smorfs.jpg" tvg-id="4adf67711790d174eb70d034116fb9fe",Os Smurfs 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1902632778?ticket=CC619060B1B12B5B7D6C548CCA84F04B71736ABB&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/pantera-cor-de-rosa.jpg" tvg-id="ef37da824ca9b85b271fc26201d36e02",Pantera Cor de Rosa 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/47855599?ticket=4E42D6C38F11A886B4B19A1F734C956AADC8FA40&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/papaleguas.jpg" tvg-id="7e207b556f21fe79e458bb64fc2728e5",Papa Leguas 24 Horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1434132606?ticket=8EACE1E3DA66831A8EA32AE07852028C93D05676&profile=pass
+#EXTINF:-1 tvg-id="de15be1f9c6c593c84ce196298be1056",Paramount Channel
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/532551134?ticket=6E13EB35B2ECE6FF2705F2B30668FAB866927114&profile=pass
+#EXTINF:-1 tvg-id="bdd49745debf664fffd321ee9d3787da",Paramount Channel
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1167578301?ticket=52096F30BEDED217AAB019DABDF750AD1D80B34E&profile=pass
+#EXTINF:-1 tvg-id="353a0c09b9cdbaa07b7e611f28e87e26",Paramount Channel HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/151796277?ticket=1C6196803DBBD86E6A8DCAFFFBE4633F1DB6B2AD&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/patati.jpg" tvg-id="b879c6ca1e86912c58d1df99750fd42f",Patati e Patata 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1254521272?ticket=7CA84B373EBA70F9866A3E34C767C7AC6A29037C&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/peppa-pig.jpg" tvg-id="9fc8baee76cc61a48f7c6dc9e8dbb27e",Peppa Pig 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1857734815?ticket=4FE5BF28FFCDB6AA5735E693F09AED90E0C33B8B&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/pernalongas.jpg" tvg-id="f4a9a8bf105443c075daad18d67f175f",Pernalonga 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1068018164?ticket=406FFA35FD2E624DF0CFA073A025DA3A8E7A874D&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/pica-pau.jpg" tvg-id="0ec4579c7b9ce6caf314498629129f57",Pica Pau 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/475513870?ticket=B336B11BF22FEA0F5559A4E33E2CE1A2576C9BF1&profile=pass
+#EXTINF:-1 tvg-id="b1377fda68c1307a1c87d4e0058f2775",Play TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1518286769?ticket=C6B8382B12A0A5E03F4F088A333C55249C72C83D&profile=pass
+#EXTINF:-1 tvg-id="d668a1f17effe4c42f06874961268d30",Play TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1906403542?ticket=319FFF6F52F8D88C5BB5CD745F361726F8651A17&profile=pass
+#EXTINF:-1 tvg-id="d72a296a876455111103261618c3eac6",Playboy HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1781082839?ticket=45683C8577FF9B90283C526833CC13FBEDC1EF94&profile=pass
+#EXTINF:-1 tvg-id="6e81346ae8b8a46ca43d9093d2bbbf98",Playboy TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1781825902?ticket=B625290C5C41EEA8E733DB77CCF5039B84766730&profile=pass
+#EXTINF:-1 tvg-id="39d57d72737c36d36a60516c5d2c6610",Playboy TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1920849209?ticket=5259A997BF9E0AD5069D307B51900180B47A4471&profile=pass
+#EXTINF:-1 tvg-id="320f780fd58672d2faeed6cc1a260483",Polishop TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/259526450?ticket=4F9535DBEEBF0B9559CA8824FA80D9B7C660120F&profile=pass
+#EXTINF:-1 tvg-id="e9ebb995e72bdd6b6113c1f99b7d007e",Polishop TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/364506089?ticket=0362ECFC671F8277E9847552832BF8D90A5DA8A5&profile=pass
+#EXTINF:-1 tvg-id="9f558e2e2bed9b99d204284635d49c95",Polishop TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/781079967?ticket=4C656A213C4574AD4CDE3BCBF1C4CD4E22FA826D&profile=pass
+#EXTINF:-1 tvg-id="c4938cb062bcfea3c7ba9031781b6c90",Polishop TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/814519236?ticket=247DC347269204BC38290FCFCF2C6C533E850E11&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="e8fdb9c03df1866cb7b29142600f599d",Premiere Clubes HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1085930984?ticket=759B3E45B059077D01FA3A0C572A9BAF39D094AF&profile=pass
+#EXTINF:-1 tvg-id="0f4d8022aae179f82c13149467c9d3d3",Premiere Clubes
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/578833679?ticket=A84B2B3531AD4B1F3FF91C9BBB991CE15EEEB16F&profile=pass
+#EXTINF:-1 tvg-id="750b07c9dbde7bb147a80736f6309212",Premiere Clubes
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1225198453?ticket=2A188155F8ABC3FDD7F484B321214ACACB42AC87&profile=pass
+#EXTINF:-1 tvg-id="88c8ce6ade91db6f18fa100f4a8c5117",Premiere Clubes
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1791936648?ticket=DD55B3CDABD68AC0A2DF07B6A945279B203233B4&profile=pass
+#EXTINF:-1 tvg-id="bf951d7dac3b57322fa7b1f2bb4ff422",Premiere Clubes
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/2099090879?ticket=45B50ED841C92882E53D19458E64E91EF517787A&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="9b80f757d2bcee36ca62fde8e58b9b4f",Premiere 2 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1475838107?ticket=EE7DCD7B06A8F300D5639B7784946D5D8A6E568F&profile=pass
+#EXTINF:-1 tvg-id="8b732595fe4ca8955941bc3d03725f10",Premiere 2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/354775947?ticket=13DA1CE9958094D21AD60F9E68D939987A8DF2EA&profile=pass
+#EXTINF:-1 tvg-id="7dffefb459924d2bf73119d7362f3a13",Premiere 2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/888143741?ticket=B41DBEB427B6F62931B04A14F986B9C3CD48EF13&profile=pass
+#EXTINF:-1 tvg-id="da997be9da39289e1b67e0f78a2c1d1d",Premiere 2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1769707994?ticket=508130108ADFCE2C6191125773D043DD03FDB454&profile=pass
+#EXTINF:-1 tvg-id="0d6babeaa8c3fa14707c259be4da6d98",Premiere 2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1789618957?ticket=3BFADFEABC55706A6145F50DB7C569EDE4FA95B8&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="994606ab2283e4066f39fe66014c2419",Premiere 3 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/721831577?ticket=099BEDD06A2371A129E92A0534E57C53F0A2010B&profile=pass
+#EXTINF:-1 tvg-id="315b290a84b8916fcf2765d382d78219",Premiere 3
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/170482481?ticket=963EFF6D382096DCA4CBAC694ADAE16DB4A55C04&profile=pass
+#EXTINF:-1 tvg-id="04b2ff5aa1ebb5db0ca9cc510ddab562",Premiere 3
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1526706692?ticket=EE88C3C1E06389817FAE26098827AD31CBCDE4CB&profile=pass
+#EXTINF:-1 tvg-id="c407edfe1affd302cd6167e75da82ab4",Premiere 3
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/2129463236?ticket=5A2C97AE35F4CE55403321C9E478578D66956E46&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="5f1e2fdaa57a756bd45b2a6495e8d7a2",Premiere 4 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1513037407?ticket=8E349A25352DF2B74A4CB9B076E0708729CA6363&profile=pass
+#EXTINF:-1 tvg-id="18d3d21b39d1498b2e895efed5e9b370",Premiere 4
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/466801432?ticket=657B86DC59927731860E24B74C437DF75FDD38D5&profile=pass
+#EXTINF:-1 tvg-id="53f9b1ab2002996114b963f90c0dd959",Premiere 4
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/733083987?ticket=FB7CCE151D1C45C3A3D3F4E4D02ADDD8723D8591&profile=pass
+#EXTINF:-1 tvg-id="5c6f5c5651a77655510efbe9439ff832",Premiere 4
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1448898396?ticket=5767DC15F60B79BF444936750FDB20AAA70E4BDF&profile=pass
+#EXTINF:-1 tvg-id="448483ddbc0fc1f49a5d53380eb589e8",Premiere 4
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1568900164?ticket=62C9F0B9B55367AB78C7ECB3E61746D0B88AC081&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="60b8945b211a75d70b6b8b6474f118ab",Premiere 5 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1536473184?ticket=219AA7A3131411A406E43309479F25E0C171F156&profile=pass
+#EXTINF:-1 tvg-id="78eb91beda4ee0e3c7d64bb31d4a95aa",Premiere 5
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1049750392?ticket=354537E01B31D9DD66C56CAF8045C90338F37950&profile=pass
+#EXTINF:-1 tvg-id="338cfb530aeee1cdf0308d280381a7b2",Premiere 5
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1408994355?ticket=587D481FA6912EE65AFBC161EECD1DDA05F91EEE&profile=pass
+#EXTINF:-1 tvg-id="725f085e55889fb9735cd4bb7fef0ab1",Premiere 5
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1577607026?ticket=9378C5D6969413E3B138E2B29AC71741D1161884&profile=pass
+#EXTINF:-1 tvg-id="f20975e7a0a32e6010544bbde2e69f7c",Premiere 5
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1735723506?ticket=D279EBAF868B801A42C1CA2908A450248E2B5F7E&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="03fa01eb872ce7f8ba16a7583a85c4ca",Premiere 6 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1795291651?ticket=86D40B7AF0EE1CB0DBB29851E4B6F36602DABF2A&profile=pass
+#EXTINF:-1 tvg-id="b06f23ad921927997d9a3ae535af5854",Premiere 6
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/757297072?ticket=3EA14CF4AB8BEA5AE98E0AE9172CBECE6F01AF63&profile=pass
+#EXTINF:-1 tvg-id="79d9f6ad18d8b8709a0b4c7fd45f4f91",Premiere 6
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/771152249?ticket=D62FB86189A4A373B576B9E79DA106B95B908105&profile=pass
+#EXTINF:-1 tvg-id="6e7f4d3d4ea11ce03da6b7bc0bc061fc",Premiere 6
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1028489070?ticket=4E61D1DB15EAF61FBF6976FAD74242E2E16FB09A&profile=pass
+#EXTINF:-1 tvg-id="d634f0e5ae425ddbd74decf341920e92",Premiere 6
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1710240982?ticket=50AE6397F304FEB2CE49DD8A2707F45F29EA64CC&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" tvg-id="ca8633dddcfcd88c71d5bafac8f907c6",Premiere 7 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1563657930?ticket=2404D8F21C8A5A7163B0F03D6768C62AD1423F0A&profile=pass
+#EXTINF:-1 tvg-id="06c4e00ad91edf04b7a67346dd344ce5",Premiere 7
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/182502406?ticket=EC0F2DBF75CCDDCA59752DD040A97DEFEF19E9A0&profile=pass
+#EXTINF:-1 tvg-id="076e5627d156e7b7b9e889d447482782",Premiere 7
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/659975687?ticket=1EA5440A636EC84881701DF6FF0448C04E1A2D1E&profile=pass
+#EXTINF:-1 tvg-id="a70c1db35467f802adf400219b6750c7",Premiere 7
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/857541799?ticket=0C2FF9D17259C4E2270E1C4B331172AADB40EDA1&profile=pass
+#EXTINF:-1 tvg-id="ac44d3778c2bb50ad575e759f428fd55",Premiere 7
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/2010334380?ticket=BD1464600C2089E2941880C199BA31E6FC0DF16E&profile=pass
+#EXTINF:-1 tvg-id="cce2ac47c7a0a398087a5bcdd0a0851e",Premiere 8
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1202512588?ticket=753FC8D3091AF9E28B36282D25E1A71906273DE6&profile=pass
+#EXTINF:-1 tvg-id="c7e83a48abe26be7650e14e2c3e43fb0",Premiere 8
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1211820231?ticket=043E37248D7CB4882283FB3B911E4414136F52A6&profile=pass
+#EXTINF:-1 tvg-id="3450924fd534f507511168f037d0a00c",Premiere 8
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1334988852?ticket=FFFC7B655D270379A680E6E916B1888438A8CB83&profile=pass
+#EXTINF:-1 tvg-id="564748e04e0dc2eac546bec80607c8f3",Premiere 8
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1615349590?ticket=528A31F9D6DE45EB699F8A0CB3922C56B3E3B763&profile=pass
+#EXTINF:-1 tvg-id="3784401a3ada700fd837c6f105573760",Premiere 9
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/440435767?ticket=3823D5C14D80877B332CE1D06695809D4138DE89&profile=pass
+#EXTINF:-1 tvg-id="d1231059e03ea20ddb4603abff8605d6",Premiere 9
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1494229969?ticket=4286BC75C01A6F51516A036FB41C4A54DD837A5A&profile=pass
+#EXTINF:-1 tvg-id="d7bf5071817382f799ac002580a12f9f",Premiere 9
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1901117399?ticket=16FE392F5340D5132490F26A0E78C2DC43E414B3&profile=pass
+#EXTINF:-1 tvg-id="3d3b62fecd43c106b3db57f43e932010",Premiere 9
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/2120366909?ticket=9AF891635257A42A8AD4B04E5D4B81A750D721C5&profile=pass
+#EXTINF:-1 tvg-id="06fe185b62006fa40f6e6b758ebd1979",Prime Box Brazil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1528364550?ticket=F788F788844885A4087AA8D456792FDF02CEB167&profile=pass
+#EXTINF:-1 tvg-id="204ba363c5db899235b7de3b3dacd60f",Prime Box Brazil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1671645984?ticket=80035F395D7DA4735051B5F025BE952407D61016&profile=pass
+#EXTINF:-1 tvg-id="1ba78198e67497e24e654d5ada8ac87d",RAI
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/411150107?ticket=648A4DAEAA97BEFE2EDA2E026B8EF4DC0991D3E3&profile=pass
+#EXTINF:-1 tvg-id="332898e4ad6fc2c179f6db966fa27e8a",RAI
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1687693363?ticket=4AA35A17C61B7CE79282D972C885537DF983A097&profile=pass
+#EXTINF:-1 tvg-id="a2c1114a629476cf9639fb6a3c014d40",RBI
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1242677666?ticket=C833213A8D6FCE0D11AF8B5E0B7CAC1227C0B1F2&profile=pass
+#EXTINF:-1 tvg-id="7beaf3cd293892e512368c7c57038b0e",RBI
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1307830907?ticket=92DAAB9D22F2626D8A2462CCF70AD73A5786F91E&profile=pass
+#EXTINF:-1 tvg-id="8ebce392444d52ba730fb1e8cb6371b5",RBS TV Porto Alegre
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/316914830?ticket=DCA29190287EC64EAED2A77A95CA1D91EFDA3970&profile=pass
+#EXTINF:-1 tvg-id="016e41a1fb2ac84793fca1dab45f310e",RBS TV Porto Alegre
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/557936129?ticket=8309F01352C6F5846082D97290683BF27D690C65&profile=pass
+#EXTINF:-1 tvg-id="ebf88f8154f94a28ee27e8666cb943bf",RCI
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/26212587?ticket=666EF8C7FCCE73F2B9D4D17FBBEB58EFF3615D91&profile=pass
+#EXTINF:-1 tvg-id="40d5b94c1826decf478b46e8f436e55a",RCI
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1287247168?ticket=84A0FC5355CA09B5994971399F999BCC8FE7C9B4&profile=pass
+#EXTINF:-1 tvg-id="60927680622adfc065399537c447e108",Record News
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/7770720?ticket=DFBF3278DE4D93FA614E037B994D798C31750CC4&profile=pass
+#EXTINF:-1 tvg-id="e8c35955171a990161f1a118d98fef9f",Record News
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1431946216?ticket=7E6F283242EBED02885C537E4E7457C1CA66E878&profile=pass
+#EXTINF:-1 tvg-id="96014ab6683e50bc22d6641c8afc98b5",RECORDTV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/910819734?ticket=2C45A520C3DFFF0A32D9CBF17FCE03666A474EFC&profile=pass
+#EXTINF:-1 tvg-id="6c29f8fca23e3bb0f478149c36474e01",RECORDTV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2096638316?ticket=B635CBC9F6D649F7B3370437623DB92596E432DF&profile=pass
+#EXTINF:-1 tvg-id="85a5236a50869579d95ba9baaead9234",Rede Amazonica Manaus
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1780721029?ticket=11424805111CAFA91B415F1F3AE014095B57E045&profile=pass
+#EXTINF:-1 tvg-id="ae5869f228b0c030904bacc0d235d8b7",Rede Amazonica Manaus
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1919506606?ticket=8FF29DAA703944F2B2416F207DC8A7921ED36560&profile=pass
+#EXTINF:-1 tvg-id="10ccd88c1f9356d8df1fad1dee32de0f",Rede Brasil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/215534608?ticket=AD74D9A9B40D808324C47361F86F5146D7023CFF&profile=pass
+#EXTINF:-1 tvg-id="00097d0e358c651b7785dbd3bb5cf1a0",Rede Brasil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/243075328?ticket=51750A48E3DC2524BEADF5F5FC7C937E24563FB7&profile=pass
+#EXTINF:-1 tvg-id="cc75d549b328d711f23a73a1117838f6",Rede TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1238726092?ticket=C602CFC67417C4E8F71F32F3D9C6CF348ABCA774&profile=pass
+#EXTINF:-1 tvg-id="d215dcccd3b0a8211387c4de7abe05ef",Rede TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1289491922?ticket=5C0BCDFD952849C28771E2F780329B4362AD7C78&profile=pass
+#EXTINF:-1 tvg-id="6fafce92efbe44f0a3f7dff511108d48",Rede Vida
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/315535215?ticket=8F4837E1F6D2DCA756AAFFB695517761BF077C45&profile=pass
+#EXTINF:-1 tvg-id="57f25d3b0ff9ef6a7506be67d3b71076",Rede Vida
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/996012631?ticket=C8EB279987B8CC2CBC73A5E04EB1A0B39388C762&profile=pass
+#EXTINF:-1 tvg-id="3eb56342e0bc932ea6cbf0a100d10b88",RIT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1113830718?ticket=70F115D279515AEF78CAA559F08F135DB3F8B22B&profile=pass
+#EXTINF:-1 tvg-id="76204ecf258bc0b7acb6cb6ff2dccf78",RIT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1330520182?ticket=5588FBE4B830C2861FBC7CE1A8A9F83E85926A8A&profile=pass
+#EXTINF:-1 tvg-id="ea498e89d2d2883ca96ed818b3d4ed9d",RPC TV Curitiba
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/160319978?ticket=968F9C1ED06C82158CB66E273E8EFC05753B9EDF&profile=pass
+#EXTINF:-1 tvg-id="78bafab06b8c12e7b3a6f4d79cb00324",RPC TV Curitiba
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/821738104?ticket=0B906DE00E6AB2A1C8DBDEA25142329DD1C3D827&profile=pass
+#EXTINF:-1 tvg-id="45843b89729e6b5bd7b7fb0e53b2c0c2",SBT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/154895429?ticket=1A8DC1C4832ADB4A79C32FE53D9FB9AECA6D56CC&profile=pass
+#EXTINF:-1 tvg-id="55c4f13d0dd5c0c9f4d09b4e87ef92a9",SBT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1039254613?ticket=465C902EA00AC5034D79D7B57B273A7E8F4A3782&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/scooby1.jpg" tvg-id="cba619e595ca03d37a0ec3d0b2f70baa",Scooby Doo 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1696179915?ticket=4302E2FBA074C523EF85CE8BB77AFC8BCA516AC9&profile=pass
+#EXTINF:-1 tvg-id="212029a194bec400c41a40c7dcf00bd3",Sextreme
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/556343329?ticket=573216C40765003E5B01611AF154B7909238D06E&profile=pass
+#EXTINF:-1 tvg-id="d359f1c330c0e0c1a836b2664a01fba1",Sextreme
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1139890643?ticket=9F816171A703115AA2548B6B81110D05C0D3B89F&profile=pass
+#EXTINF:-1 tvg-id="7c413fa30f683d0cc0b7474d77fe2651",Sextreme HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/591348092?ticket=62592A37D46209BC688331B211B5D920E1636A6F&profile=pass
+#EXTINF:-1 tvg-id="5c39108b82b2dffc00cc15e8cfb8822f",Sexy Hot
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/185612636?ticket=0A5FDB89D0E48B3996DBF57BF3396932C8BA22D1&profile=pass
+#EXTINF:-1 tvg-id="8fcdb6f5881b49c28ac5ba5fbf51a201",Sexy Hot
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1974914447?ticket=90C062D1C724589F275E8906563705F1710C2D4E&profile=pass
+#EXTINF:-1 tvg-id="156a71b2f949a8d656296b5e2c293a37",Sexy Hot HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/846293525?ticket=D1DFE76EF3BE069D21314CC6317B22DFB4371BCF&profile=pass
+#EXTINF:-1 tvg-id="943f6b18923cc1a831a9eb04f3125548",SIC Internacional
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/409681812?ticket=E57B0FE3948298B9454BC0CB64A9712470FBFEF9&profile=pass
+#EXTINF:-1 tvg-id="143644ce71e5aa92a40087267e902b35",SIC Internacional
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1313093140?ticket=BA017FA85698072D1298AC9EA4ACA5F967FE5791&profile=pass
+#EXTINF:-1 tvg-id="7d6e1cbeeb6801ff24d2da0bbe157fb2",Space
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1042050685?ticket=2CFF31A122CAC259C85E62D4EB755CBD1AA2012B&profile=pass
+#EXTINF:-1 tvg-id="8cb15fd5239132fd65aba2a7219a0205",Space
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1432334732?ticket=7E7751C8B92A26EFE5831D3C6B15AD5ACAC6D909&profile=pass
+#EXTINF:-1 tvg-id="54331d9acd0aae32d45cb82a1d710bf9",Space HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/438121300?ticket=9E56E8CBAF6FD06A87C89BBB025057FF638FFF28&profile=pass
+#EXTINF:-1 tvg-id="9704cf5ce389b12f3103c554dffeb5c4",SporTV HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1557070999?ticket=2B14F9390C07EDED85DFAEBD896EB1EAC829B104&profile=pass
+#EXTINF:-1 tvg-id="38424fa1388c6ce8349948a36df83b21",SporTV
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/558842424?ticket=29B8950D718D2A7874F7F6134A839E3C93814690&profile=pass
+#EXTINF:-1 tvg-id="8c2565b7d69a7f5ce664387c76494d60",SporTV
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/929375628?ticket=5769FD4BB6645498147AC234E6BA74106A83E4B3&profile=pass
+#EXTINF:-1 tvg-id="00a12138c92d2212b5c13cc97e4a3fa7",SporTV
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/941728000?ticket=F601D55F7DCA3F9AA643B91F55B6E8DB9724EC4B&profile=pass
+#EXTINF:-1 tvg-id="953970fcbc59a793b25bff332a4146b3",SporTV
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/2087729557?ticket=8014955FEB5A47F5E0FEFC545B14E4E8ED405D1B&profile=pass
+#EXTINF:-1 tvg-id="e728bb48877ce9e0430d19e80f5c6940",SporTV Alternativo
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1220225255?ticket=0D782008C09B577247F86125497138838D6A65D5&profile=pass
+#EXTINF:-1 tvg-id="59eb8350f5d044b75625c5a641af0ca9",SporTV Alternativo
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1350822745?ticket=348B583A6276E04148A04575CB09FD869AAF7C28&profile=pass
+#EXTINF:-1 tvg-id="1022d2ee36ef36c07afca1e57a84a5de",SporTV Alternativo
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1859265040?ticket=9E25EFAB167A695DB9435622875BB49F3963BDE1&profile=pass
+#EXTINF:-1 tvg-id="171f2d75686496adb1e98a18a1f5b89f",SporTV Alternativo
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1965891351?ticket=F520150933C959BFE0E0AE00CCE6AB70F66B422D&profile=pass
+#EXTINF:-1 tvg-id="217a92d9dbebff894741eda59fac8f6f",SporTV2 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1502771745?ticket=C8BB2DA048F7330424D75C9BC1C67C18BC55021E&profile=pass
+#EXTINF:-1 tvg-id="2101e18de2c135f3e1c9dd43230f46b3",SporTV2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/232849697?ticket=025061EFEE503D158513DE8F519FF0D72AE7C9D2&profile=pass
+#EXTINF:-1 tvg-id="02356d3b5309deb09374e0710eb7c9cb",SporTV2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/997012738?ticket=8F0E3DEA6A777F363725FA0151924C678CEBEB0F&profile=pass
+#EXTINF:-1 tvg-id="46431eeac97d889f05ec6b82d4e77fd5",SporTV2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1780368198?ticket=9720A2A48A6FC75DE6D2D19D0CF20824C00797E2&profile=pass
+#EXTINF:-1 tvg-id="c8fb6cf6b2ad317f4af22b01b8160e54",SporTV2
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1986853832?ticket=BA6FCB7E0E2D247F69F463C1BB30A4AF889F68C3&profile=pass
+#EXTINF:-1 tvg-id="7b97e40850c8e5b84abcaa01c3fcb2b6",SporTV2 Alternativo
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/149198715?ticket=B29371392D3E3B4C470833C22FDE693960BAC697&profile=pass
+#EXTINF:-1 tvg-id="40f3fa20dfd3aae677506e0250382541",SporTV2 Alternativo
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/553317184?ticket=7B9B3A0965FABA341DCAE01606322D3FE99773E4&profile=pass
+#EXTINF:-1 tvg-id="66f5bc3f00cb1302450cfe5af7d728aa",SporTV2 Alternativo
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1069348198?ticket=661B9B6533E7029514376F1A648F04A59A544D30&profile=pass
+#EXTINF:-1 tvg-id="a179876b6aaf018ba8ff2942eb929cfa",SporTV2 Alternativo
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1804040609?ticket=BCD3E511B9DF46BEDFDE6ED26EF4B9648EA602D1&profile=pass
+#EXTINF:-1 tvg-id="e7f80e517f65e7a88156ee3145bc3231",SporTV3 HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1359935719?ticket=E1ED8A17A55BC9647C46E89DBFB4E5911CF13326&profile=pass
+#EXTINF:-1 tvg-id="9f69c7930c344ded4f6d481fbb5675d1",SporTV3
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/331835807?ticket=DAF6E19236DA714F59794D5FC19B838935818D45&profile=pass
+#EXTINF:-1 tvg-id="e030cdfc10a7057e4621353819f5b56f",SporTV3
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/2093822176?ticket=31E7454E8F928227BD8F94D77F5ECF37FB5ADB46&profile=pass
+#EXTINF:-1 tvg-id="6472d9fe7dd8b9884d84ab7d45ca8fdc",SporTV3
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/2128179812?ticket=53C8D5CAC14BFBA285FAF4A7A7C48ACFD42CC3F4&profile=pass
+#EXTINF:-1 tvg-id="168a7b7ff9e819a09558cc9cb8827960",SporTV3
+http://onlinetv24h3.dyndns.tv:9981/stream/channelid/2138802710?ticket=F3474AFB804C609FBBA576E25EF1B2B4BA886AEC&profile=pass
+#EXTINF:-1 tvg-id="61661e01f9e68151c56ac6f9debfa6f4",Studio Universal
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/18769505?ticket=EA570094BC92E77F46CC8ADF64569311908BB11A&profile=pass
+#EXTINF:-1 tvg-id="571ab873cdf3f01a44678646515c4a02",Studio Universal
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1941445207?ticket=FCCD2A1B58C5C0EE735320F95E8E8C045465C860&profile=pass
+#EXTINF:-1 tvg-id="f4f02baf106398e0d83840cf5bcdf5b1",Syfy
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/791408884?ticket=DD0F55B236E34A60F3E15518367F80C56A9D8019&profile=pass
+#EXTINF:-1 tvg-id="70287af9cab142f6b57dd6d4188a7d7f",Syfy
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2038048880?ticket=3CD325F7F31B81903F0322D0E634A80070A41131&profile=pass
+#EXTINF:-1 tvg-id="1df46560e0b72c7fe0189107af98139e",TBS
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1617294365?ticket=538895D1E034F8E89A1B3560C6F3DF96568FEF73&profile=pass
+#EXTINF:-1 tvg-id="f8cab86666bbf56385bb46ac2c078807",TBS
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1723386616?ticket=742DF5C1835816447485630E75E37B1018E56A58&profile=pass
+#EXTINF:-1 tvg-id="6b824bb712736305a105786153130022",TCM
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/927695467?ticket=A1770AAAAAA229B1CD24C4D94708233E3173A833&profile=pass
+#EXTINF:-1 tvg-id="24e976bd3f69e04ea2e56b86043cf664",TCM
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1031203108?ticket=F33522F5F602A02EFF484607B510DB2A90017673&profile=pass
+#EXTINF:-1 tvg-id="3ce7bd59f3ac882dbc510e57d29ea2ab",Telecine Action
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1505617724?ticket=EE7FE35CF83C84EFBE48B1D7029F4D2D1270791B&profile=pass
+#EXTINF:-1 tvg-id="ac32086bd9640578a0163ef1c8d07506",Telecine Action
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1795699372?ticket=C9B9C7AF1A7D654FF177D0256F523E34A62A0FA6&profile=pass
+#EXTINF:-1 tvg-id="6ba64d03ef0c22dcbc82c43025a7f103",Telecine Action HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/55420523?ticket=DBB131A006E6DC21C35945C0784255AAF01D0273&profile=pass
+#EXTINF:-1 tvg-id="b9e761bf968fa8b0ffb70fdde4553fa8",Telecine Cult
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1063380921?ticket=6E03FBDBC9DC5917E1A9F79F7A1112802DE45B5D&profile=pass
+#EXTINF:-1 tvg-id="317edee167535c7b1704c6df207ea106",Telecine Cult
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1641971249?ticket=C302FE752F190AB425F64DA9291D7703C7FA65D9&profile=pass
+#EXTINF:-1 tvg-id="930ab8d8abe0345a59d144ac4bb0abaf",Telecine Cult  HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1488456339?ticket=8BCB052CA12E60FAFC78BAB9663B5CE4410BEB6A&profile=pass
+#EXTINF:-1 tvg-id="670635b60aa65e45882de89840c2ff57",Telecine Fun
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/909444711?ticket=1E4BA329341780DBCBAB3BFC2C85E123CFFC7FC8&profile=pass
+#EXTINF:-1 tvg-id="00938278c18e63d4b8e77abf394d4804",Telecine Fun
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2021823232?ticket=B6E0B0447B50B634747869278C4A80967E159E18&profile=pass
+#EXTINF:-1 tvg-id="e2464694a1f8b868688cf3e96de611fe",Telecine Fun HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/340149986?ticket=5D2D75BEA0937700C3895807C179B624589CA859&profile=pass
+#EXTINF:-1 tvg-id="58802b9fe90df49bcf6179830af984ee",Telecine Pipoca
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/522944600?ticket=191CB97B8308C5723AD5311D45630B1ED5AE69D4&profile=pass
+#EXTINF:-1 tvg-id="4ce36c66583983effa5e289f8920095c",Telecine Pipoca
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1718412108?ticket=1EB87B4EA7DD29F04D860E40030568EFB1201B8B&profile=pass
+#EXTINF:-1 tvg-id="2f745e706a79d446d5f45489bc3fcca3",Telecine Pipoca HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1885238319?ticket=FB723AFD2CE0CF11FFA756716D3FD932E25C5703&profile=pass
+#EXTINF:-1 tvg-id="001882b69688c67a54ad4002ea8e1936",Telecine Premium
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/914495488?ticket=6675A24C0349B86260F07030F32CF08FA1413A26&profile=pass
+#EXTINF:-1 tvg-id="f22733b8026ca5ca4b334eeae084c532",Telecine Premium
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/942876658?ticket=710E46C4F31868D7F5986C8D4BA84E5B6EFABA3A&profile=pass
+#EXTINF:-1 tvg-id="798c85aecac4ef382f44e14a831531c7",Telecine Premium HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/780504185?ticket=E1EAEE67A74E03067D7013E4CE21B56FA4B638A7&profile=pass
+#EXTINF:-1 tvg-id="a29714b90d8f4ad34aeff1853b75ea1e",Telecine Touch
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/957650850?ticket=7BF56EF6D7407E061B3CE96004F8115D3C35CBBB&profile=pass
+#EXTINF:-1 tvg-id="6a6ff8f11f089d26c03a80be4e81c165",Telecine Touch
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1912106858?ticket=9764680278419CC7D7782162F3E0C5B91F0A47FA&profile=pass
+#EXTINF:-1 tvg-id="b7b6bbd497a61025a44c1ea8e6545825",Telecine Touch HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1421588151?ticket=183BA2A9702A7313483C59A5864EDE4EA2250A35&profile=pass
+#EXTINF:-1 tvg-id="43ff410caa96083ec6c6c2dd2aaa5baa",Terra Viva
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/205651779?ticket=C65BABA2F250D13D1A4B74CB38E30653B5110C49&profile=pass
+#EXTINF:-1 tvg-id="5b821bfbe3022cae6e4029e75e526166",Terra Viva
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2065400411?ticket=1CB21850E91B85106662B41A3B86673E3E89F4B9&profile=pass
+#EXTINF:-1 tvg-id="b96fae8da5e2e2a36add906eea3f5e83",The History Channel
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/229535673?ticket=A8A8770BF9E6AB6756676A7A404139CD1F3C21FE&profile=pass
+#EXTINF:-1 tvg-id="2d3bb16847e2ad882752c68eeb16e997",The History Channel
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1756445485?ticket=BB5936D05E0F382D1ED46C785E90334CDFF40F01&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/theloudshouse.jpg" tvg-id="97f2a8527424d705b9778041e000bdb6",The Loud House 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1386803863?ticket=2AF3A5826EEB6E94C086E15D7053016359FB6E0D&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/tandercats.jpg" tvg-id="18407275aa2f2d95961f366e6fb8201e",Thundercats 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1970421784?ticket=BD820DDC9759DBBBAFF3AD4C5217F3CE5268B067&profile=pass
+#EXTINF:-1 tvg-id="34e34036dad42f72754833824ad64586",TLC
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/910222132?ticket=DC4DB5CFF94B8FC7E34D1B30804A385F7832D3E7&profile=pass
+#EXTINF:-1 tvg-id="094cf436052911cbbac877e38811ea69",TLC
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/921979913?ticket=A51047A26C88345A46DAB8DD9ED954F6B79D6C7D&profile=pass
+#EXTINF:-1 tvg-id="fa1f03ca13dc52974f76f732bc1b6d99",TNT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1241718778?ticket=CA76C0229C166D9CA4643905B62FE0EBD6237078&profile=pass
+#EXTINF:-1 tvg-id="96eedff467ecf111f775d019286f2564",TNT
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1960832662?ticket=7E20F671142C0E4BE400035A3865C4938586DC3C&profile=pass
+#EXTINF:-1 tvg-id="16c3b1a5cb28ae9b89319839dbe34e2b",TNT Alternativo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/632406806?ticket=8F5F202F54CB78661AB9593102D1E18A47C06157&profile=pass
+#EXTINF:-1 tvg-id="a421b3c22d0b645334332d2c9ae22468",TNT Alternativo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1119035812?ticket=D02631BEE10BB2E2D63898451CD4515C5DEBB60A&profile=pass
+#EXTINF:-1 tvg-id="923104305be8321222f0c3638dd3273a",TNT HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/805581202?ticket=ACBF4F803E8DA3F110896E160DB66578AAB19C42&profile=pass
+#EXTINF:-1 tvg-id="f5d8842658804008901e9db8e3955254",TNT Series
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/646240501?ticket=CFABC54C8CE5AA696736BD7E6279721FDE3D86F7&profile=pass
+#EXTINF:-1 tvg-id="de6b9cc947ee4f12a27fb5ccbde76df4",TNT Series
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1234987998?ticket=EDE73287DA93E27EC12A59A7EC7346604359E6BD&profile=pass
+#EXTINF:-1 tvg-id="749ff2fed3a0a1cc49ef96f64abc6281",TNT Series HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2129829748?ticket=0BE1F8590862094F3E505E1B38B1E5A5363B5A52&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/todoodeiaocris.jpg" tvg-id="920378d4deca6c47908be87b38624266",Todo Mundo Odeia o Chris 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1417151378?ticket=531463A2AF315A6690F07217F277F5DE4E07ECF8&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br/icones-canais-24/tonejerryn.jpg" tvg-id="df983f596c01cb085513557cecd721fd",Tom e Jerry 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1497340127?ticket=D023599DBE4EEFDD83FDA58D752198518ED58AF9&profile=pass
+#EXTINF:-1 tvg-id="13948168866c40dd9685a58e3b9df20b",Tooncast
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1753322515?ticket=A7FFD63106D760CACCA46770EF6B040A14665C25&profile=pass
+#EXTINF:-1 tvg-id="e1c2e5f009ccbba37db2988f18f7cbdb",Tooncast
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1894105825?ticket=EC3A58EDC57BC407C6E77E14AA46CCFAB54A1382&profile=pass
+#EXTINF:-1 tvg-id="bd7cee1143257953fa727c6c10073b37",TruTV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/300842173?ticket=892445852F62916E9A287AD50295E92C10E127AB&profile=pass
+#EXTINF:-1 tvg-id="795094e63745a6e2a2aef2a8baa8a741",TruTV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1720995961?ticket=6198FB053B9D4ED3BFA5DE3AD32FB289D0EA0FA0&profile=pass
+#EXTINF:-1 logo="https://iptvclub.com.br//icones-canais-24/turma-da-monica.jpg" tvg-id="5c47d89306fda475bc1e339b05e66d37",Turma da Monica 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/332941148?ticket=DCD0A341DE4CCB33F662999CC74071A784A71B2F&profile=pass
+#EXTINF:-1 tvg-id="e5f8df0f670600f6b45dcc72507c8412",TV Anhanguera Goiania
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/266336485?ticket=3D5DF9508B33959DA61585CDBD337D8E545174D7&profile=pass
+#EXTINF:-1 tvg-id="579fc0cb48e19ecf810b5aac426b237c",TV Aparecida
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1270914903?ticket=83AF13702182BA74B8C61A6778EC7CF2A6DD9EE1&profile=pass
+#EXTINF:-1 tvg-id="ff767f54966b05423d4e90db3cad8a7c",TV Aparecida
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1417639679?ticket=9E1C353D4DBC7684F5663A2C350FB88C9CE82238&profile=pass
+#EXTINF:-1 tvg-id="ab393fb625dec16747027ebf5dc436ab",TV Bahia
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/910113195?ticket=CBEF92E7AB5F916ECEF9F69A97E4834C3ED13BAD&profile=pass
+#EXTINF:-1 tvg-id="9125e9e0e4a951cec634e038cc76dcce",TV Bahia
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1625892241?ticket=5A50C589EF3C8E4CB8A214D573B3C9A426B35F06&profile=pass
+#EXTINF:-1 tvg-id="39de932fa32f5a48254d6392e25993c0",TV Brasil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/798219833?ticket=5FDBAF381E115468905F85C2EF697FD673EB5972&profile=pass
+#EXTINF:-1 tvg-id="b1f2e939e04750796116d355dcd4977d",TV Brasil
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/971633329?ticket=98075D8DF11678364AD1FA91848D741C8A48D428&profile=pass
+#EXTINF:-1 tvg-id="b426458d505129cf6661d6be4143b726",TV Brasil 2
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/222635700?ticket=ECEE8D94A989DACAD862C205B1DC41D049136004&profile=pass
+#EXTINF:-1 tvg-id="f9375afa7a95142f86d72cfb9da62249",TV Brasil 2
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2052732921?ticket=9229342843009F8B0BA2CCBBFDA81E3A0D25B4E0&profile=pass
+#EXTINF:-1 tvg-id="4bc1a1a2fe4c657e467c0bd678ff5ade",TV Camara
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/581026123?ticket=AFE8EB00534D7AAAF1A9B3CEA06DC575DF9E4EC6&profile=pass
+#EXTINF:-1 tvg-id="5da2eac83eff743c6c3ac74ef6557220",TV Camara
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1223336541?ticket=A3797F0F1F467CB8F8AA34EC59B177235969E15B&profile=pass
+#EXTINF:-1 tvg-id="32ab21d567687fc37df5e62a1b699fc1",TV Centro America Cuiaba
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1428269874?ticket=3FB4BFA377AF8C0F53470CA761BB374A25B5ABB4&profile=pass
+#EXTINF:-1 tvg-id="2fb2fc753df5a1acbd7d5012ca2a21f3",TV Centro America Cuiaba
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1979494959?ticket=564E7642DA3BAD84F87A16768E9A12630C426CBE&profile=pass
+#EXTINF:-1 tvg-id="d6c32080a930372b8c76173fa057b6c7",TV Cultura
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2147286?ticket=D7C66B3F90BF148AC02973D560DA88E1C515DACB&profile=pass
+#EXTINF:-1 tvg-id="f16a03958722f67abac62b3aebb9d48d",TV Cultura
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/352545521?ticket=8A109F3FCD28C2F6A9FF14C0DC7D20A5DD11AF48&profile=pass
+#EXTINF:-1 tvg-id="5ce8c831b92d457bd67f6e0d4f3a7cfb",TV Escola
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/835250268?ticket=B9717CC667845E042AAEE0223290688BF3551E65&profile=pass
+#EXTINF:-1 tvg-id="d29313ddd5f60c26e5172c5a4310206a",TV Escola
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1561564114?ticket=0792A667D3A0F4A8E2DB10D5012400AFE48AAE91&profile=pass
+#EXTINF:-1 tvg-id="11f2f527d7c87d6146cae1dc199a457a",TV Justica
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/670429713?ticket=878D996944130A24C05D281860C3A6F02E465C20&profile=pass
+#EXTINF:-1 tvg-id="41b4592bb9f07a9224f74a99259061cd",TV Justica
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/727299137?ticket=6926B5612F85C539DC1720FC4F0FE2D4971EDFD2&profile=pass
+#EXTINF:-1 tvg-id="1c5cdf16d6fcac2049e2c9fb70997c32",TV Liberal Belem
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/383736860?ticket=89595FD3A6CCFEADEDA592C27C7D4CD4906E975F&profile=pass
+#EXTINF:-1 tvg-id="df2fe84720a98c6b2ad37f2ede02f3ce",TV Liberal Belem
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1206398943?ticket=91EF3E5DE0F514447FD7F88F70A1378276301BE6&profile=pass
+#EXTINF:-1 tvg-id="5bb0d7248d3f1e479c24113e49b96074",TV Novo Tempo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/618115163?ticket=27ECCB64DAD94CE7D4807838C24D18E060F65E66&profile=pass
+#EXTINF:-1 tvg-id="ef61ac3554be12c4c86c5244e8fa4982",TV Novo Tempo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/900489711?ticket=B311D9D168C5A00AE95BBF9541A8B071E343AB89&profile=pass
+#EXTINF:-1 tvg-id="548117be06a1ff7f0f716075aa6b9382",TV Novo Tempo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1041727828?ticket=FAD4C8BEDEB7DBA129041A736DFE3837EEF83C8B&profile=pass
+#EXTINF:-1 tvg-id="324b83fb258af0cc86a11cbe8cc60bd7",TV Novo Tempo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2072202034?ticket=4C8CE49E127934FD30516F2AC719CA576DE27BFB&profile=pass
+#EXTINF:-1 tvg-id="66fe87a619168e88c0b1518fb4e47e58",TV Ra tim bum
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/646446694?ticket=2AEB5BFD071BBF898ED13904221A97BDB99C03FE&profile=pass
+#EXTINF:-1 tvg-id="e750b0cd0eeed6a6c77239f5f44f3064",TV Ra tim bum
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1303400679?ticket=E6DB52338C6A45B105EDD604F7259F779C16B158&profile=pass
+#EXTINF:-1 tvg-id="59558b549336cc77cdd518a6be8af0d2",TV Senado
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1418417497?ticket=EEBB4D6B53AD78812D6A8BB6801C1C1CDBC0B855&profile=pass
+#EXTINF:-1 tvg-id="78feed70dc0db1a69211738981a3b4fd",TV Senado
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1894645368?ticket=851FA39718FFA9E90C14FC874991F4D3FFCCEC1B&profile=pass
+#EXTINF:-1 tvg-id="98ffa585bdd4dfb99b2bc2e1f597bc4f",TV Tem Bauru
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/94764952?ticket=F477A2A8A6D54C7798E11663BDBDF9C0B0D4EFFE&profile=pass
+#EXTINF:-1 tvg-id="9b0aaec3c2ae8fb5442975d288ea2b50",TV Tem Sao Jose do Rio Preto
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1135479451?ticket=9F7D56721DAA430EF5575512FD09186BBAACF798&profile=pass
+#EXTINF:-1 tvg-id="c2d841ee8ce2f6a9d9de3eb44fb88a11",TV Tem Sao Jose do Rio Preto
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1849809090?ticket=95F4F95D1E134AED32478148FDDCCEEEFC3CDB32&profile=pass
+#EXTINF:-1 tvg-id="7fbf7ff6760a9ed96309e1030359a463",TV Tem Sorocaba
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1988083583?ticket=ADCFD264140B434078056FFD4A38F589D68BA47E&profile=pass
+#EXTINF:-1 tvg-id="bdd2f115591c3af05cba0bb7313370c1",TV Tribuna Santos
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/368169661?ticket=EF09722A2FAEE108E229448B5CB706E03A5258A4&profile=pass
+#EXTINF:-1 tvg-id="ffb69158b1c66b51a7c7db5f88d13e54",TV Tribuna Santos
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1485944575?ticket=D93A484E8FD50B5537F72CB9C8FFAFD85149C29F&profile=pass
+#EXTINF:-1 tvg-id="af3f34cbbac4d2fcadd0c83cde18f1d3",TV Vanguarda S. J. dos Campos
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1261715375?ticket=93C875904027DEEBF854652EE3DC8F244A553D1E&profile=pass
+#EXTINF:-1 tvg-id="0006ef7d4c3605c11709c64aeb60cddd",TV Vanguarda S. J. dos Campos
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2112816640?ticket=DFE7C82D444FB730A7A8897D5038181049851BD4&profile=pass
+#EXTINF:-1 tvg-id="4b428d419a804b9f90035f7f9d22c75b",TV Verdes Mares Fortaleza
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1099776587?ticket=5E0EDCA5B35CC0D9E0F866B7A4179EDEE76410DB&profile=pass
+#EXTINF:-1 tvg-id="d2d28d78bdb7c58751dcf22f95efc1ff",TV Verdes Mares Fortaleza
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2022560466?ticket=4160FF92AEDE69A565BD17C64AD8E4B5C3626BF3&profile=pass
+#EXTINF:-1 tvg-id="e1eaf39272e0709d9c57d8223705a47e",TV5 Monde
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/317975265?ticket=7475BDE02A86154326DB0E189A1DBA54A6F36462&profile=pass
+#EXTINF:-1 tvg-id="d3425afcff816b951ef477c0ff02552a",TV5 Monde
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/2086290131?ticket=8DF60BAEEBC52F0E81A9AD375A53579F1401745E&profile=pass
+#EXTINF:-1 tvg-id="043d2f6bb6fb28fb36503203f431d20b",TVE
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1798257924?ticket=8D7C37AA5F2E2B840C09A4F234918B0FF54ACD83&profile=pass
+#EXTINF:-1 tvg-id="8dafdc6b442d672cf6311b2b2b33b25a",TVE
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1809624973?ticket=C348799D03E78218AF54D5EFD919773A20C7A909&profile=pass
+#EXTINF:-1 tvg-id="e96703bd11f1fc3bb99fb790cec2c8ac",Universal TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1023633385?ticket=570C1461F0E3AC8BD9B43EBED09449E1D4632315&profile=pass
+#EXTINF:-1 tvg-id="45755e5cfd9ef09cf24b7bf419c984c1",Universal TV
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1549694277?ticket=6DE3A6CE2BAB4EA5C428623D3161984CDB36EC31&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/ursinhos.jpg" tvg-id="f8a59a744ce9bab7d1cda73ee7070205",Ursinhos Carinhosos 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1956292088?ticket=8B32882471D4592C26A3575998CB5987D3619BEC&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/218-2180558_canal-venus-logo-venus-canal.png" tvg-id="1f83e5df1e7a135f99f695f34c35669b",Venus HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1608876831?ticket=27C04E633A750C21D519F9BE985235BAC8B588CE&profile=pass
+#EXTINF:-1 tvg-id="7f239518ea6136cd01d17dd1c3407d25",VH1 Megahits
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/412427135?ticket=2280A485A0E02780E291CCD077C35A1C9E8AD5C3&profile=pass
+#EXTINF:-1 tvg-id="f1788e73791056ab42cd0c13e7cd59fd",VH1 Megahits
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1938716913?ticket=0476EF21ADB21CF6524CBF94DDCBFE1020082EA1&profile=pass
+#EXTINF:-1 tvg-id="cb10ec4c4fce2563e0bd92a5b0f6165b",Viva
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1290539211?ticket=EA82DACCE2CD3B5E5542F3BC952242303192683C&profile=pass
+#EXTINF:-1 tvg-id="af829de3aaa85fc9b556d38da0f86362",Viva
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1671266991?ticket=7C5B9DBBAF2A281BEE236CCB2FB2D63A7EEABF6D&profile=pass
+#EXTINF:-1 tvg-id="e24dee87985123bcd96efe6d70275be4",Warner Channel
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/133058018?ticket=E55F0EA1540B4BE4024C58F7659BAF222A88A0EE&profile=pass
+#EXTINF:-1 tvg-id="baff4c6e18c286a9a28737b5b9a2457c",Warner Channel
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1850539962?ticket=5B8BF518ADD8FAA152CEE12EB08C90142F6EADF7&profile=pass
+#EXTINF:-1 tvg-id="d7f6d3830ea6d3e1e87c0604a53a63c8",Warner Channel HD
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/64222935?ticket=8067D3B35AE071AD39F7589670E50A76D446C25F&profile=pass
+#EXTINF:-1 tvg-id="9f1d591197d493482e4820779643ef7e",Woohoo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/291052959?ticket=3E67DF75B282A508D31E5D368EAA5219D9075C9B&profile=pass
+#EXTINF:-1 tvg-id="2165b5c8d2a2d0d68f1da96025030354",Woohoo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1219847457?ticket=0D78653B6F46C83AD570BE36B3146157D2B7974F&profile=pass
+#EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/xman.jpg" tvg-id="ce52fec003cff081433d979aa093a22b",X Men 24 horas
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1090409166?ticket=3A8DC67F34D826760D65178BB790ABD95C6F679E&profile=pass
+#EXTINF:-1 tvg-id="0495a438d4173f9eed7e5541313954ee",ZooMoo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/950310148?ticket=59D522716EF282D850BDEE8F737055007E4A174C&profile=pass
+#EXTINF:-1 tvg-id="e706c1c96ad937015e56707bab317ce6",ZooMoo
+http://onlinetv24h.dyndns.tv:9981/stream/channelid/1237386983?ticket=89E1F3A4F75E05164CC9515E07D646C0B6D322E6&profile=pass
