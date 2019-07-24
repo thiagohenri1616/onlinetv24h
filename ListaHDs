@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="Canais de Entretenimento",Discovery Civilization FHD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="Canais de Entretenimento",Discovery Civilization HD
 http://login.iptvcompany.org:80/henrique/1234/3870
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H FHD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/heh.jpg" group-title="Canais de Entretenimento",Discovery H&H FHD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H FHD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/heh.jpg" group-title="Canais de Entretenimento",Discovery H&H HD
 http://login.iptvcompany.org:80/henrique/1234/3869
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="Canais de Entretenimento",Discovery Science HD
 http://login.iptvcompany.org:80/S1/2574/3975
@@ -23,7 +23,7 @@ http://login.iptvcompany.org:80/marcelo/1234/4234
 http://login.iptvcompany.org:80/marcelo/1234/4233
 #EXTINF:-1 tvg-id="" tvg-name=".Globo News HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-news-logo.png" group-title="Canais Notícias",.Globo News HD
 http://login.iptvcompany.org:80/nicolas/1234/3957
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Abertos",Globo Inter TV Cabugi SD
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Abertos",Globo Inter TV Cabugi
 http://login.iptvcompany.org:80/henrique/1234/4327
 #EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Abertos",Globo Nordeste HD
 http://login.iptvcompany.org:80/henrique/1234/4336
@@ -79,7 +79,7 @@ http://login.iptvcompany.org:80/mateus/1234/4174
 http://login.iptvcompany.org:80/mateus/1234/4171
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais de Filmes e Séries",Telecine Premium HD
 http://login.iptvcompany.org:80/mateus/1234/4168
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais de Filmes e Séries",.Telecine Touch HD
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais de Filmes e Séries",Telecine Touch HD
 http://login.iptvcompany.org:80/severino/1234/4165
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tnt12.jpg" group-title="Canais de Filmes e Séries",TNT HD
 http://login.iptvcompany.org:80/severino/1234/4162
