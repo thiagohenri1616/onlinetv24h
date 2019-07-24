@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/combate123.jpg" group-title="Canais de Esportes",Combate HD
+http://login.iptvcompany.org:80/S1/2574/4110
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Brasil 1" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dazn.jpg" group-title="Canais de Esportes",DAZN Brasil 1
+http://login.iptvcompany.org:80/nicolas/1234/4100
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/2jcag5x.jpg" group-title="Canais de Esportes",Esporte Interativo HD
+http://login.iptvcompany.org:80/henrique/1234/4098
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports 2 HD
+http://login.iptvcompany.org:80/bruno/1234/4071
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports HD
+http://login.iptvcompany.org:80/bruno/1234/4074
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere Clubes HD
+http://login.iptvcompany.org:80/lucca/1234/4144
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 2 HD
+http://login.iptvcompany.org:80/anthony/1234/4140
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 3 HD
+http://login.iptvcompany.org:80/anthony/1234/4135
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 4 HD
+http://login.iptvcompany.org:80/anthony/1234/4129
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 5 HD
+http://login.iptvcompany.org:80/lucca/1234/4125
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 6 HD
+http://login.iptvcompany.org:80/lucca/1234/4121
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais de Esportes",Premiere 7 HD
+http://login.iptvcompany.org:80/lucca/1234/4117
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/339732.jpg" group-title="Canais de Esportes",SporTV HD
+http://login.iptvcompany.org:80/martins/1234/4067
+#EXTINF:-1 tvg-id="" tvg-name="SporTV2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/3397322.jpg" group-title="Canais de Esportes",SporTV2 HD
+http://login.iptvcompany.org:80/martins/1234/4063
+#EXTINF:-1 tvg-id="" tvg-name="SporTV3 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/339732333.jpg" group-title="Canais de Esportes",SporTV3 HD
+http://login.iptvcompany.org:80/martins/1234/4059
