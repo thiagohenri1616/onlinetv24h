@@ -97,7 +97,6 @@ http://186.236.211.198:9981/stream/channelid/2144305235?ticket=D175ACAEA250AC8EC
 http://186.236.211.198:9981/stream/channelid/673398799?ticket=483A0B94CCBE2F229B0B98C99A07C5A1FFE8ED3B&profile=webtv-h264-aac-mpegts
 #EXTINF:-1 tvg-id="57faffe1e1ba476cda2e3800954ca269",OFF
 http://186.236.211.198:9981/stream/channelid/1644165719?ticket=90D1BD8AD85105612162AB60325CC0A7DB717B25&profile=webtv-h264-aac-mpegts
-
 #EXTINF:-1 tvg-id="5afaba01a2c1897816e2ea103f4033e3",GloboNews
 http://186.236.211.198:9981/stream/channelid/29031002?ticket=B899E4527AB2B485DA7E1860C406374DF0217DA8&profile=webtv-h264-aac-mpegts
 #EXTINF:-1 tvg-id="4a5de3ab9ff609a3aba725c62c9f59cb",GloboNews
