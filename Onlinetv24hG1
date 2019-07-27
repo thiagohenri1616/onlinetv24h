@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="c6470656431b2f99d3cf80561954081e",Globo News HD
 http://onlinetv24h1.dyndns.tv:9981/stream/channelid/1443252166?ticket=4879475A4516E260FE973FE9A5976A040F25ECA0&profile=pass
-#EXTINF:-1 tvg-id="6b7c7f323ef73205f4b6d02894b2dc07",70w/12460H/{PMT:5910}
-http://onlinetv24h1.dyndns.tv:9981/stream/channelid/847215723?ticket=E4F1D2E4939048DEAEE4561CB79D17A460D1CBA0&profile=pass
 #EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/pracanossa.jpg" tvg-id="bede9976ac9509eed29f9e0d78361e19",A Praca e Nossa 24 horas
 http://onlinetv24h1.dyndns.tv:9981/stream/channelid/1989795518?ticket=838D660384A53C92361644A5CEFBA9A9DDE25FA9&profile=pass
 #EXTINF:-1 logo="http://iptvclub.com.br/icones-canais-24/animaniacs.jpg" tvg-id="85f839c7c9fb9b72788aa911c585d18b",Animaniacs 24 horas
