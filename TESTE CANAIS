@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE5IDk6NTY6MjMgQU0maGFzaF92YWx1ZT1XR1lVQ1hCTi9PVnlpNU1OeVpnQTJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-id="1f8514145275f8afd6fb3d954b4f98a3",Globo HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE5IDk6NDc6NDMgQU0maGFzaF92YWx1ZT1KRUFaN3F5RjNraW9ZZ2wveDRiUTRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
