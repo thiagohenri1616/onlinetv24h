@@ -237,6 +237,8 @@ http://onlinetv24h1.dyndns.tv:9981/stream/channelid/1921114304?ticket=7B35126926
 http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1866214104?ticket=9A92F8A190CF02508560FB71E9BBD5BAAC44968F&profile=pass
 #EXTINF:-1 tvg-id="7b6645afec60c6747d0bda8791410337",Globo Inter TV Cabugi
 http://onlinetv24h3.dyndns.tv:9981/stream/channelid/793077371?ticket=8742B8BC71810A8381976390D07265E0859BDCBA&profile=pass
+#EXTINF:-1 tvg-id="11f25b0114ed55131391905ff888192f",Globo Inter TV Cabugi
+http://onlinetv24h1.dyndns.tv:9981/stream/channelid/22802961?ticket=DB27FC547CA1FDB91736E3FB377FACB1E6D9D1A9&profile=pass
 #EXTINF:-1 tvg-id="efd9767031cb668f1598ad1a7b376b76",Globo SP
 http://onlinetv24h1.dyndns.tv:9981/stream/channelid/1886837231?ticket=3284301621A5FC133D695EF39280C1C38B4E02D9&profile=pass
 #EXTINF:-1 tvg-id="f775c3fe1297164d8812db49ea75b59b",Globo SP
