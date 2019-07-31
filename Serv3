@@ -1,0 +1,222 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" group-title="",AMC HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/amc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" group-title="",A&E HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/aie.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" group-title="",AXN HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/axn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" group-title="",Animal Planet HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/animalplanet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" group-title="",Arte 1 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/arte1.m3u8
+########################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="BIS" group-title="",BIS
+https://roda1.azureedge.net/hls1/bis.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band HD" group-title="",Band HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/band.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" group-title="",Band SP HD
+https://roda1.azureedge.net/hls1/band.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band PR HD" group-title="",Band PR HD
+https://roda1.azureedge.net/hls1/band.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band News HD" group-title="",Band News HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/bandnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" group-title="",Band Sports HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/bandsports.m3u8
+##########################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" group-title="",Canal Sony HD
+https://roda1.azureedge.net/hls1/sony.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" group-title="",Cartoon Network HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/cartoon.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" group-title="",Cinemax HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/cinemax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" group-title="",Combate HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/combate.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" group-title="",Comedy Central HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/comedycentral.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" group-title="",Curta!
+https://roda1.azureedge.net/hls1/curta.m3u8
+###########################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" group-title="",Discovery Channel HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" group-title="",Discovery Turbo HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/discoveryturbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization HD" group-title="",Discovery Civilization HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/discoverycivilization.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" group-title="",Discovery Science HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/discoverysience.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" group-title="",Discovery Home & Health HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/discoveryhomeihealth.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" group-title="",Discovery World HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/discoveryworld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD group-title="",Disney XD HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/disneyxd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" group-title="",Disney Channel HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/disney.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" group-title="",Disney Junior HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/disneyjunior.m3u8
+############################################################################################################################
+ #EXTINF:-1 tvg-id="" tvg-name="E! HD" group-title="",E! HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/canale.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" group-title="",ESPN HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/espn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" group-title="",ESPN 2 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/espn2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" group-title="",ESPN Brasil HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/espnbrasil.m3u8
+#############################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="",FX HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/fx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD" group-title="",Fox Life HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/foxlife.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel HD" group-title="",Fox Channel HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/fox.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" group-title="",Fox Premium 1 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/foxpremium1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" group-title="",Fox Sports HD
+https://roda1.azureedge.net/hls1/foxsports1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" group-title="",Fox Sports 2 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/foxsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" group-title="",Food Network HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/foodnetwork.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" group-title="",Fish TV HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/fishtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futura" group-title="",Futura
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1935113221.m3u8
+##############################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="GNT" group-title="",GNT
+https://d1lud49pck8hpm.cloudfront.net/hls1/gnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" group-title="",Gloob HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/gloob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GloBo News HD" group-title="",Globo News HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/globonews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" group-title="",Globo Nordeste HD
+https://roda1.azureedge.net/hls1/bobonordeste.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" group-title="",Globo SP HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/bobosp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" group-title="",Globo RJ HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/boborj.m3u8
+###############################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" group-title="",HBO HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" group-title="",HBO 2 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/hbo2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" group-title="",HBO Family HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/hbofamily.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signatury HD" group-title="",HBO Signatury HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/hbosignature.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD" group-title="",History HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/history.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" group-title="",H2 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/history2.m3u8
+################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Investigação Discovery HD" group-title="",Investigação Discovery HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/investigacaodiscovery.m3u8
+################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" group-title="",Lifetime HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/lifetime.m3u8
+################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Max UP HD" group-title="",Max UP HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/maxup.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime HD" group-title="",MAX Prime HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/maxprime.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" group-title="",Megapix HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/megapix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" group-title="",MTV HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/mtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" group-title="",Music Box Brazil HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w937616127_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" group-title="",Multishow HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/multishow.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD" group-title="",Mais Globosat HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/maisbobosat.m3u8
+##################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" group-title="",Nickelodeon HD
+https://roda1.azureedge.net/hls1/nick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids HD" group-title="",Nat Geo Kids HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/natgeokids.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" group-title="",Nat Geo Wild HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/natgeowild.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" group-title="",National Geographic HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/natgeo.m3u8
+###################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD" group-title="",OFF HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/off.m3u8
+###################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" group-title="",Premiere Clubes HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/premiereclubes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" group-title="",Premiere 2 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/premiere2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" group-title="",Premiere 3 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/premiere3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" group-title="",Premiere 4 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/premiere4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" group-title="",Premiere 5 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/premiere5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" group-title="",Premiere 6 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/premiere6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" group-title="",Premiere 7 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/premiere7.m3u8
+######################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" group-title="",Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+######################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" group-title="",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1837220539_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP" group-title="",SBT SP
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1545194825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Recife HD" group-title="",SBT Recife HD
+https://evpp.mm.uol.com.br//ne10/ne10.smil/chunklist_w830981166_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Caruaru" group-title="",SBT Caruaru
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w66025422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Piaui" group-title="",SBT Piaui
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Maranhao" group-title="",SBT Maranhao
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w933382084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SportTV HD" group-title="",SporTV HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/sportv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SportTV 2 HD" group-title="",SporTV 2 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/sportv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SportTV 3 HD" group-title="",SporTV 3 HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/sportv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" group-title="",Space HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/space.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" group-title="",Studio Universal HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/studiouniversal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" group-title="",SyFy HD
+https://roda1.azureedge.net/hls1/syfy.m3u8
+###########################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD" group-title="",Record News HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/recordnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record SP" group-title="",Record SP
+https://fan.kastream.biz/edge/veraf545881aad2aaf1065ae7f0575ff841/chunks.m3u8?nimblesessionid=2648876&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE5IDEyOjA3OjM5IFBNJmhhc2hfdmFsdWU9aTdnT2Q3WElhaURVbU5sZW15S0NRdz09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! SP" group-title="",RedeTV! SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w1812058478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! RJ" group-title="",RedeTV! RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w466785015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! RS" group-title="",RedeTV! RS
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1284252445.m3u8
+##############################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" group-title="",Telecine Fun HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/telecinefun.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" group-title="",Telecine Pipoca HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/telecinepipoca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" group-title="",Telecine Premium HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/telecinepremium.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" group-title="",Telecine Touch HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/telecinetouch.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" group-title="",Telecine Cult HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/telecinecult.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="",TNT HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" group-title="",TNT Series HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/tntseries.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" group-title="",TLC
+https://d1lud49pck8hpm.cloudfront.net/hls1/tlc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura HD" group-title="",TV Cultura HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/tvcultura.m3u8
+###################################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" group-title="",Universal Channel
+https://d1lud49pck8hpm.cloudfront.net/hls1/universal.m3u8
+##################################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo HD" group-title="",ZooMoo HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/zoomoo.m3u8

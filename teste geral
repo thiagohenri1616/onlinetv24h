@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" tvg-id="319fa6cdf0a0f48a8323682e9b4e9b54",Fox Sports HD
-http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1302765361?ticket=19BE43FF152D695E530636F9100BBB42804AD99A&profile=pass
-#EXTINF:-1 tvg-id="d7f7f1d8c80d520c9556552c1b1e5535",Globo HD
-http://onlinetv24h3.dyndns.tv:9981/stream/channelid/1492252631?ticket=F2E2F23F1F5A08795847271F59C833D64927D490&profile=pass
