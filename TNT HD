@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="",TNT HD
+https://roda1.azureedge.net/hls1/tnt.m3u8
