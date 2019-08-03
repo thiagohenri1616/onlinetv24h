@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" group-title="",HBO HD
+https://roda1.azureedge.net/hls1/hbo.m3u8
