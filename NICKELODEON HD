@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" group-title="",Nickelodeon HD
+https://roda1.azureedge.net/hls1/nick.m3u8
