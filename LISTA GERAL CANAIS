@@ -46,7 +46,7 @@ http://18.231.10.197:9981/stream/channelid/1912697030?ticket=ABF8D19AAD6E7B44537
 #EXTINF:-1 tvg-id="a3836965e696e05fefc437f4159ad41b",Premiere Clubes HD
 http://18.229.124.83:9981/stream/channelid/1701413795?ticket=D7730C68198CB5E0BF55288DE17D982AF9035E54&profile=pass
 #EXTINF:-1,SporTV HD
-http://18.228.5.34:8080/sportv
+http://18.228.5.34:8080/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="cd24b4701b757e8afa1152ff282be94d",SporTV 2 HD
 http://18.229.123.13:9981/stream/channelid/1890854093?ticket=2D72D798AC6284FE5DB3ECCE512D665AF79E4271&profile=pass
 #EXTINF:-1 tvg-id="c065b23147fddda47b04bac18bf96199",Space HD
