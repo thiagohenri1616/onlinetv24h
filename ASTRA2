@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:-1,AMC
+http://192.168.1.12:443/play/a03f
+#EXTINF:-1,AXN
+http://192.168.1.12:443/play/a09u
+#EXTINF:-1,Arte 1
+http://192.168.1.12:443/play/a02p
+#EXTINF:-1,BIS
+http://192.168.1.12:443/play/a03v
+#EXTINF:-1,Baby TV
+http://192.168.1.12:443/play/a037
+#EXTINF:-1,Band News
+http://192.168.1.12:443/play/a05j
+#EXTINF:-1,Band Sports
+http://192.168.1.12:443/play/a09c
+#EXTINF:-1,Boa Vontade TV
+http://192.168.1.12:443/play/a02w
+#EXTINF:-1,CNN Espaæol
+http://192.168.1.12:443/play/a02o
+#EXTINF:-1,CNT
+http://192.168.1.12:443/play/a03c
+#EXTINF:-1,Canal Brasil
+http://192.168.1.12:443/play/a034
+#EXTINF:-1,Canal ComunitÆrio
+http://192.168.1.12:443/play/a04e
+#EXTINF:-1,Canal Sony
+http://192.168.1.12:443/play/a05b
+#EXTINF:-1,Canal do Boi
+http://192.168.1.12:443/play/a04h
+#EXTINF:-1,Cartoon Network
+http://192.168.1.12:443/play/a04a
+#EXTINF:-1,Discovery Channel
+http://192.168.1.12:443/play/a03b
+#EXTINF:-1,Discovery H&H
+http://192.168.1.12:443/play/a056
+#EXTINF:-1,Discovery Turbo
+http://192.168.1.12:443/play/a05e
+#EXTINF:-1,ESPN
+http://192.168.1.12:443/play/a02g
+#EXTINF:-1,ESPN Brasil
+http://192.168.1.12:443/play/a057
+#EXTINF:-1,ESPN2
+http://192.168.1.12:443/play/a03n
+#EXTINF:-1,FOX
+http://192.168.1.12:443/play/a048
+#EXTINF:-1,FX
+http://192.168.1.12:443/play/a05a
+#EXTINF:-1,Film & Arts
+http://192.168.1.12:443/play/a03x
+#EXTINF:-1,Food Network
+http://192.168.1.12:443/play/a02y
+#EXTINF:-1,Fox Life
+http://192.168.1.12:443/play/a03m
+#EXTINF:-1,Fox Sports 
+http://192.168.1.12:443/play/a047
+#EXTINF:-1,Fox Sports 2
+http://192.168.1.12:443/play/a02d
+#EXTINF:-1,Globo BrasŦlia
+http://192.168.1.12:443/play/a054
+#EXTINF:-1,Globo Minas
+http://192.168.1.12:443/play/a050
+#EXTINF:-1,Globo RJ
+http://192.168.1.12:443/play/a04z
+#EXTINF:-1,GloboNews
+http://192.168.1.12:443/play/a02f
+#EXTINF:-1,Gloob
+http://192.168.1.12:443/play/a038
+#EXTINF:-1,HBO
+http://192.168.1.12:443/play/a035
+#EXTINF:-1,HBO POP
+http://192.168.1.12:443/play/a09v
+#EXTINF:-1,HBO Signature
+http://192.168.1.12:443/play/a02l
+#EXTINF:-1,HBO+
+http://192.168.1.12:443/play/a03o
+#EXTINF:-1,HBO2
+http://192.168.1.12:443/play/a059
+#EXTINF:-1,History 2
+http://192.168.1.12:443/play/a05c
+#EXTINF:-1,ID - InvestigaĿªo Discovery
+http://192.168.1.12:443/play/a05h
+#EXTINF:-1,Ideal TV
+http://192.168.1.12:443/play/a04b
+#EXTINF:-1,Lifetime
+http://192.168.1.12:443/play/a03q
+#EXTINF:-1,MTV
+http://192.168.1.12:443/play/a03k
+#EXTINF:-1,Mais Globosat
+http://192.168.1.12:443/play/a03u
+#EXTINF:-1,Music Box Brazil
+http://192.168.1.12:443/play/a04c
+#EXTINF:-1,NatGeo Kids
+http://192.168.1.12:443/play/a05f
+#EXTINF:-1,National Geographic
+http://192.168.1.12:443/play/a05g
+#EXTINF:-1,Nickelodeon
+http://192.168.1.12:443/play/a05d
+#EXTINF:-1,OFF
+http://192.168.1.12:443/play/a031
+#EXTINF:-1,Pai Eterno
+http://192.168.1.12:443/play/a03s
+#EXTINF:-1,Paramount
+http://192.168.1.12:443/play/a030
+#EXTINF:-1,Playboy TV
+http://192.168.1.12:443/play/a042
+#EXTINF:-1,Pop Hits
+http://192.168.1.12:443/play/a04o
+#EXTINF:-1,Premiere 2
+http://192.168.1.12:443/play/a05l
+#EXTINF:-1,Premiere 5
+http://192.168.1.12:443/play/a02t
+#EXTINF:-1,Premiere 6
+http://192.168.1.12:443/play/a041
+#EXTINF:-1,Premiere 8
+http://192.168.1.12:443/play/a04j
+#EXTINF:-1,Premiere 9
+http://192.168.1.12:443/play/a03d
+#EXTINF:-1,Premiere Clubes
+http://192.168.1.12:443/play/a05m
+#EXTINF:-1,Prime Box Brazil
+http://192.168.1.12:443/play/a02k
+#EXTINF:-1,RBS TV Porto Alegre
+http://192.168.1.12:443/play/a05n
+#EXTINF:-1,RECORDTV
+http://192.168.1.12:443/play/a02q
+#EXTINF:-1,Record News
+http://192.168.1.12:443/play/a03a
+#EXTINF:-1,Rede Brasil
+http://192.168.1.12:443/play/a03t
+#EXTINF:-1,Rede Vida
+http://192.168.1.12:443/play/a02n
+#EXTINF:-1,SBT
+http://192.168.1.12:443/play/a05o
+#EXTINF:-1,Sextreme
+http://192.168.1.12:443/play/a03y
+#EXTINF:-1,Sexy Hot
+http://192.168.1.12:443/play/a043
+#EXTINF:-1,SporTV
+http://192.168.1.12:443/play/a02z
+#EXTINF:-1,SporTV 2
+http://192.168.1.12:443/play/a02e
+#EXTINF:-1,SporTV 2 Alternativo
+http://192.168.1.12:443/play/a03h
+#EXTINF:-1,TLC
+http://192.168.1.12:443/play/a05i
+#EXTINF:-1,TNT 
+http://192.168.1.12:443/play/a02h
+#EXTINF:-1,TNT Alternativo
+http://192.168.1.12:443/play/a03i
+#EXTINF:-1,TV Anhanguera GoiÐnia
+http://192.168.1.12:443/play/a051
+#EXTINF:-1,TV Brasil
+http://192.168.1.12:443/play/a03z
+#EXTINF:-1,TV Brasil 2
+http://192.168.1.12:443/play/a04k
+#EXTINF:-1,TV Cultura
+http://192.168.1.12:443/play/a02v
+#EXTINF:-1,TV CÐmara
+http://192.168.1.12:443/play/a05k
+#EXTINF:-1,TV Senado
+http://192.168.1.12:443/play/a03g
+#EXTINF:-1,TV Tem Bauru
+http://192.168.1.12:443/play/a053
+#EXTINF:-1,TV Tem Sorocaba
+http://192.168.1.12:443/play/a052
+#EXTINF:-1,TV Tem Sªo JosØ do Rio Preto
+http://192.168.1.12:443/play/a02u
+#EXTINF:-1,TV5 Monde
+http://192.168.1.12:443/play/a02s
+#EXTINF:-1,TVE
+http://192.168.1.12:443/play/a04d
+#EXTINF:-1,Telecine Action
+http://192.168.1.12:443/play/a049
+#EXTINF:-1,Telecine Cult
+http://192.168.1.12:443/play/a02i
+#EXTINF:-1,Telecine Fun
+http://192.168.1.12:443/play/a045
+#EXTINF:-1,Telecine Premium
+http://192.168.1.12:443/play/a032
+#EXTINF:-1,Telecine Touch
+http://192.168.1.12:443/play/a033
+#EXTINF:-1,Tooncast
+http://192.168.1.12:443/play/a039
+#EXTINF:-1,TruTV
+http://192.168.1.12:443/play/a036
+#EXTINF:-1,Universal TV
+http://192.168.1.12:443/play/a02r
+#EXTINF:-1,VH1 Megahits
+http://192.168.1.12:443/play/a03w
+#EXTINF:-1,Viva
+http://192.168.1.12:443/play/a03l
+#EXTINF:-1,Warner Channel
+http://192.168.1.12:443/play/a03r
+#EXTINF:-1,ZooMoo
+http://192.168.1.12:443/play/a03e
